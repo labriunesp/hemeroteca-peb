@@ -37,8 +37,7 @@ dependencies:
     - prompt-toolkit==3.0.20
     - ptyprocess==0.7.0
     - pygments==2.10.0
-    - requests==2.26.0
     - traitlets==5.1.0
     - urllib3==1.26.7
     - wcwidth==0.2.5
-prefix: /home/lantri_rafael/anaconda3/envs/env_hemeroteca-peb
+prefix: /home/lantri_thiagofernandes/.conda/envs/env_hemeroteca-peb
