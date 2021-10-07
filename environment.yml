@@ -1,0 +1,6 @@
+name: env_hemeroteca-peb
+channels:
+  - conda-forge
+dependencies:
+  - python
+prefix: /home/lantri_thiagofernandes/.conda/envs/env_hemeroteca-peb
