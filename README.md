@@ -3,6 +3,14 @@
 
 - [Informações sobre o projeto](https://apoio.labriunesp.org/docs/projetos/dados/hemeroteca-peb/intro)
 
+## Comandos para trabalhar no projeto
+
+```
+cd codigo/hemeroteca-peb
+code .
+git pull origin main && conda activate env_hemeroteca-peb
+git checkout ana-mota
+```
 
 ## Etapas
 
