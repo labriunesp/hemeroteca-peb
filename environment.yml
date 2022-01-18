@@ -4,9 +4,6 @@ channels:
   - defaults
 dependencies:
   - python
-  - pip
-  - pip:
-    - sh
-    - ocrmypdf
-    - pikepdf
+  - ocrmypdf
+  - pikepdf
 
