@@ -3,6 +3,13 @@
 
 - [Informações sobre o projeto](https://apoio.labriunesp.org/docs/projetos/dados/hemeroteca-peb/intro)
 
+|Informação | Link |
+|-----------|------|
+|Atividades realizadas| [Link](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/intro#atividades-realizadas)|
+|Próximas atividades| [Link](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/intro#proximas-atividades)|
+
+
+
 ## Comandos para trabalhar no projeto
 
 ```
