@@ -17,6 +17,7 @@ def diretorios():
     destino = f'{DIR_BD_FINAL}/pdf'
     return origem,destino
 
+
 def metadados():
     pass
 

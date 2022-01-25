@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python
+  - python-dotenv
   - ocrmypdf
   - pikepdf
 
