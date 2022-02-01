@@ -35,3 +35,6 @@ conda env update --prune
   - [ ] Verificar arquivos colocados nas seguintes páginas:
       - /media/hdvm07/bd/002/997/001/Antiga/hemeroteca-peb-metadados/arquivos-renomeados/pendencia/arquivos/ALOCAR01
       - /media/hdvm07/bd/002/997/001/Antiga/hemeroteca-peb-metadados/arquivos-renomeados/pendencia/arquivos/alocar02
+
+  - [ ] Pasta 02, 03 e 07 - Ana Mota
+  - [ ] Pasta 08 e 12 - Thiago
