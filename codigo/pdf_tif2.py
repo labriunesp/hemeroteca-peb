@@ -1,20 +1,33 @@
 import os
 import sys, subprocess
 
+def listar_pdfs():
+    origem = '/media/hdvm08/bd/002/997/001/tif/'
+    pdfs = []
+    for raiz,dirs,arqs in os.walk(origem):
+        for arq in arqs:
+            caminho_pdf = os.path.join(raiz, arq)
+            if 'pdf' in caminho_pdf:
+                pdfs.append(caminho_pdf)
+    return pdfs
+
+def pdf_para_tif(lista_de_pdf):
+    for pdf in sorted(lista_de_pdf):
+        arq_pdf = pdf[:-4]
+        arq = pdf[:-7]
+        lista_caminho = arq.split('/')[1:-2]
+        destino = '/' + '/'.join(lista_caminho)
+        arq_tif = arq.split('/')[-1]
+        #args = "'gs','-q','-dNOPAUSE','-r400','-sDEVICE=tiff24nc','-sOutputFile={arquivo}_page%04d.tif','{arquivo}.pdf','-c','quit'"
+        args = f"gs,-q,-dNOPAUSE,-r400,-sDEVICE=tiff24nc,-sOutputFile={destino}/{arq_tif}_page%04d.tif,{arq_pdf}.pdf,-c,quit"
+        converter = subprocess.call(args.split(','),stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+        print(f'{destino}/{arq_tif}')
 
 def main():
-    origem = '/media/hdvm08/bd/002/997/001/tif/'
-    lista_subdir = os.listdir(origem)
-    print(f'O diretório {origem} possui as seguintes pastas temáticas: {lista_subdir}')
-    lista_temas=[
-        '01-Brasil-Africa/',
-        '02-brasil-america_latina/',
-        '03-brasil-argentina/',
-        '04-brasil-asia/',
-        '07-brasil-eua/',
-        '08-brasil-europa/',
-        '12-brasil-politica_exterior/']
-    for tema in lista_temas:
+    lista_de_pdf = listar_pdfs()
+    pdf_tif = pdf_para_tif(lista_de_pdf)
+    
+    '''for tema in lista_temas:
         pasta_tematica = origem + tema
         for raiz,dirs,pdf in os.walk(pasta_tematica):
             if dirs: # somente lista as pastas temáticas com arquivos pdf.
@@ -25,7 +38,7 @@ def main():
                         lista_pdfs = os.listdir(caminho)
                         for pdf in lista_pdfs:
                             nome = caminho + pdf[:-7]
-                            print(nome)
+                            print(nome)'''
                             #args = "'gs','-q','-dNOPAUSE','-r400','-sDEVICE=tiff24nc','-sOutputFile={nome}_page%04d.tif','{nome}.pdf','-c','quit'"
                             #args = f"gs,-q,-dNOPAUSE,-r400,-sDEVICE=tiff24nc,-sOutputFile={nome}_page%04d.tif,{nome}.pdf,-c,quit"
                             #converter = subprocess.call(args.split(','),stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
