@@ -22,8 +22,7 @@ def pdf_para_tif(lista_de_pdf):
         args = f"gs,-q,-dNOPAUSE,-r400,-sDEVICE=tiff24nc,-sOutputFile={destino}/{arq_tif}_page%04d.tif,{arq_pdf}.pdf,-c,quit"
         converter = subprocess.call(args.split(','),stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
         print(f'{destino}/{arq_tif}')
-
-def main():
+c
     lista_de_pdf = listar_pdfs()
     pdf_tif = pdf_para_tif(lista_de_pdf)
     
