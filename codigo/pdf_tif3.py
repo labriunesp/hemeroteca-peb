@@ -4,16 +4,18 @@ import shutil
 def copiar_arq():
     origem = '/media/hdvm08/bd/002/997/001/tif/'
     destino1 = '/media/hdvm08/bd/002/997/001/tif/pdfs_nao_pesquisaveis/'
-    for raiz, dirs, arqs in os.walk(origem):  # replace the . with your starting directory
+    for raiz, dirs, arqs in os.walk(origem):  
         for dir in dirs:
             caminho_dir = os.path.join(raiz, dir)
+            print(caminho_dir)
             subpastas = caminho_dir.split('/')[8:]
-            destino2 = os.mkdir(destino1 + '/'.join(subpastas) + '/')
+            print(subpastas)
+            '''destino2 = os.mkdir(destino1 + '/'.join(subpastas) + '/')
         for arq in arqs:
             if "pdf" in arq:
                 caminho_pdfs = os.path.join(raiz,arq)
                 copia = shutil.copy2(caminho_pdfs,destino2)
-                print(sorted(copia))
+                print(sorted(copia))'''
 
 '''def listar_pdfs():
     origem = '/media/hdvm08/bd/002/997/001/tif/'

@@ -1,5 +1,6 @@
 import os
 import sys, subprocess
+import shutil
 
 def listar_pdfs():
     origem = '/media/hdvm08/bd/002/997/001/tif/'
@@ -22,25 +23,33 @@ def pdf_para_tif(lista_de_pdf):
         args = f"gs,-q,-dNOPAUSE,-r400,-sDEVICE=tiff24nc,-sOutputFile={destino}/{arq_tif}_page%04d.tif,{arq_pdf}.pdf,-c,quit"
         converter = subprocess.call(args.split(','),stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
         print(f'{destino}/{arq_tif}')
-c
-    lista_de_pdf = listar_pdfs()
-    pdf_tif = pdf_para_tif(lista_de_pdf)
-    
-    '''for tema in lista_temas:
-        pasta_tematica = origem + tema
-        for raiz,dirs,pdf in os.walk(pasta_tematica):
-            if dirs: # somente lista as pastas temáticas com arquivos pdf.
-                print(f'>> A pasta temática {tema.upper()} possui os seguintes arquivos pdf:')
-                for sub_dir in dirs:
-                    caminho = pasta_tematica + sub_dir + '/'
-                    if caminho[-2:] != 'p/': #evitar percorrer as cópias das pastas '_bkp/'
-                        lista_pdfs = os.listdir(caminho)
-                        for pdf in lista_pdfs:
-                            nome = caminho + pdf[:-7]
-                            print(nome)'''
-                            #args = "'gs','-q','-dNOPAUSE','-r400','-sDEVICE=tiff24nc','-sOutputFile={nome}_page%04d.tif','{nome}.pdf','-c','quit'"
-                            #args = f"gs,-q,-dNOPAUSE,-r400,-sDEVICE=tiff24nc,-sOutputFile={nome}_page%04d.tif,{nome}.pdf,-c,quit"
-                            #converter = subprocess.call(args.split(','),stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+
+def move_pdfs_sem_ocr():
+    origem = '/media/hdvm08/bd/002/997/001/tif'
+    destino = '/media/hdvm08/bd/002/997/001/tif/pdfs_nao_pesquisaveis'
+    temas = sorted(os.listdir(origem))[0:-1]
+    #print(temas)
+    lista_caminho_origem_pdf = []
+    for tema in temas:
+        lista_caminho_origem_pdf.append(f'{origem}/{tema}')
+    #print(lista_caminho_origem_pdf)
+    for caminho_origem_pdf, tema in sorted(zip(lista_caminho_origem_pdf, temas)):
+        for raiz, dirs, arqs in os.walk(caminho_origem_pdf):
+            #print(dirs)
+            for arq in arqs:
+                if "pdf" in arq:
+                    destino_tema = os.makedirs(f'{destino}/{tema}',exist_ok=True)
+                    copia_pdf = shutil.copy2(f'{raiz}/{arq}', f'{destino}/{tema}')
+                    print(copia_pdf)
+                    
+                    
+                    
+       
+
+def main():
+    #lista_de_pdf = listar_pdfs()
+    #pdf_tif = pdf_para_tif(lista_de_pdf)
+    mover_pdfs_sem_ocr = move_pdfs_sem_ocr()
 
 if __name__ == '__main__':
     main()
