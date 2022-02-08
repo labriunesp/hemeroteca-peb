@@ -16,7 +16,7 @@
 ```
 cd codigo/hemeroteca-peb
 code .
-git pull origin main && conda activate env_hemeroteca-peb
+git pull origin main && conda activate env_hemeroteca-peb && conda env update --prune
 git checkout ana-mota
 ```
 
@@ -45,3 +45,5 @@ conda env update --prune
   - [ ] Verificar arquivos colocados nas seguintes páginas:
       - /media/hdvm07/bd/002/997/001/Antiga/hemeroteca-peb-metadados/arquivos-renomeados/pendencia/arquivos/ALOCAR01
       - /media/hdvm07/bd/002/997/001/Antiga/hemeroteca-peb-metadados/arquivos-renomeados/pendencia/arquivos/alocar02
+  - [ ] Verificar questões de encode
+      - 2000-11-17-ESP-FHC_conversarÃ¡_com_Dela_RÃºa_e_Fidel_no_PanamÃ¡-ti (brasil america latina)
