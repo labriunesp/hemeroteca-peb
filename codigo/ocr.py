@@ -2,29 +2,27 @@ import ocrmypdf
 import os, shutil
 
 def fazer_ocr():
-    origem = '/media/hdvm08/bd/002/997/001/tif'
-    destino = '/media/hdvm08/bd/002/997/001/pdf'
-    #ocrmypdf.ocr (origem,destino,deskew=True)
-    temas = sorted(os.listdir(origem))[0:-1]
-    lista_caminho_origem_tif = []
-    for tema in temas:
-        lista_caminho_origem_tif.append(f'{origem}/{tema}')
-    for caminho_origem_tif, tema in sorted(zip(lista_caminho_origem_tif, temas)):
-        for raiz, dirs, arqs in os.walk(caminho_origem_tif):
-            for arq in arqs:
-                pass
-                #ocr = ocrmypdf.ocr(f'{raiz}/{arq}',f'{destino}/{tema}/{arq[:-4]}.pdf',deskew=True)
-                #destino_tema = os.makedirs(f'{destino}/{tema}', exist_ok=True)
-                #copia = shutil.copy2(f'{origem}/{tema},{destino}/{tema}')
-     #print(ocr)
-    exemplo_destino = '/media/hdvm08/bd/002/997/001/tif/pdfs_nao_pesquisaveis/thiago'
-    temas_destino = sorted(os.listdir(exemplo_destino))
-    print(temas_destino)
-    for raiz, dirs, arqs in os.walk(exemplo_destino):   
+    origem_raiz = '/media/hdvm08/bd/002/997/001/tif'
+    destino_raiz = '/media/hdvm08/bd/002/997/001/pdf'
+    #ocrmypdf.ocr(origem,destino,deskew=True)
+    for raiz, dirs, arqs in os.walk(origem_raiz):
         for arq in arqs:
-            print(arq)
+            if "tif" in arq:
+                #print(arq)
+                origem_caminho_tif = os.path.join(raiz, arq)
+                if "01-brasil-africa" or "02-brasil-america_latina" or "03-brasil-argentina" or '04-brasil-asia' or '05-brasil-dialogo_subnacional' or '06-brasil-economia_internacional' in origem_caminho_tif:
+                    print(origem_caminho_tif)
+                    destino_caminho_pdf = origem_caminho_tif.replace('/tif/', '/pdf/').replace('.tif','.pdf')
+                    print(destino_caminho_pdf)
+                    tmp_destino_caminho_pdf = destino_caminho_pdf.split('/')[1:-1]
+                    print(tmp_destino_caminho_pdf)
+                    destino_caminho_temas = '/'+'/'.join(tmp_destino_caminho_pdf)+'/'
+                    print(destino_caminho_temas)
+                    cria_destino_tema = os.makedirs(destino_caminho_temas, exist_ok=True)
+                    ocrmypdf.ocr(origem_caminho_tif,destino_caminho_pdf, deskew=True)
+
     
-            
+                
 def criar_arquivos():
     origem = '/media/hdvm08/bd/002/997/001/tif/thiago'
     for arquivo in range(1,6):
@@ -36,7 +34,7 @@ def criar_arquivos():
         #print(mover_arquivo)
 
 def main():
-    orc = fazer_ocr()
+    ocr = fazer_ocr()
 
 if __name__=='__main__':
     main()
