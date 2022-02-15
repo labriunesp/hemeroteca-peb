@@ -61,9 +61,5 @@ conda env update --prune
       - /media/hdvm07/bd/002/997/001/Antiga/hemeroteca-peb-metadados/arquivos-renomeados/pendencia/arquivos/ALOCAR01
       - /media/hdvm07/bd/002/997/001/Antiga/hemeroteca-peb-metadados/arquivos-renomeados/pendencia/arquivos/alocar02
 
-<<<<<<< HEAD
   - [ ] Pasta 02, 03 e 07 - Ana Mota
   - [ ] Pasta 08 e 12 - Thiago
-=======
-- [ ] aprendizado de máquina
->>>>>>> 70719eb006f2b7eb0139bc8e86d6f29052005ba7
