@@ -1,5 +1,9 @@
+from unittest.mock import CallableMixin
 import ocrmypdf
 import os
+from pathlib import Path
+from filecmp import cmp
+import re
 from tinydb import TinyDB,Query
 
 def origem_tif():
@@ -7,11 +11,16 @@ def origem_tif():
     destino_raiz = '/media/hdvm08/bd/002/997/001/pdf'
     #ocrmypdf.ocr(origem,destino,deskew=True)
     for raiz, dirs, arqs in os.walk(origem_raiz):
-        for arq in arqs:
+        for arq in sorted(arqs):
             if "tif" in arq:
-                #print(arq)
                 origem_caminho_tif = os.path.join(raiz, arq)
-                inserir_bd(origem_caminho_tif)
+                if 'page' in arq:
+                    nome_arquivo = [x for x in arqs if ('page' in arq) and x.startswith(arq[:-12])]
+                else:
+                    nome_arquivo = [arq]
+                print(nome_arquivo, len(nome_arquivo))
+                print(origem_caminho_tif)
+                inserir_bd(origem_caminho_tif, nome_arquivo)
 
 def fazer_ocr(origem_caminho_tif):
     if "06-brasil-economia_internacional" in origem_caminho_tif: 
@@ -32,25 +41,28 @@ def fazer_ocr(origem_caminho_tif):
     #print(f'## Arquivos com erro: {listar_arqs_com_erro}')
 
                 
-def inserir_bd(origem_caminho_tif):
+def inserir_bd(origem_caminho_tif, nome_arquivo):
     print(origem_caminho_tif)
     lista_caminho = origem_caminho_tif.split('/')
-    nome_arquivo = lista_caminho[-1].split('-')
-    print(nome_arquivo)
+    lista_nome_arquivo = lista_caminho[-1].split('-')   
+    print(f'lista_nome_arquivo: {lista_nome_arquivo}')
     tema = lista_caminho[-2]
     try:
-        data = f'{nome_arquivo[2]}/{nome_arquivo[1]}/{nome_arquivo[0]}'
+        data = f'{lista_nome_arquivo[2]}/{lista_nome_arquivo[1]}/{lista_nome_arquivo[0]}'
     except:
         data = 'NA' 
     try:
-        if nome_arquivo[3] == '':
+        if lista_nome_arquivo[3] == '':
             nome_jornal = 'NA'
         else:
-            nome_jornal = nome_arquivo[3]
+            nome_jornal = lista_nome_arquivo[3]
     except:
         nome_jornal = 'NA'
     try:
-        titulo_noticia = '-'.join(nome_arquivo[4:])
+        titulo_noticia = lista_nome_arquivo[4][0:-4].replace('_', " ").replace("  "," ").replace('(1)',"")
+        titulo_noticia = re.sub('([a-z,A-Z])', lambda x: x.groups()[0].upper(),titulo_noticia,1).strip()
+        if 'page0' in titulo_noticia:
+            titulo_noticia = titulo_noticia[:-8].strip()
     except:
         titulo_noticia = 'NA'
     print(f'Data: {data}') 
@@ -66,7 +78,9 @@ def inserir_bd(origem_caminho_tif):
             'data':data,
             'jornal':nome_jornal,
             'titulo_noticia':titulo_noticia,
-            'nome_arquivo': lista_caminho[-1]
+            'nome_arquivo': nome_arquivo,
+            'quant_pages': len(nome_arquivo),
+            'dir_arquivo': origem_caminho_tif
         })
         #fazer_ocr(origem_caminho_tif)
     else:

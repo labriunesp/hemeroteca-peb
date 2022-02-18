@@ -47,8 +47,7 @@ conda config --set pip_interop_enabled True
 conda config --set env_prompt '({name})'
 conda config --add envs_dirs ./env
 touch environment.yml && conda env create -f environment.yml
-git pull origin main && conda activate env_hemeroteca-peb
-conda env update --prune
+git pull origin main && conda activate env_hemeroteca-peb && conda env update --prune
 
 
 ```
