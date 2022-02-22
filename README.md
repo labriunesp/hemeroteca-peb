@@ -7,32 +7,7 @@
 |Atividades realizadas| [Link](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/intro#atividades-realizadas)|
 |Próximas atividades| [Link](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/intro#proximas-atividades)|
 
-<<<<<<< HEAD
 - Diretório com os dados da Hemeroteca /media/hdvm07/bd/002/997/001
-=======
-```
-conda config --set pip_interop_enabled True
-conda config --set env_prompt '({name})'
-conda config --add envs_dirs ./env
-touch environment.yml && conda env create -f environment.yml
-git pull origin main && conda activate env_hemeroteca-peb
-conda env update --prune
-```
-
-## Etapas
-
-- [x] Acesso a estação remota de trabalho
-
-- [x] Terminal e Comando Básicos Linux
-
-- [x] Editor de códio (VsCode)
-
-- [x] Versionamento (Git/GitLab)
-
-- [x] Ambiente Virtual (anaconda)
-
-- [x] Fundamentos de Programação (Python)
->>>>>>> 70719eb006f2b7eb0139bc8e86d6f29052005ba7
 
 ## Comandos para trabalhar no projeto
 ```
