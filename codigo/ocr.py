@@ -15,7 +15,7 @@ def origem_tif():
             if "tif" in arq:
                 origem_caminho_tif = os.path.join(raiz, arq)
                 if 'page' in arq:
-                    nome_arquivo = [x for x in arqs if ('page' in arq) and x.startswith(arq[:-12])]
+                    nome_arquivo = [x for x in arqs if ('page' in arq) and x.startswith(arq[:-12])] #comprensão de lista
                 else:
                     nome_arquivo = [arq]
                 print(nome_arquivo, len(nome_arquivo))
