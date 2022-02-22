@@ -1,8 +1,5 @@
-from unittest.mock import CallableMixin
 import ocrmypdf
 import os
-from pathlib import Path
-from filecmp import cmp
 import re
 from tinydb import TinyDB,Query
 
@@ -15,12 +12,12 @@ def origem_tif():
             if "tif" in arq:
                 origem_caminho_tif = os.path.join(raiz, arq)
                 if 'page' in arq:
-                    nome_arquivo = [x for x in arqs if ('page' in arq) and x.startswith(arq[:-12])] #comprensão de lista
+                    nome_arquivo_tif = [x for x in arqs if ('page' in arq) and x.startswith(arq[:-12])] #comprensão de lista
                 else:
-                    nome_arquivo = [arq]
-                print(nome_arquivo, len(nome_arquivo))
+                    nome_arquivo_tif = [arq]
+                print(nome_arquivo_tif, len(nome_arquivo_tif))
                 print(origem_caminho_tif)
-                inserir_bd(origem_caminho_tif, nome_arquivo)
+                inserir_bd(origem_caminho_tif, nome_arquivo_tif)
 
 def fazer_ocr(origem_caminho_tif):
     if "06-brasil-economia_internacional" in origem_caminho_tif: 
@@ -41,7 +38,8 @@ def fazer_ocr(origem_caminho_tif):
     #print(f'## Arquivos com erro: {listar_arqs_com_erro}')
 
                 
-def inserir_bd(origem_caminho_tif, nome_arquivo):
+def inserir_bd(origem_caminho_tif, nome_arquivo_tif, nome_arquivo_pdf = "NA", verifica_ocr = "NA"):
+    codigo_bd = '/002/997/001'
     print(origem_caminho_tif)
     lista_caminho = origem_caminho_tif.split('/')
     lista_nome_arquivo = lista_caminho[-1].split('-')   
@@ -52,12 +50,25 @@ def inserir_bd(origem_caminho_tif, nome_arquivo):
     except:
         data = 'NA' 
     try:
-        if lista_nome_arquivo[3] == '':
-            nome_jornal = 'NA'
+        if lista_nome_arquivo [3] == '':
+            sigla_jornal = 'NA'
         else:
-            nome_jornal = lista_nome_arquivo[3]
+            sigla_jornal = lista_nome_arquivo[3]
     except:
-        nome_jornal = 'NA'
+        sigla_jornal = 'NA'
+    try:
+        if sigla_jornal == "NA":
+            nome_jornal = "NA"
+        elif sigla_jornal == "ESP":
+            nome_jornal = "O Estado de S. Paulo"
+        elif sigla_jornal == "FSP":
+            nome_jornal = "Folha de S. Paulo"
+        elif (sigla_jornal == "GM") or (sigla_jornal == "GZM"):
+            nome_jornal = "Gazeta Mercantil"
+        else:
+            nome_jornal = "Não encontrado"
+    except:
+        nome_jornal = "NA"
     try:
         titulo_noticia = lista_nome_arquivo[4][0:-4].replace('_', " ").replace("  "," ").replace('(1)',"")
         titulo_noticia = re.sub('([a-z,A-Z])', lambda x: x.groups()[0].upper(),titulo_noticia,1).strip()
@@ -66,9 +77,10 @@ def inserir_bd(origem_caminho_tif, nome_arquivo):
     except:
         titulo_noticia = 'NA'
     print(f'Data: {data}') 
-    print(f'Nome jornal: {nome_jornal}')
+    print(f'Nome jornal: {sigla_jornal}')
     print(f'Título: {titulo_noticia}')
-    db = TinyDB('teste.json', indent = 4, ensure_ascii=False)
+    dir_bd = 'teste.json'
+    db = TinyDB(dir_bd, indent = 4, ensure_ascii=False)
     buscar = Query()
     verifica_db = db.contains((buscar.titulo_noticia==titulo_noticia)&(buscar.data==data))
     if not verifica_db:
@@ -77,10 +89,15 @@ def inserir_bd(origem_caminho_tif, nome_arquivo):
             'tema':tema,
             'data':data,
             'jornal':nome_jornal,
+            'jornal_sigla': sigla_jornal,
             'titulo_noticia':titulo_noticia,
-            'nome_arquivo': nome_arquivo,
-            'quant_pages': len(nome_arquivo),
-            'dir_arquivo': origem_caminho_tif
+            'nome_arquivo_tif': nome_arquivo_tif,
+            'nome_arquivo-pdf': nome_arquivo_pdf,
+            'quant_pages': len(nome_arquivo_tif),
+            'verifica_ocr': verifica_ocr,
+            'dir_bd': dir_bd,
+            'dir_arquivo': origem_caminho_tif,
+            'codigo_bd': codigo_bd,
         })
         #fazer_ocr(origem_caminho_tif)
     else:
