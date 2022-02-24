@@ -31,15 +31,12 @@ def fazer_ocr():
             print(f'A pasta {raiz} possui subpastas')
             for sub_dir in dirs:
                 print(sub_dir)
-<<<<<<< HEAD
         if not files:
             print(f"A subpasta {sub_dir} não possui arquivos.")
         else:
             print(f'A subpasta {sub_dir} possui arquivos.')
             for file in files:
                 print(file)
-=======
->>>>>>> ana-mota
         #for file in files:
             #print(file)
             #print(f'{file[:-4]}.pdf')
@@ -52,8 +49,4 @@ def main():
     #diretorios()
 
 if __name__ == '__main__':
-<<<<<<< HEAD
     main()
-=======
-    main()
->>>>>>> ana-mota

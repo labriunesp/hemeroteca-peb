@@ -8,4 +8,11 @@ dependencies:
   - tinydb
   - ocrmypdf
   - pikepdf
+  - pandas
+  - numpy
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - plotly
+  
 
