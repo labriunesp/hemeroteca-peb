@@ -5,6 +5,12 @@ import pandas as pd
 import json 
 from pandas import json_normalize
 
+# https://dev.to/bowmanjd/character-encodings-and-detection-with-python-chardet-and-cchardet-4hj7
+# https://archive.is/ESefi
+# https://archive.is/pFvWS
+# https://www.kaggle.com/rtatman/automatically-detecting-character-encodings
+# https://towardsdatascience.com/a-guide-to-unicode-utf-8-and-strings-in-python-757a232db95c
+
 def visualiza_dados ():
     df = pd.read_json('teste.json', orient='columns')
     df = pd.json_normalize(df['_default'])
@@ -27,20 +33,16 @@ def visualiza_dados ():
 
 def ajustar_nome():
     arquivos = ['2002-03-26GM-UE_sobretaxa_ao_aÃ§o_entre_14-9_a_26%' , '2002-03-26GM-UE_sobretaxa' ]
-    arquivo = b"2002-03-26GM-UE_sobretaxa"
     for arquivo in arquivos:
-        try:
-            arquivo = bytes(arquivo)
-            print(arquivo)
-            descobrir = chardet.detect(arquivo)
-            print(descobrir)
-        except TypeError as erro:
-            print(erro)
-    
-    descobrir = chardet.detect(arquivo)
-    print(descobrir)
-    #teste = arquivo.encode('iso-8859-1').decode('utf-8')
-    #print(teste)
+    arquivo = arquivo
+    print(arquivo)
+    try:
+        descobrir = chardet.detect(arquivo.encode("ascii"))
+        print(descobrir)
+    except UnicodeEncodeError as e:
+        print(e)
+        arquivo = arquivo.encode('iso-8859-1').decode('utf-8')
+        print(arquivo)
     
 
 def main():
