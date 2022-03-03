@@ -5,7 +5,7 @@ import pandas as pd
 import json 
 from pandas import json_normalize
 
-# https://dev.to/bowmanjd/character-encodings-and-detection-with-python-chardet-and-cchardet-4hj7
+# https://archive.is/Jt493
 # https://archive.is/ESefi
 # https://archive.is/pFvWS
 # https://www.kaggle.com/rtatman/automatically-detecting-character-encodings
