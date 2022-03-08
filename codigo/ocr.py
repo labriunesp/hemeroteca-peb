@@ -2,6 +2,8 @@ import ocrmypdf
 import os
 import re
 from tinydb import TinyDB,Query
+from normalizar_encode import normaliza_encode
+
 
 def origem_tif():
     origem_raiz = '/media/hdvm08/bd/002/997/001/tif'
@@ -15,8 +17,9 @@ def origem_tif():
                     nome_arquivo_tif = [x for x in arqs if ('page' in arq) and x.startswith(arq[:-12])] #comprensão de lista
                 else:
                     nome_arquivo_tif = [arq]
-                print(nome_arquivo_tif, len(nome_arquivo_tif))
-                print(origem_caminho_tif)
+                #print(nome_arquivo_tif, len(nome_arquivo_tif))
+                #print(origem_caminho_tif)
+                #tif_normalizado = normaliza_encode(origem_caminho_tif)
                 inserir_bd(origem_caminho_tif, nome_arquivo_tif)
 
 def fazer_ocr(origem_caminho_tif):
@@ -66,7 +69,7 @@ def inserir_bd(origem_caminho_tif, nome_arquivo_tif, nome_arquivo_pdf = "NA", ve
         elif (sigla_jornal == "GM") or (sigla_jornal == "GZM"):
             nome_jornal = "Gazeta Mercantil"
         else:
-            nome_jornal = "Não encontrado"
+            nome_jornal = "NA"
     except:
         nome_jornal = "NA"
     try:
@@ -79,7 +82,7 @@ def inserir_bd(origem_caminho_tif, nome_arquivo_tif, nome_arquivo_pdf = "NA", ve
     print(f'Data: {data}') 
     print(f'Nome jornal: {sigla_jornal}')
     print(f'Título: {titulo_noticia}')
-    dir_bd = 'teste.json'
+    dir_bd = 'teste3.json'
     db = TinyDB(dir_bd, indent = 4, ensure_ascii=False)
     buscar = Query()
     verifica_db = db.contains((buscar.titulo_noticia==titulo_noticia)&(buscar.data==data))

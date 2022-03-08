@@ -1,9 +1,7 @@
 #import io
 #from google.colab import files
-import chardet
 import pandas as pd
 import json 
-from pandas import json_normalize
 
 # https://archive.is/Jt493
 # https://archive.is/ESefi
@@ -12,7 +10,7 @@ from pandas import json_normalize
 # https://towardsdatascience.com/a-guide-to-unicode-utf-8-and-strings-in-python-757a232db95c
 
 def visualiza_dados ():
-    df = pd.read_json('teste.json', orient='columns')
+    df = pd.read_json('teste3.json', orient='columns')
     df = pd.json_normalize(df['_default'])
     #print(df)
     '''print(df.shape)
@@ -31,22 +29,10 @@ def visualiza_dados ():
     titulo_ruim = df.loc[df['titulo_noticia'].str.contains('NA')]
     print(titulo_ruim['titulo_noticia'])
 
-def ajustar_nome():
-    arquivos = ['2002-03-26GM-UE_sobretaxa_ao_aÃ§o_entre_14-9_a_26%' , '2002-03-26GM-UE_sobretaxa' ]
-    for arquivo in arquivos:
-    arquivo = arquivo
-    print(arquivo)
-    try:
-        descobrir = chardet.detect(arquivo.encode("ascii"))
-        print(descobrir)
-    except UnicodeEncodeError as e:
-        print(e)
-        arquivo = arquivo.encode('iso-8859-1').decode('utf-8')
-        print(arquivo)
-    
+
 
 def main():
-    #visualiza_dados()
-    ajustar_nome()
+    visualiza_dados()
+    
 if __name__ == '__main__':
     main()
