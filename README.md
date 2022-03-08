@@ -9,6 +9,22 @@
 
 - Diretório com os dados da Hemeroteca /media/hdvm07/bd/002/997/001
 
+## Metadados
+
+|Informação | Tipo |
+|-----------|------|
+|Data | `str`|
+|Sigla jornal | `str`|
+|Nome Jornal| `str`|
+|Título notícia | `str`|
+|Nome arquivo tif | `list`|
+|Nome arquivo pdf | `list`|
+|Número de páginas | `int`|
+|Tema | `list`
+|Verifica OCR | `bool`|
+|Diretório base | `str`|
+|Diretório arquivo |`str`|
+|Código base | `str`|
 ## Comandos para trabalhar no projeto
 ```
 cd codigo/hemeroteca-peb
