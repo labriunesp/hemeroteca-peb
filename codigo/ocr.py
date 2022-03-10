@@ -82,7 +82,7 @@ def inserir_bd(origem_caminho_tif, nome_arquivo_tif, nome_arquivo_pdf = "NA", ve
     print(f'Data: {data}') 
     print(f'Nome jornal: {sigla_jornal}')
     print(f'Título: {titulo_noticia}')
-    dir_bd = 'teste3.json'
+    dir_bd = 'teste5.json'
     db = TinyDB(dir_bd, indent = 4, ensure_ascii=False)
     buscar = Query()
     verifica_db = db.contains((buscar.titulo_noticia==titulo_noticia)&(buscar.data==data))
