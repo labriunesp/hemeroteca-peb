@@ -53,3 +53,16 @@ git pull origin main && conda activate env_hemeroteca-peb && conda env update --
 
   - [ ] Pasta 02, 03 e 07 - Ana Mota
   - [ ] Pasta 08 e 12 - Thiago
+
+
+
+# Comentário Ana
+```
+[20:01, 09/03/2022] Ana Julia: 10/03/2022 – Visualização dos erros presentes no json3
+Data: Como algumas datas não foram declaradas, pensei em usar o datatime, como é um módulo que permite formatar datas acho que poderia ser uma ideia. Mas, não sei se seria possível renomear essas datas através disso ou se ele apenas formata datas do dia atual.
+Sigla e Nome do jornal: Pensei em usar o rename, mas citar as colunas que estão tendo problema. Pelo fato de ser muitas colunas não sei se seria uma boa ideia usar esse método. 
+dir_arquivo: Alguns problemas que estão dando depois da última barra (acredito que por algumas datas estarem com problemas) é de que algumas datas não estão sendo “printadas”.
+
+[20:02, 09/03/2022] Ana Julia: Não sei se era exatamente isso que vc queria, mas tentei colocar algumas ideias no "papel".
+
+```
