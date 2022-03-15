@@ -1,3 +1,4 @@
+from locale import normalize
 import ocrmypdf
 import os
 import re
@@ -45,7 +46,9 @@ def inserir_bd(origem_caminho_tif, nome_arquivo_tif, nome_arquivo_pdf = "NA", ve
     codigo_bd = '/002/997/001'
     print(origem_caminho_tif)
     lista_caminho = origem_caminho_tif.split('/')
-    lista_nome_arquivo = lista_caminho[-1].split('-')   
+    normalizar = lista_caminho[-1].replace("_","-")
+    lista_nome_arquivo = normalizar.split('-') 
+    #[2010,12,29,ESP,WikiLeaks_põe_Brasil_na_rota_da_droga.tif]
     print(f'lista_nome_arquivo: {lista_nome_arquivo}')
     tema = lista_caminho[-2]
     try:
@@ -73,6 +76,7 @@ def inserir_bd(origem_caminho_tif, nome_arquivo_tif, nome_arquivo_pdf = "NA", ve
     except:
         nome_jornal = "NA"
     try:
+        titulo_noticia = " ".join(lista_nome_arquivo[4:])
         titulo_noticia = lista_nome_arquivo[4][0:-4].replace('_', " ").replace("  "," ").replace('(1)',"")
         titulo_noticia = re.sub('([a-z,A-Z])', lambda x: x.groups()[0].upper(),titulo_noticia,1).strip()
         if 'page0' in titulo_noticia:
@@ -82,8 +86,8 @@ def inserir_bd(origem_caminho_tif, nome_arquivo_tif, nome_arquivo_pdf = "NA", ve
     print(f'Data: {data}') 
     print(f'Nome jornal: {sigla_jornal}')
     print(f'Título: {titulo_noticia}')
-    dir_bd = 'teste5.json'
-    db = TinyDB(dir_bd, indent = 4, ensure_ascii=False)
+    dir_bd = '/media/hdvm08/bd/002/997/001/json'
+    db = TinyDB(f'{dir_bd}/teste6.json', indent = 4, ensure_ascii=False)
     buscar = Query()
     verifica_db = db.contains((buscar.titulo_noticia==titulo_noticia)&(buscar.data==data))
     if not verifica_db:
@@ -98,6 +102,8 @@ def inserir_bd(origem_caminho_tif, nome_arquivo_tif, nome_arquivo_pdf = "NA", ve
             'nome_arquivo-pdf': nome_arquivo_pdf,
             'quant_pages': len(nome_arquivo_tif),
             'verifica_ocr': verifica_ocr,
+            'paragrafos': "NA",
+            'autoria': "NA",
             'dir_bd': dir_bd,
             'dir_arquivo': origem_caminho_tif,
             'codigo_bd': codigo_bd,
