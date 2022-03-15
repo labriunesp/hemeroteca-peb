@@ -3,6 +3,10 @@ def normalizar_sigla():
     normalizar = teste.replace("_", "-")
     lista = normalizar.split("-")
     print(lista)
+    lista = lista[4:]
+    print(lista)
+    lista = " ".join(lista)
+    print(lista)
 
 def main():
     normalizar_sigla()

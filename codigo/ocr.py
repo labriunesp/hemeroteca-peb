@@ -76,8 +76,9 @@ def inserir_bd(origem_caminho_tif, nome_arquivo_tif, nome_arquivo_pdf = "NA", ve
     except:
         nome_jornal = "NA"
     try:
-        titulo_noticia = " ".join(lista_nome_arquivo[4:])
-        titulo_noticia = lista_nome_arquivo[4][0:-4].replace('_', " ").replace("  "," ").replace('(1)',"")
+        titulo_noticia = lista_nome_arquivo[4:]
+        titulo_noticia = " ".join(titulo_noticia)
+        titulo_noticia = titulo_noticia[0:-4].replace('_', " ").replace("  "," ").replace('(1)',"")
         titulo_noticia = re.sub('([a-z,A-Z])', lambda x: x.groups()[0].upper(),titulo_noticia,1).strip()
         if 'page0' in titulo_noticia:
             titulo_noticia = titulo_noticia[:-8].strip()
