@@ -9,6 +9,12 @@
 
 - Diretório com os dados da Hemeroteca /media/hdvm07/bd/002/997/001
 
+## Próximos passos
+
+ - Titulo_noticia: 
+ - Data
+ 
+
 ## Metadados
 
 |Informação | Tipo |
@@ -25,6 +31,21 @@
 |Diretório base | `str`|
 |Diretório arquivo |`str`|
 |Código base | `str`|
+
+
+## Metadados bons
+
+|entrada | problema |exemplo|quantidade|
+|-----------|------|------|---------|
+|titulo|vazio|`/media/hdvm08/bd/002/997/001/tif/07-brasil-eua/2007-03-10--.tif`|9|
+|titulo | page |`/media/hdvm08/bd/002/997/001/tif/02-brasil-america_latina/1996-02-05_ESP_page0001.tif`|41|
+| |  |
+
+## Metadados ruins
+
+|entrada | problema |exemplo|quantidade|
+|-----------|------|------|---------|
+
 ## Comandos para trabalhar no projeto
 ```
 cd codigo/hemeroteca-peb
