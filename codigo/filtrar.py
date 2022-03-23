@@ -15,6 +15,11 @@ def separar_metadados():
             inserir_bd(noticia,False)
 
 def inserir_bd(noticia , metadados):
+    try:
+        noticia['titulo_noticia'].replace("-_", "-")
+        noticia['jornal_sigla'] = noticia['titulo_noticia'[3]]
+    except:
+        noticia['jornal_sigla'] == "NA"
     dir_bd = '/media/hdvm08/bd/002/997/001/json'
     if metadados == True:
         json = "metadados_bons.json"
