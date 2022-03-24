@@ -7,19 +7,21 @@ def separar_metadados():
     #[0-3][0-9]/[0-1][0-9]/[1-2][0-9][0-9][0-9]
     db = TinyDB('/media/hdvm08/bd/002/997/001/json/teste6.json')
     regex = datetime.datetime.strptime
-    for noticia in db:
+    for index, noticia in enumerate(db, start=1):
         try:
             assert regex(noticia['data'], '%d/%m/%Y')
             inserir_bd(noticia,True)
         except ValueError:
             inserir_bd(noticia,False)
+        print(index, noticia)
+        
 
 def inserir_bd(noticia , metadados):
-    try:
-        noticia['titulo_noticia'].replace("-_", "-")
-        noticia['jornal_sigla'] = noticia['titulo_noticia'[3]]
-    except:
-        noticia['jornal_sigla'] == "NA"
+    # try:
+    #     noticia['titulo_noticia'].replace("-_", "-")
+    #     noticia['jornal_sigla'] = noticia['titulo_noticia'[3]]
+    # except:
+    #     noticia['jornal_sigla'] == "NA"
     dir_bd = '/media/hdvm08/bd/002/997/001/json'
     if metadados == True:
         json = "metadados_bons.json"
@@ -57,7 +59,7 @@ def inserir_bd(noticia , metadados):
 
 def main():
     separar_metadados()
-    i
+    
 
 if __name__ == '__main__':
     main()
