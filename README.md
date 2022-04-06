@@ -9,10 +9,11 @@
 
 - Diretório com os dados da Hemeroteca /media/hdvm07/bd/002/997/001
 
-## Próximos passos
+## Tarefas
 
- - Titulo_noticia: 
- - Data
+ - deslocar siglas para nomes dos jornais (metadados_bons) - Thiago
+ - verificar silgas "NA" (metadados_bons) - Thiago
+ - verificar as datas (metadados_ruins)
  
 
 ## Metadados
@@ -39,7 +40,12 @@
 |-----------|------|------|---------|
 |titulo|vazio|`/media/hdvm08/bd/002/997/001/tif/07-brasil-eua/2007-03-10--.tif`|9|
 |titulo | page |`/media/hdvm08/bd/002/997/001/tif/02-brasil-america_latina/1996-02-05_ESP_page0001.tif`|41|
-| |  |
+|titulo|sigla jornal no titulo| `/media/hdvm08/bd/002/997/001/tif/02-brasil-america_latina/1997-05-16_B_FSP.tif` | 191 |
+|sigla jornal|titulo inteiro ou primeira palavra no campo da sigla| `/media/hdvm08/bd/002/997/001/tif/12-brasil-politica_exterior/1993-12-14-Acordo_no_GATT_reduzira_a_pressao_inflacionaria.tif` | 70+ |
+|sigla jornal|"1" ou "0000" no lugar da sigla|`/media/hdvm08/bd/002/997/001/tif/06-brasil-economia_internacional/2004-08-04-0000-OMC_pode_facilitar_negociação_com_UE.tif`|7|
+|titulo noticia|campos vazios, mesmo que o campo de siglas esteja preenchido|casos em que a sigla é JB, JT, JC, OESP, valor, etc| `/media/hdvm08/bd/002/997/001/tif/03-brasil-argentina/2000-08-03-Valor-Impasse_breca_acordo_automotivo_do_Mercosul.tif` | 340+ |
+|titulo|numero|"1" ou "2" ou "0000"| `/media/hdvm08/bd/002/997/001/tif/12-brasil-politica_exterior/0000-03-01--1.tif` | 13 |
+
 
 ## Metadados ruins
 
