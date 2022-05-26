@@ -38,13 +38,21 @@
 
 |entrada | problema |exemplo|quantidade|
 |-----------|------|------|---------|
-|titulo|vazio|`/media/hdvm08/bd/002/997/001/tif/07-brasil-eua/2007-03-10--.tif`|9|
+|titulo|vazio|`/media/hdvm08/bd/002/997/001/tif/07-brasil-eua/2007-03-10--.tif`|25|
 |titulo | page |`/media/hdvm08/bd/002/997/001/tif/02-brasil-america_latina/1996-02-05_ESP_page0001.tif`|41|
 |titulo|sigla jornal no titulo| `/media/hdvm08/bd/002/997/001/tif/02-brasil-america_latina/1997-05-16_B_FSP.tif` | 191 |
-|sigla jornal|titulo inteiro ou primeira palavra no campo da sigla| `/media/hdvm08/bd/002/997/001/tif/12-brasil-politica_exterior/1993-12-14-Acordo_no_GATT_reduzira_a_pressao_inflacionaria.tif` | 70+ |
+|sigla jornal|titulo inteiro ou primeira palavra do título no campo da sigla| `/media/hdvm08/bd/002/997/001/tif/12-brasil-politica_exterior/1993-12-14-Acordo_no_GATT_reduzira_a_pressao_inflacionaria.tif` | 70+ |
 |sigla jornal|"1" ou "0000" no lugar da sigla|`/media/hdvm08/bd/002/997/001/tif/06-brasil-economia_internacional/2004-08-04-0000-OMC_pode_facilitar_negociação_com_UE.tif`|7|
-|titulo noticia|campos vazios, mesmo que o campo de siglas esteja preenchido|casos em que a sigla é JB, JT, JC, OESP, valor, etc| `/media/hdvm08/bd/002/997/001/tif/03-brasil-argentina/2000-08-03-Valor-Impasse_breca_acordo_automotivo_do_Mercosul.tif` | 340+ |
+|nome do jornal|campo vazio (NA), mesmo que o campo de siglas esteja preenchido|casos em que a sigla é JB, JT, JC, OESP, valor, globo, fl, fsd, clarin, exame, ec, etc| `/media/hdvm08/bd/002/997/001/tif/03-brasil-argentina/2000-08-03-Valor-Impasse_breca_acordo_automotivo_do_Mercosul.tif` | 340+ |
 |titulo|numero|"1" ou "2" ou "0000"| `/media/hdvm08/bd/002/997/001/tif/12-brasil-politica_exterior/0000-03-01--1.tif` | 13 |
+|jornal sigla | NA | 230 |
+
+## Metadados com problemas
+
+|entrada | problema |exemplo|quantidade|
+|-----------|------|------|---------|
+| sigla jornal | NA | "/media/hdvm08/bd/002/997/001/tif/12-brasil-politica_exterior/1985-05-16-Setúbal_defenae_diplomacia_mediadora_page0001.tif" | 4 |
+| nome do jornal | NA | "/media/hdvm08/bd/002/997/001/tif/12-brasil-politica_exterior/1985-05-16-Setúbal_defenae_diplomacia_mediadora_page0001.tif" | 4 |
 
 
 ## Metadados ruins
@@ -93,3 +101,4 @@ dir_arquivo: Alguns problemas que estão dando depois da última barra (acredito
 [20:02, 09/03/2022] Ana Julia: Não sei se era exatamente isso que vc queria, mas tentei colocar algumas ideias no "papel".
 
 ```
+# https://stackoverflow.com/questions/21646245/how-to-decode-a-text-with-unicodes-like-u00e7-in-python
