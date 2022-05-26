@@ -1,9 +1,5 @@
-from textwrap import indent
-from tkinter import ANCHOR
 from tinydb import TinyDB, Query, where
 from time import sleep
-
-import tinydb
 
 def json_consultar(arq_json):
     db = TinyDB(arq_json)
@@ -33,7 +29,7 @@ def inserir_db(tema, data, jornal, jornal_sigla,titulo_noticia,nome_arquivo_tif,
     dir_json = "/media/hdvm08/bd/002/997/001/json/metadados_mesclados.json"
     db = TinyDB(dir_json,indent=4,ensure_ascii=False)
     buscar = Query()
-    verifica_bd = db.contains((buscar.titulo_noticia == titulo_noticia) & (buscar.quant_pages == quant_pages))
+    verifica_bd = db.contains((buscar.titulo_noticia == titulo_noticia) & (buscar.quant_pages == quant_pages) & (buscar.data == data))
     if not verifica_bd:
         print("Não está na base.")
         db.insert({
