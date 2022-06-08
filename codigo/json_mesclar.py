@@ -26,7 +26,7 @@ def json_consultar(arq_json):
             #f.write(titulo + "\n")
 
 def inserir_db(tema, data, jornal, jornal_sigla,titulo_noticia,nome_arquivo_tif,nome_arquivo_pdf,quant_pages,verifica_ocr,paragrafos,autoria,dir_bd,dir_arquivo,codigo_bd):
-    dir_json = "/media/hdvm08/bd/002/997/001/json/metadados_mesclados.json"
+    dir_json = "/media/hdvm08/bd/002/997/001/json/METADADOS.json"
     db = TinyDB(dir_json,indent=4,ensure_ascii=False)
     buscar = Query()
     verifica_bd = db.contains((buscar.titulo_noticia == titulo_noticia) & (buscar.quant_pages == quant_pages) & (buscar.data == data))
@@ -60,21 +60,10 @@ def json_modificar():
     ])
 
 
-
-
-    
-
-
-
-
-
-
-
 def main():
-    arqs_json = ["/media/hdvm08/bd/002/997/001/json/metadados_ruins_FINAL.json", "/media/hdvm08/bd/002/997/001/json/metadados_final.json"]
+    arqs_json = ["/media/hdvm08/bd/002/997/001/json/metadados_mesclados_2_ruins_verificado.json", "/media/hdvm08/bd/002/997/001/json/metadados_mesclados_3_bons.json"]
     for index,arq_json in enumerate(arqs_json,start=1):
         print(index,arq_json)
-        sleep(20)
         json_consultar(arq_json)
 
 if __name__ == '__main__':
