@@ -52,7 +52,7 @@ def inserir_db(tema, data, jornal, jornal_sigla,titulo_noticia,nome_arquivo_tif,
         print("Já está na base.")
 
 def json_modificar():
-    dir_json = "/media/hdvm08/bd/002/997/001/json/metadados_mesclados.json"
+    dir_json = "/media/hdvm08/bd/002/997/001/json/METADADOS.json"
     db = TinyDB(dir_json,indent=4,ensure_ascii=False)
     db.update_multiple([
         ({"jornal_sigla": "GZM"}, where("jornal_sigla") == "GM"),
@@ -61,10 +61,11 @@ def json_modificar():
 
 
 def main():
-    arqs_json = ["/media/hdvm08/bd/002/997/001/json/metadados_mesclados_2_ruins_verificado.json", "/media/hdvm08/bd/002/997/001/json/metadados_mesclados_3_bons.json"]
+    json_modificar()
+    '''arqs_json = ["/media/hdvm08/bd/002/997/001/json/metadados_mesclados_2_ruins_verificado.json", "/media/hdvm08/bd/002/997/001/json/metadados_mesclados_3_bons.json"]
     for index,arq_json in enumerate(arqs_json,start=1):
         print(index,arq_json)
-        json_consultar(arq_json)
+        json_consultar(arq_json)'''
 
 if __name__ == '__main__':
     main()
