@@ -10,7 +10,7 @@ import os
 # atualizar dir_arquivo e nome_arquivo_tif
 
 def consultar_json():
-    dir_json = "/media/hdvm08/bd/002/997/001/json/METADADOS.json"
+    dir_json = "/media/hdvm08/bd/002/997/001/json/teste10.json"
     db = TinyDB(dir_json,indent=4,ensure_ascii=False)
     buscar = Query()
     for index,i in enumerate(iter(db),start=1):
@@ -32,7 +32,7 @@ def consultar_json():
         if not dir_arquivo == dir_arq_final:
             print("Não está normalizado")
             lista_nome_arquivo_tif = []
-            for index,tif in enumerate(lista_dir_mais_tif,start=1):
+            for index,tif in enumerate(lista_dir_mais_tif_final,start=1):
                 # 00/00/0000
                 nome_arq_data = f'{data[6:]}-{data[3:5]}-{data[0:2]}'
                 nome_arq_sigla = sigla
@@ -44,7 +44,7 @@ def consultar_json():
                 lista_nome_arquivo_tif.append(nome_arq_final)
                 print(index, nome_arq_final)
                 print(tif)
-                dir_arq_final_02 = dir_arq_final.replace("/tif/", "/tif2/")
+                dir_arq_final_02 = dir_arq_final.replace("/tif/", "/tif3/")
                 os.makedirs(dir_arq_final_02, exist_ok=True)
                 dir_mais_tif_final = dir_arq_final_02+nome_arq_final
                 shutil.move(tif,dir_mais_tif_final)
