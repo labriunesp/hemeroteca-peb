@@ -4,14 +4,16 @@ import os
 import re
 from tinydb import TinyDB,Query
 from normalizar_encode import normaliza_encode
+import shutil
 
 
 def origem_tif():
     origem_raiz = '/media/hdvm08/bd/002/997/001/tif'
-    destino_raiz = '/media/hdvm08/bd/002/997/001/tif2'
+    destino_raiz = '/media/hdvm08/bd/002/997/001/tif3'
     lista_image = []
     for raiz, dirs, arqs in os.walk(origem_raiz):
         for arq in sorted(arqs):
+            print(arq)
             if "tif" in arq:
                 origem_caminho_tif = os.path.join(raiz, arq)
                 if 'page' in arq:
@@ -20,7 +22,9 @@ def origem_tif():
                     nome_arquivo_tif = [arq]
                 if "image" in arq.lower():
                     origem_caminho_tif = os.path.join(raiz, arq)
-                    nome_arquivo_tif = [f'0000-00-00-NA-{arq}']
+                    nome_arquivo_tif = [f'0000-00-00-NA-{arq.replace(" ","_")}']
+                    origem_caminho_tif_normalizado = os.path.join(raiz,nome_arquivo_tif[0])
+                    shutil.move(origem_caminho_tif,origem_caminho_tif_normalizado)
                     print(nome_arquivo_tif)
                     print(origem_caminho_tif)
                 #print(nome_arquivo_tif, len(nome_arquivo_tif))
