@@ -8,16 +8,19 @@ import shutil
 
 
 def origem_tif():
-    origem_raiz = '/media/hdvm08/bd/002/997/001/tif'
-    destino_raiz = '/media/hdvm08/bd/002/997/001/tif3'
+    origem_raiz = '/media/hdvm08/bd/002/997/001/tif3'
+    destino_raiz = '/media/hdvm08/bd/002/997/001/tif4'
     lista_image = []
     for raiz, dirs, arqs in os.walk(origem_raiz):
         for arq in sorted(arqs):
-            print(arq)
+            print(arq) 
             if "tif" in arq:
                 origem_caminho_tif = os.path.join(raiz, arq)
-                if 'page' in arq:
+                #2008-12-15-ESP-Atoleiro_multilateral_p01-p01.tif
+                if ('page' in arq):
                     nome_arquivo_tif = [x for x in arqs if ('page' in arq) and x.startswith(arq[:-12])] #comprensão de lista
+                elif ("_p0" in arq):
+                    nome_arquivo_tif = [x for x in arqs if ('_p0' in arq) and x.startswith(arq[:-12])] #comprensão de lista
                 else:
                     nome_arquivo_tif = [arq]
                 if "image" in arq.lower():
@@ -72,13 +75,15 @@ def inserir_bd(origem_caminho_tif, nome_arquivo_tif):
         titulo_noticia = re.sub('([a-z,A-Z])', lambda x: x.groups()[0].upper(),titulo_noticia,1).strip()
         if 'page0' in titulo_noticia:
             titulo_noticia = titulo_noticia[:-8].strip()
+        elif '_p0' in titulo_noticia:
+            titulo_noticia = titulo_noticia[:-4].strip()
     except:
         titulo_noticia = 'NA'
     '''print(f'Data: {data}') 
     print(f'Nome jornal: {sigla_jornal}')'''
     #print(f'Título: {titulo_noticia}')
     dir_bd = '/media/hdvm08/bd/002/997/001/json'
-    db = TinyDB(f'{dir_bd}/teste10.json', indent = 4, ensure_ascii=False)
+    db = TinyDB(f'{dir_bd}/teste12.json', indent = 4, ensure_ascii=False)
     buscar = Query()
     verifica_db = db.contains((buscar.titulo_noticia==titulo_noticia)&(buscar.data==data)&(buscar.nome_arquivo_tif==nome_arquivo_tif))
     if not verifica_db:
