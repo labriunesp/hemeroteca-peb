@@ -6,41 +6,55 @@ def inserir_json():
     origem = '/media/hdvm08/bd/002/997/001/tif3/'
     for raiz, dirs, arqs in sorted(os.walk(origem)):
         for index,arq in enumerate(arqs, start=1):
-            dir_arq_completo = os.path.join(raiz,arq)
-            
-    codigo_bd = '/002/997/001'
-    #print(origem_caminho_tif)
-    lista_caminho = origem_caminho_tif.split('/')
-    normalizar = lista_caminho[-1].replace("_","-")
-    lista_nome_arquivo = normalizar.split('-') 
-    #[2010,12,29,ESP,WikiLeaks_põe_Brasil_na_rota_da_droga.tif]
-    #print(f'lista_nome_arquivo: {lista_nome_arquivo}')
-    tema = lista_caminho[-2]
-    try:
-        data = f'{lista_nome_arquivo[2]}/{lista_nome_arquivo[1]}/{lista_nome_arquivo[0]}'
-    except:
-        data = 'NA' 
-    try:
-        if lista_nome_arquivo [3] == '':
-            sigla_jornal = 'NA'
-        else:
-            sigla_jornal = lista_nome_arquivo[3]
-    except:
-        sigla_jornal = 'NA'
-    try:
-        if sigla_jornal == "NA":
-            nome_jornal = "NA"
-        elif sigla_jornal == "ESP":
-            nome_jornal = "O Estado de S. Paulo"
-        elif sigla_jornal == "FSP":
-            nome_jornal = "Folha de S. Paulo"
-        elif (sigla_jornal == "GM") or (sigla_jornal == "GZM"):
-            nome_jornal = "Gazeta Mercantil"
-        else:
-            nome_jornal = "NA"
-    except:
-        nome_jornal = "NA"
-    try:
+            arq_dir_completo = os.path.join(raiz,arq)
+            codigo_bd = '/002/997/001'
+            lista_caminho = arq_dir_completo.split('/')
+            tema = lista_caminho[8][10:]
+            try:
+                data_arq = lista_caminho[-1][:10]
+                dia = data_arq[-2:]
+                mes = data_arq[5:7]
+                ano = data_arq[:4]
+                data = f'{dia}/{mes}/{ano}'
+                print(dia,mes,ano,data)
+            except:
+                data = "NA"
+            try:
+                jornal_sigla = lista_caminho[-1][11:14]
+                if jornal_sigla == "NA-":
+                    jornal_sigla = "NA"
+                print(jornal_sigla)
+            except:
+                jornal_sigla = "NA"
+            try:
+                if jornal_sigla == "NA-":
+                    jornal = "NA"
+                elif jornal_sigla == "ESP":
+                    jornal = "O Estado de S. Paulo"
+                elif jornal_sigla == "FSP":
+                    jornal = "Folha de S. Paulo"
+                elif jornal_sigla == "GZM":
+                    jornal = "Gazeta Mercantil"
+                elif jornal_sigla == "GM-":
+                    jornal = "Gazeta Mercantil"
+                elif jornal_sigla == "VLR":
+                    jornal = "Valor Econômico"
+                elif jornal_sigla == "JB":
+                    jornal = "Jornal do Brasil"
+                elif jornal_sigla == "SBP":
+                    jornal = "Jornal da Ciência"
+                elif jornal_sigla == "JC-":
+                    jornal = "Jornal do Comércio"
+            except:
+                jornal = "NA"
+            #['', 'media', 'hdvm08', 'bd', '002', '997', '001', 'tif3', '12-brasil-politica_exterior', '1987-03-13-ESP-Brasil_ignora_reuniao_nos_EUA-p01.tif']
+            try:
+                #CONTINUAR A PARTIR DAQUI(06/07/2022)
+                titulo_noticia = lista_caminho[-1]
+            except:
+                titulo_noticia = "NA"
+
+    '''
         titulo_noticia = lista_nome_arquivo[4:]
         titulo_noticia = " ".join(titulo_noticia)
         titulo_noticia = titulo_noticia[0:-4].replace('_', " ").replace("  "," ").replace('(1)',"")
@@ -51,8 +65,8 @@ def inserir_json():
             titulo_noticia = titulo_noticia[:-4].strip()
     except:
         titulo_noticia = 'NA'
-    '''print(f'Data: {data}') 
-    print(f'Nome jornal: {sigla_jornal}')'''
+        print(f'Data: {data}') 
+    print(f'Nome jornal: {sigla_jornal}')
     #print(f'Título: {titulo_noticia}')
     dir_bd = '/media/hdvm08/bd/002/997/001/json'
     db = TinyDB(f'{dir_bd}/teste12.json', indent = 4, ensure_ascii=False)
@@ -81,7 +95,7 @@ def inserir_json():
         #fazer_ocr(origem_caminho_tif)
     else:
         print('JÁ ESTÁ NA BASE')
-        pass
+        pass'''
 
 
 def main():
