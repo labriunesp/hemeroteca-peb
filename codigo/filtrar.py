@@ -24,9 +24,9 @@ def inserir_bd(noticia , metadados):
     #     noticia['jornal_sigla'] == "NA"
     dir_bd = '/media/hdvm08/bd/002/997/001/json'
     if metadados == True:
-        json = "metadados_bons.json"
+        json = "metadados_bonsr2.json"
     elif metadados == False:
-        json = "metadados_ruins.json"
+        json = "metadados_ruinsr3.json"
     db = TinyDB(f'{dir_bd}/{json}', indent = 4, ensure_ascii=False)
     buscar = Query()
     dir_arquivo = noticia["dir_arquivo"]

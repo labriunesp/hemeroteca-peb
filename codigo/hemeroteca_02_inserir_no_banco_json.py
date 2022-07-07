@@ -6,30 +6,14 @@ import re
 
 def gerar_metadados():
     origem = '/media/hdvm08/bd/002/997/001/tif3/'
-    
     for raiz, dirs, arqs in sorted(os.walk(origem)):
-        sleep(4)
-        nome_arquivo_tif = []
         for index,arq in enumerate(arqs, start=1):
             print(index, arq)
-            if ("p01.tif" in arq) and (nome_arquivo_tif):
-              inserir_bd(data,jornal_sigla,jornal,titulo_noticia,nome_arquivo_tif,tema,codigo_bd)
-              nome_arquivo_tif.clear()
-              nome_arquivo_tif.append(arq) 
-
-            elif ("p01.tif" in arq) and (not nome_arquivo_tif):
-                nome_arquivo_tif.append(arq)
-            elif arq[:-8] in nome_arquivo_tif:
-                nome_arquivo_tif.append(arq)
-                continue
-            elif not arq[:-8] in nome_arquivo_tif:
-                #inserir no banco 
-                inserir_bd(data,jornal_sigla,jornal,titulo_noticia,nome_arquivo_tif,tema,codigo_bd)
-                #Limpar lista 
-                nome_arquivo_tif.clear()
-                #Inserir arq na lista vazia 
-                nome_arquivo_tif.append(arq)
+            nome_arquivo_tif = sorted([x for x in arqs if x.startswith(arq[:-8])])
             arq_dir_completo = os.path.join(raiz,arq)
+            arq_dir = arq_dir_completo.split("/")
+            dir_arquivo = "/"+"/".join(arq_dir[1:-1])
+            print(dir_arquivo)
             codigo_bd = '/002/997/001'
             lista_caminho = arq_dir_completo.split('/')
             tema = lista_caminho[8][10:]
@@ -78,11 +62,16 @@ def gerar_metadados():
                 print(titulo_noticia)
             except:
                 titulo_noticia = "NA"
+            inserir_bd(data,jornal_sigla,jornal,titulo_noticia,nome_arquivo_tif,tema,codigo_bd, dir_arquivo)
+           
+            
+               
+
             
     
-def inserir_bd(data,jornal_sigla,jornal,titulo_noticia,nome_arquivo_tif,tema,codigo_bd):
+def inserir_bd(data,jornal_sigla,jornal,titulo_noticia,nome_arquivo_tif,tema,codigo_bd, dir_arquivo):
     dir_bd = '/media/hdvm08/bd/002/997/001/json'
-    db = TinyDB(f'{dir_bd}/teste13.json', indent = 4, ensure_ascii=False)
+    db = TinyDB(f'{dir_bd}/teste14.json', indent = 4, ensure_ascii=False)
     buscar = Query()
     verifica_db = db.contains((buscar.titulo_noticia==titulo_noticia)&(buscar.data==data)&(buscar.nome_arquivo_tif==nome_arquivo_tif))
     if not verifica_db:
@@ -100,7 +89,7 @@ def inserir_bd(data,jornal_sigla,jornal,titulo_noticia,nome_arquivo_tif,tema,cod
             'paragrafos': "NA",
             'autoria': "NA",
             'dir_bd': dir_bd,
-            'dir_arquivo': "NA",
+            'dir_arquivo': dir_arquivo,
             'codigo_bd': codigo_bd,
             'extra_01': "NA",
             'extra_02': "NA"
