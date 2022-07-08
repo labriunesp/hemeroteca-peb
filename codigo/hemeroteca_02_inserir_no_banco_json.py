@@ -2,9 +2,15 @@ from tinydb import TinyDB,Query
 import os
 from time import sleep
 import re
-#juntar tifs
+
 
 def gerar_metadados():
+    """
+    - gera metadados a partir do nome dos arquivos
+    - chama a função responsável por criar um banco json
+    - coloca todas as paginas de uma mesma notícia em uma lista 'nome_arquivo_tif'
+      para que na iserção no banco json todas as paginas de uma mesma noticia fiquem em apenas uma entrada
+    """
     origem = '/media/hdvm08/bd/002/997/001/tif3/'
     for raiz, dirs, arqs in sorted(os.walk(origem)):
         for index,arq in enumerate(arqs, start=1):
@@ -64,14 +70,12 @@ def gerar_metadados():
                 titulo_noticia = "NA"
             inserir_bd(data,jornal_sigla,jornal,titulo_noticia,nome_arquivo_tif,tema,codigo_bd, dir_arquivo)
            
-            
-               
-
-            
-    
 def inserir_bd(data,jornal_sigla,jornal,titulo_noticia,nome_arquivo_tif,tema,codigo_bd, dir_arquivo):
+    """
+    - cria e insere no banco json os metadados gerados pela função 'gerar_metadados'
+    """
     dir_bd = '/media/hdvm08/bd/002/997/001/json'
-    db = TinyDB(f'{dir_bd}/teste14.json', indent = 4, ensure_ascii=False)
+    db = TinyDB(f'{dir_bd}/METADADOS02.json', indent = 4, ensure_ascii=False)
     buscar = Query()
     verifica_db = db.contains((buscar.titulo_noticia==titulo_noticia)&(buscar.data==data)&(buscar.nome_arquivo_tif==nome_arquivo_tif))
     if not verifica_db:
