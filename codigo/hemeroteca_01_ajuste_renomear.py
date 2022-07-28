@@ -57,12 +57,7 @@ def renomear_ajustes():
                 arq_sem_sufixo = "".join(arq[:-11])+"-p01.tif"
                 renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
                 arq_total.append(arq)
-                #TODO
-                #renomear títulos com _2_t-
-                #_2_ti-
-                #_t-
-                #_ti-
-                #_2_t-
+    
     print(len(arq_total))
 
 def renomear_sem_sufixo(raiz, arq, arq_sem_sufixo):  
