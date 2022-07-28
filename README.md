@@ -102,3 +102,7 @@ dir_arquivo: Alguns problemas que estão dando depois da última barra (acredito
 
 ```
 # https://stackoverflow.com/questions/21646245/how-to-decode-a-text-with-unicodes-like-u00e7-in-python
+
+## Inserir na base Json
+0000-00-00-NA-Intercambio_comercial_deve_ser_estimulado-p01.tif
+2004-01-31-ESP-Alianca_contra_fome_ja_comeca_com_divergencias-p01.tif
