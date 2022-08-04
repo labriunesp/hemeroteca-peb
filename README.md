@@ -105,3 +105,8 @@ dir_arquivo: Alguns problemas que estão dando depois da última barra (acredito
 
 ## Arquivos com imagens ruins:
 0000-00-00-ESP-Alan_garcia_amanha_em-p01.tif
+
+## verificar no json e nos nomes dos arquivos
+(-p
+_2-p
+
