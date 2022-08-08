@@ -110,3 +110,10 @@ dir_arquivo: Alguns problemas que estão dando depois da última barra (acredito
 (-p
 _2-p
 
+1
+nstituido o Itaú Europa com capital d
+Constituido o Itaú Europa com capital de
+ndústria automobilística: GM que
+2
+Brasil pode ter direito a retaliacao d
+Efeito Cavallo derruba dolar para R
