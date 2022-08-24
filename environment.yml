@@ -6,7 +6,6 @@ dependencies:
   - python
   - pip
   - tinydb
-  - ocrmypdf
   - pikepdf
   - pandas
   - numpy
@@ -15,5 +14,7 @@ dependencies:
   - seaborn
   - plotly
   - unidecode
+  - ocrmypdf
+  - opencv
   
 
