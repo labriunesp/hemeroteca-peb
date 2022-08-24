@@ -19,24 +19,15 @@ def renomear_ajustes():
                 pass
             elif "(-p" in arq:
                 arq_sem_sufixo = "".join(arq[:-9])+arq[-8:]
-                #renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
-                print(arq_sem_sufixo)
-                print(arq)
-                print("###")
+                renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
                 arq_total.append(arq)
             elif "_1-p" in arq:
                 arq_sem_sufixo = "".join(arq[:-10])+arq[-8:]
-                #renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
-                print(arq_sem_sufixo)
-                print(arq)
-                print("###")
+                renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
                 arq_total.append(arq)
             elif "_2-p" in arq:
                 arq_sem_sufixo = "".join(arq[:-10])+arq[-8:]
-                #renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
-                print(arq_sem_sufixo)
-                print(arq)
-                print("###")
+                renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
                 arq_total.append(arq)
     print(len(arq_total))
 
