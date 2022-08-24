@@ -34,27 +34,27 @@ def renomear_ajustes():
                 renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
                 arq_total.append(arq)
             elif "(2)_t" in arq:
-                arq_sem_sufixo = "".join(arq[:-13])+"-p01.tif"
+                arq_sem_sufixo = "".join(arq[:-13])+"-p01.tif" #O correto é: arq_sem_sufixo = "".join(arq[:-13])+arq[-8:]
                 renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
                 arq_total.append(arq)
             elif "(2)-p" in arq:
-                arq_sem_sufixo = "".join(arq[:-11])+"-p01.tif"
+                arq_sem_sufixo = "".join(arq[:-11])+"-p01.tif" #O correto é: arq_sem_sufixo = "".join(arq[:-11])+arq[-8:]
                 renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
                 arq_total.append(arq)
             elif "_2_ti-" in arq:
-                arq_sem_sufixo = "".join(arq[:-13])+"-p01.tif"
+                arq_sem_sufixo = "".join(arq[:-13])+"-p01.tif" #O correto é: arq_sem_sufixo = "".join(arq[:-13])+arq[-8:]
                 renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
                 arq_total.append(arq)
             elif "_2_t-" in arq:
-                arq_sem_sufixo = "".join(arq[:-12])+"-p01.tif"
+                arq_sem_sufixo = "".join(arq[:-12])+"-p01.tif" #O correto é: arq_sem_sufixo = "".join(arq[:-12])+arq[-8:]
                 renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
                 arq_total.append(arq)
             elif "_t-" in arq:
-                arq_sem_sufixo = "".join(arq[:-10])+"-p01.tif"
+                arq_sem_sufixo = "".join(arq[:-10])+"-p01.tif" #O correto é: arq_sem_sufixo = "".join(arq[:-10])+arq[-8:]
                 renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
                 arq_total.append(arq)
             elif "_ti-" in arq:
-                arq_sem_sufixo = "".join(arq[:-11])+"-p01.tif"
+                arq_sem_sufixo = "".join(arq[:-11])+"-p01.tif" #O correto é: arq_sem_sufixo = "".join(arq[:-11])+arq[-8:]
                 renomear_sem_sufixo(raiz, arq, arq_sem_sufixo)
                 arq_total.append(arq)
     
