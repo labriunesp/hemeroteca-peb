@@ -4,13 +4,51 @@ import os
 import re
 from tinydb import TinyDB,Query
 from normalizar_encode import normaliza_encode
+from pikepdf import Pdf
 
 # Encontrar os arquivos tifs (ok)
 # Passar os arquivos tifs para o ocrmypdf (ok)
 # Salvar os arquvios pdfs em uma pasta (ok)
 # Verificar língua do ocr
-# Unir arquivos pdfs de notícias com mais de uma página
-# Atualizar o banco json indicando que determinado arquvios tem ocr
+#Continuar da onde parou(ok)
+# Unir arquivos pdfs de notícias com mais de uma página (Excluir arquivos individuais)
+# Atualizar o banco json indicando que determinado arquvios tem ocr(ok)
+
+def origem_json():
+    '''Encontra os arquviso tifs a partir do banco json; Realiza OCR e atualiza a variável NA para "true"''' 
+    dir_db = "/home/labri_anamota/codigo/hemeroteca-peb/json/METADADOS_FINAL-bkp2.json"
+    db = TinyDB(dir_db,indent = 4, ensure_ascii=False)
+    buscar = Query()
+    for index,info in enumerate(iter(db),start=1):
+        verificar_ocr = info["verifica_ocr"]
+        if verificar_ocr == "NA": 
+            dir_arquivo = info["dir_arquivo"]
+            nome_arquivo_tif = info["nome_arquivo_tif"]
+            lista_pdfs = []
+            for tif in nome_arquivo_tif:
+                arq_tif = dir_arquivo+tif
+                ocr = fazer_ocr(arq_tif)
+                lista_pdfs.append(ocr)
+            merge_pdf(lista_pdfs)
+            db.upsert({
+                "nome-arquivo_tif":nome_arquivo_tif,
+                "verifica_ocr": "true"
+                },buscar.nome_arquivo_tif == nome_arquivo_tif)
+        elif verificar_ocr == "true":
+            print("OCR já foi realizado.")
+            
+
+def merge_pdf(lista_pdfs):
+    pdf = Pdf.new()
+    for tif in lista_pdfs:
+        origem = Pdf.open(tif)
+        pdf.pages.extend(origem.pages)
+    pdf.save(f'{lista_pdfs[-1]}_teste')
+
+
+
+
+
 
 
 def origem_tif():
@@ -25,7 +63,7 @@ def origem_tif():
             
 
 def fazer_ocr(origem_caminho_tif):
-    '''Responsável por fazer o ocr e criar as pastas que contém os arquvios pdf-pesquisáveis'''
+    '''Responsável por fazer o ocr e criar as pastas que contém os arquivos pdf-pesquisáveis'''
     destino_caminho_pdf = origem_caminho_tif.replace('/tif/', '/pdf/').replace('.tif','.pdf')
     print(destino_caminho_pdf)
     destino_lista = destino_caminho_pdf.split("/")[1:-1]
@@ -38,6 +76,7 @@ def fazer_ocr(origem_caminho_tif):
         ocrmypdf.ocr(origem_caminho_tif,destino_caminho_pdf, deskew=True)
     except ocrmypdf.exceptions.DpiError:
             pass
+    return destino_caminho_pdf
     
 
                 
@@ -114,7 +153,8 @@ def inserir_bd(origem_caminho_tif, nome_arquivo_tif, nome_arquivo_pdf = "NA", ve
 
 
 def main():
-    ocr = origem_tif()
+    #ocr = origem_tif()
+    ocr = origem_json()
 
 if __name__=='__main__':
     main()
