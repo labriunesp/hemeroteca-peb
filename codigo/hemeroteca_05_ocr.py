@@ -9,10 +9,13 @@ from pikepdf import Pdf
 # Encontrar os arquivos tifs (ok)
 # Passar os arquivos tifs para o ocrmypdf (ok)
 # Salvar os arquvios pdfs em uma pasta (ok)
-# Verificar língua do ocr
-#Continuar da onde parou(ok)
+# Verificar língua do ocr (ok)
+# Continuar da onde parou(ok)
 # Unir arquivos pdfs de notícias com mais de uma página (Excluir arquivos individuais)
 # Atualizar o banco json indicando que determinado arquvios tem ocr(ok)
+# Renomear dir_arquivo para dir_tif
+#Criar variável dir_arquivo_pdf
+# Atualizar a varariável "nome_arquivo_pdf"
 
 def origem_json():
     '''Encontra os arquviso tifs a partir do banco json; Realiza OCR e atualiza a variável NA para "true"''' 
@@ -31,7 +34,7 @@ def origem_json():
                 lista_pdfs.append(ocr)
             merge_pdf(lista_pdfs)
             db.upsert({
-                "nome-arquivo_tif":nome_arquivo_tif,
+                "nome_arquivo_tif":nome_arquivo_tif,
                 "verifica_ocr": "true"
                 },buscar.nome_arquivo_tif == nome_arquivo_tif)
         elif verificar_ocr == "true":
@@ -43,8 +46,10 @@ def merge_pdf(lista_pdfs):
     for tif in lista_pdfs:
         origem = Pdf.open(tif)
         pdf.pages.extend(origem.pages)
-    pdf.save(f'{lista_pdfs[-1]}_teste')
-
+    pdf.save(f'{lista_pdfs[-1]}')
+    remover = [excluir for excluir in lista_pdfs if excluir != lista_pdfs[-1]]
+    for i in remover:
+        os.remove(i)
 
 
 
@@ -73,7 +78,7 @@ def fazer_ocr(origem_caminho_tif):
     print("###")
     os.makedirs(destino_pasta, exist_ok=True)
     try:
-        ocrmypdf.ocr(origem_caminho_tif,destino_caminho_pdf, deskew=True)
+        ocrmypdf.ocr(origem_caminho_tif,destino_caminho_pdf, deskew=True,language="por")
     except ocrmypdf.exceptions.DpiError:
             pass
     return destino_caminho_pdf
@@ -138,8 +143,8 @@ def inserir_bd(origem_caminho_tif, nome_arquivo_tif, nome_arquivo_pdf = "NA", ve
             'jornal_sigla': sigla_jornal,
             'titulo_noticia':titulo_noticia,
             'nome_arquivo_tif': nome_arquivo_tif,
-            'nome_arquivo-pdf': nome_arquivo_pdf,
-            'quant_pages': len(nome_arquivo_tif),
+            'nome_arquivo_pdf': nome_arquivo_pdf,
+            'quant_pags': len(nome_arquivo_tif),
             'verifica_ocr': verifica_ocr,
             'paragrafos': "NA",
             'autoria': "NA",
