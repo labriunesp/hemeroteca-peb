@@ -11,15 +11,15 @@ from pikepdf import Pdf
 # Salvar os arquvios pdfs em uma pasta (ok)
 # Verificar língua do ocr (ok)
 # Continuar da onde parou(ok)
-# Unir arquivos pdfs de notícias com mais de uma página (Excluir arquivos individuais)
+# Unir arquivos pdfs de notícias com mais de uma página (Excluir arquivos individuais)(ok)
 # Atualizar o banco json indicando que determinado arquvios tem ocr(ok)
-# Renomear dir_arquivo para dir_tif
-#Criar variável dir_arquivo_pdf
-# Atualizar a varariável "nome_arquivo_pdf"
+# Renomear dir_arquivo para dir_tif(PENDÊNCIA - Ctrl + H no Banco Json)
+#Criar variável dir_pdf(ok)
+# Atualizar a varariável "nome_arquivo_pdf"(ok)
 
 def origem_json():
     '''Encontra os arquviso tifs a partir do banco json; Realiza OCR e atualiza a variável NA para "true"''' 
-    dir_db = "/home/labri_anamota/codigo/hemeroteca-peb/json/METADADOS_FINAL-bkp2.json"
+    dir_db = "/home/labri_anamota/codigo/hemeroteca-peb/json/METADADOS_FINAL_ocr.json"
     db = TinyDB(dir_db,indent = 4, ensure_ascii=False)
     buscar = Query()
     for index,info in enumerate(iter(db),start=1):
@@ -32,16 +32,22 @@ def origem_json():
                 arq_tif = dir_arquivo+tif
                 ocr = fazer_ocr(arq_tif)
                 lista_pdfs.append(ocr)
-            merge_pdf(lista_pdfs)
+            dir_completo_pdf = merge_pdf(lista_pdfs)
+            dir_completo_pdf_lista = dir_completo_pdf.split("/")
+            nome_arquivo_pdf = dir_completo_pdf_lista[-1]
+            dir_pdf = "/".join(dir_completo_pdf_lista[:-1])
             db.upsert({
                 "nome_arquivo_tif":nome_arquivo_tif,
-                "verifica_ocr": "true"
+                "nome_arquivo_pdf": nome_arquivo_pdf,
+                "verifica_ocr": "true",
+                "dir_pdf": dir_pdf
                 },buscar.nome_arquivo_tif == nome_arquivo_tif)
         elif verificar_ocr == "true":
             print("OCR já foi realizado.")
             
 
 def merge_pdf(lista_pdfs):
+    ''' Responsável por unir os PDFs da mesma notícia, excluir as páginas avulsas e retornar o caminho completo do PDF pesquisável'''
     pdf = Pdf.new()
     for tif in lista_pdfs:
         origem = Pdf.open(tif)
@@ -50,6 +56,7 @@ def merge_pdf(lista_pdfs):
     remover = [excluir for excluir in lista_pdfs if excluir != lista_pdfs[-1]]
     for i in remover:
         os.remove(i)
+    return lista_pdfs[-1]
 
 
 
@@ -57,7 +64,7 @@ def merge_pdf(lista_pdfs):
 
 
 def origem_tif():
-    ''' Responsável por encontrar os arquivos tifs '''
+    ''' Responsável por encontrar os arquivos tifs , a aprtir do diretório'''
     origem_raiz = '/media/hdvm08/bd/002/997/001/tif'
     destino_raiz = '/media/hdvm08/bd/002/997/001/pdf'
     for raiz, dirs, arqs in os.walk(origem_raiz):
