@@ -9,6 +9,9 @@ from typing_extensions import TypeAlias
 # Renomear dir_arquivo para dir_tif(PENDÊNCIA - Ctrl + H no Banco Json)
 # Verificar inserção da data (exif-tool)
 # inserir arquivos no Recool-web da hemeroteca
+# https://github.com/unitedstates/inspectors-general/issues/31
+# https://stackoverflow.com/questions/68019092/pdf-getdocumentinfo-date-format
+# https://nanonets.com/blog/pypdf2-library-working-with-pdf-files-in-python/
 
 def consultar_json():
     ''' Responsável por encontrar o caminho do pdf a partir da base json'''
