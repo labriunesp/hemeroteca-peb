@@ -109,15 +109,9 @@ dir_arquivo: Alguns problemas que estão dando depois da última barra (acredito
 ## TODO
 >pesquisar no json os termos abaixo e comparar arquivos da pasta tif-bkp-comparar com arquivos da pasta tif para incluir os arquivos que foram sobrescritos 
 _t-p02 (substituir no json o _t-p01 por -p01 e assim por diante [FEITO!!!!!])
-_t- (conferir na pasta tif, pois tem uns 4 arquivos com esse elemento que precisam ser renomeados)
-_ti-p02 
+_t- (conferir na pasta tif, pois tem uns 4 arquivos com esse elemento que precisam ser renomeados [FEITO!!])
+_ti-p02 ([FEITO!!])
 ver em: hemeroteca_01_ajuste_renomear.py
-
-> depois: renomear nomes dos arquivos no json tirando os termos pesquisados acima
-###### 
-2_ti
-2001-03-28-GZM-Empresas_esperam_mais_competitividade
-Cavallo_compara_o_Brasil_a_um_elefante
-
+> depois: renomear nomes dos arquivos no json tirando os termos pesquisados acima [FEITO!!!!!]
 15/08/2022
-Usar TinyDB para apagar entradas com titulo: [apagar]
+>Usar TinyDB para apagar entradas com titulo: [apagar] [FEITO!!!!!]
