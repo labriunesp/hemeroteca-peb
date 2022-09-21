@@ -16,5 +16,8 @@ dependencies:
   - unidecode
   - ocrmypdf
   - opencv
+  - pypdf2
+  - pdfrw
+  - typing-extensions
   
 
