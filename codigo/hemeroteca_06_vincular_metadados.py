@@ -6,6 +6,9 @@ from typing_extensions import TypeAlias
 # consultar a base json (pegar o caminho do arquivo) (ok!)
 # pegar informações do arquivo: tema, data, jornal, jornal-sigla, título, nome arquivo pdf (ok!)
 # inserir metadados no xmp (ok!)
+# Renomear dir_arquivo para dir_tif(PENDÊNCIA - Ctrl + H no Banco Json)
+# Verificar inserção da data (exif-tool)
+# inserir arquivos no Recool-web da hemeroteca
 
 def consultar_json():
     ''' Responsável por encontrar o caminho do pdf a partir da base json'''

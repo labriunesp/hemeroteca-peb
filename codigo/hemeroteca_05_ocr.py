@@ -13,7 +13,6 @@ from pikepdf import Pdf
 # Continuar da onde parou(ok)
 # Unir arquivos pdfs de notícias com mais de uma página (Excluir arquivos individuais)(ok)
 # Atualizar o banco json indicando que determinado arquvios tem ocr(ok)
-# Renomear dir_arquivo para dir_tif(PENDÊNCIA - Ctrl + H no Banco Json)
 #Criar variável dir_pdf(ok)
 # Atualizar a varariável "nome_arquivo_pdf"(ok)
 
