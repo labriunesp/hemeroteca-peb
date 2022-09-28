@@ -19,5 +19,6 @@ dependencies:
   - pypdf2
   - pdfrw
   - typing-extensions
+  - pdfminer.six
   
 

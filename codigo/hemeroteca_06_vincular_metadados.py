@@ -2,13 +2,17 @@ from pikepdf import Pdf
 from tinydb import TinyDB,Query 
 from PyPDF2 import PdfReader, PdfWriter
 from typing_extensions import TypeAlias
+from datetime import datetime
+from pdfminer.pdfparser import PDFParser
+from pdfminer.pdfdocument import PDFDocument
 
 # consultar a base json (pegar o caminho do arquivo) (ok!)
 # pegar informações do arquivo: tema, data, jornal, jornal-sigla, título, nome arquivo pdf (ok!)
 # inserir metadados no xmp (ok!)
 # Renomear dir_arquivo para dir_tif(PENDÊNCIA - Ctrl + H no Banco Json)
 # Verificar inserção da data (exif-tool)
-# inserir arquivos no Recool-web da hemeroteca
+# Pôr o CreationDate em todos os arquivos no seguinte formato: 'D:20220928181800-0300'
+# inserir arquivos no Recoll-web da hemeroteca
 # https://github.com/unitedstates/inspectors-general/issues/31
 # https://stackoverflow.com/questions/68019092/pdf-getdocumentinfo-date-format
 # https://nanonets.com/blog/pypdf2-library-working-with-pdf-files-in-python/
@@ -59,7 +63,8 @@ def inserir_metadados(tema, data, jornal, titulo_noticia, dir_completo):
             "/Title": titulo_noticia,
             "/Creator": data,
             "/Subject": tema,
-            "/Keywords": tema
+            "/Keywords": tema,
+            "/CreationDate": "D:20220928181800-0300"
         }
     )
 
@@ -67,9 +72,22 @@ def inserir_metadados(tema, data, jornal, titulo_noticia, dir_completo):
     with open(dir_completo, "wb") as f:
         writer.write(f)
 
+def inserir_data():
+    data_criacao = "D:20220928181800-0300"
+    data = datetime.strptime(data_criacao, "D:%Y%m%d%H%M%S%z")
+    print(data)
+
+def pdfminer():
+    fp = open('/media/hdvm08/bd/002/997/001/pdf/03-brasil-argentina/0000-00-00-GZM-Produtores_acreditam_na_manuntencao_de_sobretaxa-p01.pdf', 'rb')
+    parser = PDFParser(fp)
+    doc = PDFDocument(parser)
+
+    print(doc.info)  # The "Info" metadata
 
 def main():
-    consultar_json()
+    #consultar_json()
+    #inserir_data()
+    pdfminer()
 
 if __name__=='__main__':
     main()
