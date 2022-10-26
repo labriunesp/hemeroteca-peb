@@ -1,9 +1,7 @@
-from locale import normalize
 import ocrmypdf
 import os
 import re
 from tinydb import TinyDB,Query
-from normalizar_encode import normaliza_encode
 from pikepdf import Pdf
 
 # Encontrar os arquivos tifs (ok)
@@ -18,12 +16,13 @@ from pikepdf import Pdf
 
 def origem_json():
     '''Encontra os arquviso tifs a partir do banco json; Realiza OCR e atualiza a variável NA para "true"''' 
-    dir_db = "/home/labri_anamota/codigo/hemeroteca-peb/json/METADADOS_FINAL_ocr.json"
+    dir_db = "/home/admin_user/codigo/hemeroteca-peb/json/METADADOS_FINAL.json"
     db = TinyDB(dir_db,indent = 4, ensure_ascii=False)
     buscar = Query()
     for index,info in enumerate(iter(db),start=1):
         verificar_ocr = info["verifica_ocr"]
         if verificar_ocr == "NA": 
+            print("Realizando o OCR...")
             dir_arquivo = info["dir_arquivo"]
             nome_arquivo_tif = info["nome_arquivo_tif"]
             lista_pdfs = []
@@ -58,12 +57,8 @@ def merge_pdf(lista_pdfs):
     return lista_pdfs[-1]
 
 
-
-
-
-
 def origem_tif():
-    ''' Responsável por encontrar os arquivos tifs , a aprtir do diretório'''
+    ''' Responsável por encontrar os arquivos tifs , a partir do diretório'''
     origem_raiz = '/media/hdvm08/bd/002/997/001/tif'
     destino_raiz = '/media/hdvm08/bd/002/997/001/pdf'
     for raiz, dirs, arqs in os.walk(origem_raiz):
