@@ -75,7 +75,6 @@ conda config --add envs_dirs ./env
 touch environment.yml && conda env create -f environment.yml
 git pull origin main && conda activate env_hemeroteca-peb && conda env update --prune
 
-
 ```
 
 # Apontamentos do trabalho

@@ -16,7 +16,7 @@ from pikepdf import Pdf
 
 def origem_json():
     '''Encontra os arquviso tifs a partir do banco json; Realiza OCR e atualiza a variável NA para "true"''' 
-    dir_db = "/home/admin_user/codigo/hemeroteca-peb/json/METADADOS_FINAL.json"
+    dir_db = "/home/lantri_thiagofernandes/codigo/hemeroteca-peb/json/METADADOS_FINAL.json"
     db = TinyDB(dir_db,indent = 4, ensure_ascii=False)
     buscar = Query()
     for index,info in enumerate(iter(db),start=1):
@@ -80,8 +80,9 @@ def fazer_ocr(origem_caminho_tif):
     os.makedirs(destino_pasta, exist_ok=True)
     try:
         ocrmypdf.ocr(origem_caminho_tif,destino_caminho_pdf, deskew=True,language="por")
-    except ocrmypdf.exceptions.DpiError:
-            pass
+    except ocrmypdf.exceptions.DpiError as erro:
+            print(erro)
+            ocrmypdf.ocr(origem_caminho_tif,destino_caminho_pdf, image_dpi=300, deskew=True,language="por")
     return destino_caminho_pdf
     
 
