@@ -4,7 +4,6 @@ channels:
   - defaults
 dependencies:
   - python
-  - pip
   - tinydb
   - pikepdf
   - pandas
@@ -20,5 +19,5 @@ dependencies:
   - pdfrw
   - typing-extensions
   - pdfminer.six
-  
+  - streamlit
 

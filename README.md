@@ -24,6 +24,9 @@ Conheça a equipe de [coordenadores](https://labriunesp.org/docs/projetos/dados/
 
 ## Atividades
 
+
+- [Tarefas  notion](https://www.notion.so/org-geral/ab1f38fdaeaf4745ab0680a152559f60?v=7c129eaafac34446a5d5ce5d071a3570)
+
 - [Realizadas](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/atividades#atividades-realizadas)
 
 - [Programadas](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/atividades#próximas-atividades)
