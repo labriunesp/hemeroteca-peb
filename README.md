@@ -37,8 +37,6 @@ Para conhecer os **temas** da Hemeroteca PEB, [clique aqui](https://labriunesp.o
 
 Para acessar nosso **material de apoio**, [clique aqui](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/doc#material-de-apoio).
 
-Para acessar o **repositório** da Hemeroteca PEB no *Gitlab*, [clique aqui](https://gitlab.com/unesp-labri/projeto/hemeroteca-peb).
-
 
 ## REVISAR
 
