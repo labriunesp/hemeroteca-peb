@@ -1,8 +1,9 @@
 # Hemeroteca de Política Externa Brasileira
 
-<p align="center">
-  <img src="https://labriunesp.org/img/hemeroteca-peb/hemeroteca-logo.svg" />
-</p>
+<div align="center">
+<img src="https://labriunesp.org/img/hemeroteca-peb/hemeroteca-logo.svg" />
+
+</div>
 
 -----
 
