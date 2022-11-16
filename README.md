@@ -11,7 +11,7 @@ A **Hemeroteca de Política Externa Brasileira** contém uma seleção de matér
 
 -----
 
-Para acessar o **acervo** da Hemeroteca (PEB), [clique aqui](https://hemerotecapeb.lantri.org/recoll/).
+Para acessar o **acervo** da Hemeroteca PEB, [clique aqui](https://hemerotecapeb.lantri.org/recoll/).
 
 Para mais informações sobre o projeto, [clique aqui](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/info).
 
@@ -33,7 +33,7 @@ Conheça a equipe de [coordenadores](https://labriunesp.org/docs/projetos/dados/
 
 Para informações do arquivo *json*, [clique aqui](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/doc#informações-do-arquivo-json).
 
-Para conhecer os temas da Hemeroteca, [clique aqui](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/doc#temas-da-hemeroteca).
+Para conhecer os temas da Hemeroteca PEB, [clique aqui](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/doc#temas-da-hemeroteca).
 
 Para acessar nosso material de apoio, [clique aqui](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/doc#material-de-apoio).
 
