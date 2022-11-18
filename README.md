@@ -40,6 +40,13 @@ Para conhecer os **temas** da Hemeroteca PEB, [clique aqui](https://labriunesp.o
 
 Para acessar nosso **material de apoio**, [clique aqui](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/doc#material-de-apoio).
 
+## Versionamento
+
+Mais detalhes sobre o versionamento do código [aqui](https://labriunesp.org/docs/projetos/ensino/ambiente/commit).
+
+## Ambiente Virtual
+
+Para informações de configuração do ambiente virtual, [clique aqui](https://labriunesp.org/docs/projetos/ensino/ambiente/conda).
 
 ## REVISAR
 
