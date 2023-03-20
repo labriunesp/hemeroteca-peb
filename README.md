@@ -17,6 +17,8 @@ Para **mais informações** sobre o projeto, [clique aqui](https://labriunesp.or
 
 Acesse o site do **[LabRI/UNESP](https://labriunesp.org/)** e saiba mais sobre o nosso *Hub* Acadêmico.
 
+Acesse as tarefas do treinamento [clique aqui](https://gitlab.com/unesp-labri/projeto/hemeroteca-peb/-/boards?label_name[]=treinamento)
+
 ## Equipe
 
 Conheça a equipe de [coordenadores](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/equipe#coordernadores-do-projeto) e 
