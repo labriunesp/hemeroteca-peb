@@ -37,17 +37,20 @@ def remover_arquivo_repetidos():
     nao_selecionadas = nao_selecionadas[["dir_arquivo","caminho_arquivo_tif"]]
     lista_caminho_tif_excluir = nao_selecionadas["caminho_arquivo_tif"].tolist()
     
-    #datafreme sem as entradas repeditidas
+    #dataframe sem as entradas repetidas
     novo_dataset = dataset.drop(nao_selecionadas.index)
     novo_dataset.shape
 
-    novo_dataset_json = novo_dataset.to_json(f"{dir_json}/{arq_json_final}",orient="records")
-    novo_dataset_json = pd.read_json(f"{dir_json}/{arq_json_final}",convert_axes=False)    
+    novo_dataset_dict = novo_dataset.to_dict(orient="records")
+    db = TinyDB(f"{dir_json}/{arq_json_final}",indent=4,ensure_ascii=False)
+    #novo_dataset_json = pd.read_json(f"{dir_json}/{arq_json_final}",convert_axes=False) 
+    tabela = db.table("METADADOS_FINAL.json")
+    tabela.insert_multiple(novo_dataset_dict)   
 
     
     excluir_arquivos(lista_caminho_tif_excluir)
     excluir_arquivos(lista_caminho_pdf_excluir)
-    print(novo_dataset)
+    db.close()
 
 def excluir_arquivos(lista_arquivos):
     for arquivo in lista_arquivos:
