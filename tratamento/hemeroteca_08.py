@@ -26,7 +26,7 @@ def verificar_similaridade(titulo, titulos):
     return False
 
 def main():
-    dataset = pd.read_json(f'/home/lantri_thiagofernandes/codigo/hemeroteca-peb/json/METADADOS_FINAL.json', orient="columns")
+    dataset = pd.read_json(f'/home/lantri_rafael/codigo/hemeroteca-peb/json/METADADOS_FINAL_copy.json', orient="columns")
     dataset = pd.json_normalize(dataset["METADADOS_FINAL.json"])
     #print(dataset)
     # Filtrar os títulos de notícias com base na similaridade
