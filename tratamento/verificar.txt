@@ -1,0 +1,100 @@
+86 ok
+1999-03-25-GZM-Crise_paraguaia_pode_prejudicar_o_Mercosul-p01.pdf
+1998-03-24-GZM-Crise_paraguaia_preocupa_o_Mercosul-p01.pdf
+###
+97 ok
+2002-03-10-ESP-Novo_consenso-p02.pdf
+2002-03-10-ESP-Novo_consenso?-p01.pdf
+###
+90 ok
+1999-05-28-GZM-Agricultura_dificulta_acordo_com_UE-p01.pdf
+2002-02-25-GZM-Agricultura_dificulta_acordo_com_UE-p01.pdf
+###
+97 ok
+2002-03-19-ESP-EUA_tentaram_tirar_brasileiro_de_orgao_da_ONU-p02.pdf
+2002-03-19-ESP-Eua_tentam_tirar_brasileiro_de_orgao_da_onu-p01.pdf
+###
+86 ok
+2001-12-22-ESP-A_crise_argentina-p01.pdf
+2001-12-24-ESP-Brasil_e_Argentina-p01.pdf
+###
+98 ok
+2002-03-19-GZM-Itamaraty_refura_pressao_dos_EUA-p01.pdf
+2002-03-19-GZM-Itamaraty_refuta_pressao_dos_eua-p01.pdf
+###
+99 ok
+2002-03-20-ESP-EUA_pedem_saida_de_brasileiro_de_cargo_da_ONU-p03.pdf
+2002-03-20-ESP-Eua_pedem_saida_de_brasileiro_de_cargo_da_onu-p01.pdf
+###
+99 ok
+2002-03-23-ESP-EUA_nao_conseguem_afastar_brasileiro_da_Opaq-p03.pdf
+2002-03-23-ESP-Eua_nao_conseguem_afastar_brasileiro_da_opaq-p01.pdf
+###
+99 ok
+2002-03-26-ESP-Brasileiro_diz_que_nao_renunciara_a_direcao_da_Opaq-p02.pdf
+2002-03-26-ESP-Brasileiro_diz_que_nao_renunciara_a_direcao_da_opaq-p01.pdf
+###
+90 ok
+1999-12-10-GZM-Mercosul_fecha_regime_automotivo_este_mes-p01.pdf
+1998-07-13-GZM-Mercosul_fecha_regime_automotivo_ainda_este_me-p01.pdf
+###
+86 ok
+2000-01-07-GZM-BNDES_avalia_projetos_no_Mercosul-p01.pdf
+2003-10-03-GZM-Congresso_avalia_projetos_do_Mercosul-p01.pdf
+###
+98
+2002-03-27-ESP-Bustani_afirma_que_EUA_prestam_desservico-p04.pdf
+2002-03-27-ESP-Bustani_afirma_que_eua_prestam_desservico-p01.pdf
+###
+85
+2000-01-16-GZM-Erro_da_Camex_causa_polemica_no_Mercosul-p01.pdf
+2000-11-28-GZM-Arroz_causa_polemica_no_Mercosul-p01.pdf
+###
+85
+2000-01-21-GZM-Mercosul_adia_regime_automotivo-p01.pdf
+2000-12-18-GZM-Mercosul_sai_do_impasse_automotivo-p01.pdf
+###
+85
+2001-12-24-ESP-Brasil_e_Argentina-p01.pdf
+2004-10-15-ESP-Brasil_e_argentina:_a_trajetoria_da_cooperacao_cientifica_e_tecnologica-p01.pdf
+###
+89
+2001-12-24-ESP-Brasil_e_Argentina-p01.pdf
+2004-12-12-ESP-Brasil_e_argentina,_os_rivais-p01.pdf
+###
+85
+2001-12-24-ESP-Brasil_e_Argentina-p01.pdf
+2006-01-25-ESP-Brasil_e_argentina,_ainda_sem_acordo-p01.pdf
+###
+85
+2001-12-24-ESP-Brasil_e_Argentina-p01.pdf
+2008-10-03-ESP-Brasil_e_argentina:_comercio_sem_dolar_a_partir_de_2_feira-p01.pdf
+###
+85
+2001-12-24-ESP-Brasil_e_Argentina-p01.pdf
+2009-10-20-ESP-Brasil_e_argentina:_discutindo_a_relacao-p01.pdf
+###
+91
+2001-12-26-ESP-Industria_sugere_real_en_cesta_de_moedas-p01.pdf
+2001-11-28-ESP-Industriais_querem_real_na_cesta_de_moedas-p01.pdf
+###
+87
+2000-03-28-GZM-Negociacao_com_UE_comeca_em_abril-p01.pdf
+2002-04-04-GZM-Negociacao_com_UE_comeca_a_andar-p01.pdf
+###
+98
+2002-03-30-ESP-Instabilidade_latina_preocupa_Camara-p02.pdf
+2002-03-30-ESP-Instabilidade_latina_preocupa_camara-p01.pdf
+###
+85
+2000-04-07-GZM-Uruguai_e_Paraguai_querem_mudar_acordo_automot-p01.pdf
+2000-04-07-GZM-Uruguai_e_Paraguai_reistem_a_acordo-p01.pdf
+###
+87
+2000-06-15-GZM-Brasil_e_mexico_discutem_acordo-p01.pdf
+2002-06-13-GZM-Brasil_e_mexico_fecham_acordo-p01.pdf
+###
+85
+2002-01-01-ESP-FHC_descarta_risco_de_contagio_para_o_Bra-p02.pdf
+2002-04-25-ESP-FMI_nao_descarta_risco_de_contagio_para_o-p01.pdf
+###
