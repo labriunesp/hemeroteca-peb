@@ -134,9 +134,9 @@
 2000-07-25-GZM-Paraguai_quer_ampliar_cota_de_exportacao-p01.pdf
 2008-10-27-GZM-Paraguai_quer_ampliar_exportacao-p01.pdf
 ###
-98 #ANALISAR
-2001-01-07-ESP-Confusao_criadas_pela_Argentina_em_torno_dos-p01.pdf
-2001-01-07-ESP-Confusoes_criadas_pela_Argentina_em_torno_dos-p01.pdf
+98 ok
+2001-01-07-ESP-Confusao_criadas_pela_Argentina_em_torno_dos-p01.pdf #ENTRADA EXCLUÍDA E ARQUIVO MOVIDO PARA A LIXEIRA
+2001-01-07-ESP-Confusoes_criadas_pela_Argentina_em_torno_dos-p01.pdf #INCLUÍDO "_bits_ainda_continuam"
 ###
 85 ok (datas e títulos distintos entre si)
 2001-01-08-ESP-Brasil_vai_a_omc_contra_o_mexico-p01.pdf
@@ -690,431 +690,431 @@
 2010-04-01-ESP-Declaracao_fixa_prazo_para_estocar_uranio-p01.pdf
 2010-04-01-ESP-Declaracao_fiza_prazo_para_estocar_uranio-p01.pdf
 ###
-91
+91 ok (datas e titulos diferentes entre si)
 2010-04-07-ESP-A_proliferacao_de_armas_nucleares-p01.pdf
 2006-11-21-ESP-A_proliferacao_de_armas_nucleares-p01.pdf
 ###
-97
+97 #ANALISAR
 2002-12-19-ESP-Mercosul_e_nosso_destino_nao_nossa_opcao_diz_lafer-p01.pdf
 2002-02-19-ESP-Mercosul_e_nosso_destino_nap_nossa_opcao_diz_Lafer-p01.pdf
 ###
-90
+90 #ANALISAR
 2010-12-15-ESP-OEA_condena_impunidade_no_araguaia-p01.pdf
 2010-12-15-ESP-OEA_condena_o_Brasil_por_impunidade_no_Araguaia-p01.pdf
 ###
-98
+98 #ANALISAR
 2002-12-31-ESP-PT_garante_que_Fidel_vem_a_posse_de_Lula-p03.pdf
 2002-12-31-ESP-Pt_garante_que_fidel_vem_a_posse_de_lula-p01.pdf
 ###
-86
+86 #ANALISAR
 1992-06-01-GZM-Um_acordo_de_cooperacao_com_a_CEE-p01.pdf
 1992-06-01-GZM-Mercosul_assina_acordo_de_cooperacao_com_CEE-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-01-01-ESP-Lula_recebe_Fidel_Castro_amanha_para_almoco-p02.pdf
 2003-01-01-ESP-Lula_recebe_fidel_castro_amanha_para_almoco-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-01-02-ESP-Vim_aqui_para_ouvir_e_aprender_diz_Zoellick-p07.pdf
 2003-01-02-ESP-Vim_aqui_para_ouvir_e_aprender_diz_zoellick-p01.pdf
 ###
-99
+99 #ANALISAR
 2003-01-03-ESP-Post_sugere_que_Lula_negocie_crise_venezuelana-p04.pdf
 2003-01-03-ESP-Post_sugere_que_lula_negocie_crise_venezuelana-p01.pdf
 ###
-85
+85 ok (datas e títulos distintos)
 1993-08-14-GZM-A_Declaracao_dos_Direitos_dos_Povos_Indigenas-p01.pdf
 2008-08-26-ESP-Declaracao_dos_direitos_dos_povos_indigenas-p01.pdf
 ###
-97
+97 #ANALISAR
 2003-01-07-ESP-Pais_deve_dominar_bomba_atomica_diz_Amaral-p02.pdf
 2004-01-07-ESP-Pais_deve_dominar_bomba_atomica_diz_amaral-p01.pdf
 ###
-96
+96 #ANALISAR
 2003-01-08-ESP-Carta_aberta_ao_comandande_chefe-p02.pdf
 2003-01-08-ESP-Carta_aberta_ao_comandante_chefe-p01.pdf
 ###
-99
+99 #ANALISAR
 2003-01-08-ESP-Declaracao_de_Amaral_poe_Argentina_em_alerta-p04.pdf
 2003-01-08-ESP-Declaracao_de_amaral_poe_argentina_em_alerta-p01.pdf
 ###
-98
+98 #ANALISAR
 1993-11-20-GZM-Cetesb_multa_kibem_e_fama_por_lancamento_irregular_de_efluentes-p01.pdf
 1993-11-20-GZM-Cetesb_multa_kibon_e_fama_por_lancamento_irregular_de_efluentes-p01.pdf
 ###
-98
+98 #ANALISAR
 1993-11-30-GZM-Ministerio_devera_transferir_atribuicoes_da_uniao_para_estados_e_minucipios-p01.pdf
 1993-11-30-GZM-Ministerio_devera_transferir_atribuicoes_da_uniao_para_estados_e_municipios-p01.pdf
 ###
-99
+99 #ANALISAR
 1993-12-15-GZM-Uniao_europeia_vacila_para_criar_taxa_sobre_energia-p01.pdf
 1993-12-15-GZM-Uniao_europeia_vacila_para_criar_taxas_sobre_energia-p01.pdf
 ###
-99
+99 #ANALISAR
 2003-01-17-ESP-Lula_vai_defender_globalizacao_solidaria_em_Davos-p03.pdf
 2003-01-17-ESP-Lula_vai_defender_globalizacao_solidaria_em_davos-p01.pdf
 ###
-93
+93 #ANALISAR
 2004-03-29-GZM-Crcrescem_as_vendas_para_a_argentina-p01.pdf
 2004-05-17-GZM-Crescem_as_vendas_para_a_argentina-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-01-19-ESP-Presidente_deve_dar_nova_identidade_a_Davos-p03.pdf
 2003-01-19-ESP-Presidente_deve_dar_nova_identidade_a_davos-p01.pdf
 ###
-85
+85 ok (datas e títulos distintos)
 2004-04-05-ESP-Brasil_tera_superavit_com_a_argentina-p01.pdf
 2004-04-13-GZM-Brasil_retoma_superavit_com_argentina-p01.pdf
 ###
-88
+88 ok (datas e títulos distintos)
 1995-12-06-GZM-Cresce_a_preocupacao_com_o_ambiente-p01.pdf
 1996-09-30-GZM-Cresce_a_preocupacao_com_o_meio_ambiente-p01.pdf
 ###
-88
+88 ok (datas e títulos distintos)
 1995-12-06-GZM-Cresce_a_preocupacao_com_o_ambiente-p01.pdf
 1997-03-07-GZM-Cresce_procupacao_com_meio_ambiente-p01.pdf
 ###
-97
+97 #ANALISAR
 2003-01-25-ESP-O_unico_grande_palanque_do_presidente_e_o_externo-p02.pdf
 2003-01-26-ESP-O_unico_grande_palanque_do_presidente_e_o_externo-p01.pdf
 ###
-88
+88 ok (datas e títulos distintos)
 1996-09-30-GZM-Cresce_a_preocupacao_com_o_meio_ambiente-p01.pdf
 1997-03-07-GZM-Cresce_procupacao_com_meio_ambiente-p01.pdf
 ###
-99
+99 #ANALISAR
 2003-01-26-ESP-Lula_chega_a_Europa_e_reforca_bloco_contra_guerra-p03.pdf
 2003-01-26-ESP-Lula_chega_a_europa_e_reforca_bloco_contra_guerra-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-01-26-ESP-Dirceu_defende_integracao_da_america_latina-p01.pdf
 2003-01-26-ESP-Dirceu_defende_integracao_da_America_Latina-p02.pdf
 ###
-98
+98 #ANALISAR
 2003-01-28-GZM-Brasil_quer_ver_ONU_na_guerra_contra_a_fome-p01.pdf
 2003-01-28-GZM-Brasil_quer_ver_ONU_na_guerra_contra_a_fome_02-p01.pdf
 ###
-99
+99 #ANALISAR
 2003-01-30-ESP-FHC_acha_impertinente_Brasil_passar_por_lider-p02.pdf
 2003-01-30-ESP-Fhc_acha_impertinente_brasil_passar_por_lider-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-02-05-ESP-FHC_Estamos_assistindo_a_formacao_d_e_um_imperio-p02.pdf
 2003-02-05-ESP-Fhc_estamos_assistindo_a_formacao_de_um_imperio-p01.pdf
 ###
-92
+92 ok (datas e titulos distintas)
 2004-07-03-ESP-Argentina_suspende_embargo_a_carne_brasileira-p01.pdf
 2004-07-01-ESP-Russia_suspende_embargo_a_carne_brasileira-p01.pdf
 ###
-85
+85 ok (datas e titulos distintos)
 1999-07-27-ESP-O_Brasil_e_as_mudancas_do_clima-p01.pdf
 1999-12-14-ESP-O_brasil_e_as_mudancas_climaticas-p01.pdf
 ###
-87
+87 ok (datas e titulos distintos)
 1999-11-12-ESP-Os_paradoxos_das_mudancas_climaticas-p01.pdf
 1999-12-14-ESP-O_brasil_e_as_mudancas_climaticas-p01.pdf
 ###
-85
+85 ok (datas e titulos distintos)
 2001-08-30-GZM-Protocolo_de_kyoto_em_debate_no_rio-p01.pdf
 2001-09-03-GZM-Protocolo_de_kyoto_e_base_de_negocios-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-02-17-ESP-Itamaraty_pode_atrasar_contribuicoes_a_onu-p01.pdf
 2003-12-17-ESP-Itamaraty_pode_atrasar_contribuicoes_a_ONU-p01.pdf
 ###
-95
+95 #ANALISAR
 2003-02-23-ESP-Carta_faz_protesto_a_guerra_e_em_defesa_da_ONU-p01.pdf
 2003-02-23-ESP-Carta_faz_protesto_contra_a_guerra_e_em_defesa_da_onu-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-02-23-ESP-TPI_garantira_fim_da_impunidade_diz_juiza-p02.pdf
 2003-02-23-ESP-Tpi_garantira_fim_da_impunidade_diz_juiza-p01.pdf
 ###
-86
+86 ok (datas, jornais e titulos distintos)
 2003-12-11-GZM-O_mercado_de_creditos_de_carbono-p01.pdf
 2006-09-12-ESP-Mercado_de_credito_de_carbono-p01.pdf
 ###
-98
+98 #ANALISAR
 2000-09-05-ESP-ONU_reune_150_lideres_na_Cupula_do_Milenio-p03.pdf
 2000-09-05-ESP-Onu_reune_150_lideres_na_cupula_do_milenio-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-03-02-ESP-Lula_expoe_receios_a_blair-p01.pdf
 2003-03-06-ESP-Lula_expoe_receios_a_Blair-p01.pdf
 ###
-99
+99  #ANALISAR
 2004-10-05-ESP-Empresa_investe_us$_1,4_bi_em_exploracao_na_argentina-p01.pdf
 2004-10-05-ESP-Empresas_investe_us$_1,4_bi_em_exploracao_na_argentina-p01.pdf
 ###
-85
+85 ok (datas, jornais e titulos distintos)
 2004-10-15-ESP-Argentinos_e_brasileiros_tentam_acerto_em_sp-p01.pdf
 2001-02-15-GZM-Argentinos_e_brasileiros_tentam_acertar_-p02.pdf
 ###
-99
+99 #ANALISAR
 2003-03-30-ESP-Brasil_retira_proposta_na_onu_a_favor_de_gays-p01.pdf
 2004-03-30-ESP-Brasil_retira_proposta_na_ONU_a_favor_de_gays-p01.pdf
 ###
-86
+86 #ANALISAR
 2004-12-09-GZM-Brasil_e_argentina_retomam_discussao_sobre_salvaguardas-p01.pdf
 2005-12-09-GZM-Brasil_e_argentina_devem_discutir_salvaguardas-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-03-19-ESP-Lula_critica_Bush_por_desrespeitar_a_ONU-p02.pdf
 2003-03-19-ESP-Lula_critica_bush_por_desrespeitar_a_onu-p01.pdf
 ###
-92
+92 #ANALISAR
 2003-03-20-GZM-Exportadores_divergem_na_avaliacao-p03.pdf
 0000-00-00-GZM-Exportadores_divergem_na_avaliacao-p01.pdf
 ###
-99
+99 #ANALISAR
 2003-03-23-ESP-Brasil_nao_dara_abrigo_a_ditador_diz_o_Itamaraty-p02.pdf
 2003-03-23-ESP-Brasil_nao_dara_abrigo_a_ditador_diz_o_itamaraty-p01.pdf
 ###
-98
+98 #ANALISAR
 1996-11-28-GZM-Penso_mesmo_nas_reformas,_nao_na_reeleicao-p04.pdf
 1996-11-28-GZM-Penso_mesmo_nas_reformas_,_nao_na_reeleicao-p01.pdf
 ###
-98
+98 #ANALISAR
 1998-07-22-ESP-FHC_transforma_visita_de_Mandela_em_festa-p05.pdf
 1998-07-22-ESP-Fhc_transforma_visita_de_mandela_em_festa-p01.pdf
 ###
-96
+96 #ANALISAR
 1998-07-23-ESP-Mandela_ve_telecomunicacao_como_eixo_comercial-p04.pdf
 1998-07-23-ESP-Mandela_ve_telecomunicacoes_como_eixo_comercial-p01.pdf
 ###
-99
+99 #ANALISAR
 2003-03-24-ESP-Chirac_quer_Lula_em_reuniao_de_lideres_mundiais-p02.pdf
 2003-03-24-ESP-Chirac_quer_lula_em_reuniao_de_lideres_mundiais-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-11-04-GZM-Lula_anuncia_mais_credito_de_BNDES_para_projetos_em_Angola-p01.pdf
 2003-11-04-GZM-Lula_anuncia_mais_credito_doi_BNDES_para_projetos_em_Angola-p01.pdf
 ###
-91
+91 ok (datas e titulos distintos)
 2004-07-29-GZM-Brasil_e_gabao_assinam_acordos_de_cooperacao-p01.pdf
 2004-09-08-GZM-Brasil_e_china_assinam_acordos_de_cooperacao-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-03-28-ESP-Brasil_resiste_a_pressao_americana_na_ONU-p02.pdf
 2003-03-28-ESP-Brasil_resiste_a_pressao_americana_na_onu-p01.pdf
 ###
-86
+86 ok (datas e titulos distintos)
 1996-08-21-GZM-Chrysler_investira_US$_315_milhoes_no_Brasil-p01.pdf
 1996-07-19-GZM-Pfizer_investira_US$_100_milhoes_no_brasil-p01.pdf
 ###
-86
+86 ok (datas e titulos distintos)
 1997-01-29-GZM-Mais_estrangeiros_nas_autopecas-p01.pdf
 1998-06-17-GZM-Mais_estrangeiras_de_autopecas-p01.pdf
 ###
-99
+99 #ANALISAR
 2003-04-01-ESP-Amorim_entrega_em_maos_carta_de_Lula_ao_papa-p02.pdf
 2003-04-01-ESP-Amorim_entrega_em_maos_carta_de_lula_ao_papa-p01.pdf
 ###
-85
+85 ok (datas e titulos distintos)
 1997-09-23-GZM-Desacelera_se_o_regime_automotivo-p01.pdf
 1998-09-30-GZM-MP_altera_o_regime_automotivo-p01.pdf
 ###
-86
+86 #ANALISAR
 2004-06-15-GZM-Com_tarifa_menor,_comercio_Sul_Sul_crescera_US$_16_bi-p01.pdf
 2004-06-15-GZM-Com_tarifa_menor,_comercio_sul_sul-p01.pdf
 ###
-89
+89 #ANALISAR
 2006-12-15-ESP-Embraer_vai_investir_em_cinco_anos_us$_2.6_bilhoes-p01.pdf
 2006-12-15-ESP-Embraer_vai_investir_us$2.6_bilhoes-p01.pdf
 ###
-86
+86 ok (datas e titulos distintos)
 2004-08-06-GZM-Ue_avalia_se_vai_recorrer_da_decisao_sobre_o_acucar-p01.pdf
 2005-01-13-GZM-UE_vai_recorrer_de_decisao_sobre_o_acucar-p01.pdf
 ###
-90
+90 #ANALISAR
 2004-08-20-GZM-Temos_de_estar_presentes_nas_areas-p01.pdf
 2004-08-20-GZM-Temos_de_estar_presentes_nas_areas_estrategicas-p01.pdf
 ###
-86
+86 ok (datas e titulos distintos)
 2004-10-19-GZM-EUA_recorrem_de_condenacao_da_OMC-p01.pdf
 2004-01-14-GZM-Europa_recorre_de_decisao_da_OMC-p01.pdf
 ###
-85
+85 #ANALISAR (uma é continuação da outra)
 2004-11-29-GZM-Brasil,_Canada_e...-p01.pdf
 2004-11-29-GZM-Brasil,_Canada_e_Mexico_vs._EUA-p01.pdf
 ###
-88
+88 #ANALISAR (uma é continuação da outra)
 2004-12-28-GZM-Gerdau_expande_sua_operacao_na...-p01.pdf
 2004-12-28-GZM-Gerdau_expande_sua_operacao_na_america_do_sul-p01.pdf
 ###
-95
+95 #ANALISAR
 2005-03-04-GZM-Fim_do_subsidio_ao_algodao_dos_estados-p01.pdf
 2005-03-04-GZM-Fim_do_subsidio_ao_algodao_dos_estados_unidos-p01.pdf
 ###
-100
+100 #ANALISAR
 2003-05-01-ESP-'Brasil_nao_precisa_pedir_licenca_a_ninguem_para_expandir_suas_relacoes'-p01.pdf
 2003-05-01-ESP-Brasil_nao_precisa_pedir_licenca_a_ninguem_para_expandir_suas_relacoes-p01.pdf
 ###
-96
+96 #ANALISAR
 2005-11-04-GZM-Capitais_brasileiros_no_exterior_crescem-p01.pdf
 2005-11-04-GZM-Capitais_brasileiros_no_exterior_crescem_12,8%-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-05-04-ESP-Lula_propora_ao_G_7_combate_a_fome_no_mundo-p02.pdf
 2003-05-04-ESP-Lula_propora_ao_g_7_combate_a_fome_no_mundo-p01.pdf
 ###
-86
+86 ok (datas e jornais distintos)
 2005-11-17-ESP-Estrategia_do_brasil_na_omc_e_equivocada-p01.pdf
 2003-12-12-GZM-A_estrategia_do_brasil_na_omc_e_equivocada-p01.pdf
 ###
-85
+85 ok (datas e titulos distintos)
 2003-05-05-GZM-Exercito_reforma_frota_de_blindados-p01.pdf
 2005-11-30-GZM-Exercito_retoma_programa_de_blindados-p01.pdf
 ###
-93
+93 #ANALISAR (uma é continuação da outra)
 2005-12-09-GZM-Brasil,_o_melhor_pais_emergente_para...-p01.pdf
 2005-12-09-GZM-Brasil,_o_melhor_pais_emergente_para_investir-p01.pdf
 ###
-93
+93 #ANALISAR (uma é continuação da outra)
 2006-03-22-GZM-Embraer_busca_US$_2_bi_com_lancamento...-p01.pdf
 2006-03-22-GZM-Embraer_busca_US$_2_bi_com_lancamento_de_acoes-p01.pdf
 ###
-95
+95 #ANALISAR (uma é continuação da outra)
 2006-03-23-GZM-A_Embraer_esclarece_que_nao_vai_emitir...-p01.pdf
 2006-03-23-GZM-A_Embraer_esclarece_que_nao_vai_emitir_acoes-p01.pdf
 ###
-86
+86 #ANALISAR (uma é continuação da outra)
 2006-04-06-GZM-Infra_estrutura_ganha...-p01.pdf
 2006-04-06-GZM-Infra_estrutura_ganha_investimentos-p01.pdf
 ###
-87
+87 #ANALISAR (uma é continuação da outra)
 2006-06-06-GZM-Pais_recompra_US$_4_bi_para...-p01.pdf
 2006-06-06-GZM-Pais_recompra_US$_4_bi_para_melhorar_perfil_da_divida-p01.pdf
 ###
-85
+85 ok (datas e titulos distintos)
 2006-01-25-GZM-Avanca_negociacao_no_setor_automotivo-p01.pdf
 1996-06-20-GZM-Negociacao_no_setor_automotivo-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-05-26-ESP-Cupula_do_G_8_com_emergentes_desagrada_a_EUA-p02.pdf
 2003-05-26-ESP-Cupula_do_g8_com_emergentes_desagrada_a_eua-p01.pdf
 ###
-90
+90 #ANALISAR (uma é continuação da outra)
 2006-10-25-GZM-Gerdau_lidera_ranking_de_multis...-p01.pdf
 2006-10-25-GZM-Gerdau_lidera_ranking_de_multis_brasileiras-p01.pdf
 ###
-92
+92 #ANALISAR (uma é continuação da outra)
 2006-10-25-GZM-Semana_decisiva_para_os_contenciosos...-p01.pdf
 2006-10-25-GZM-Semana_decisiva_para_os_contenciosos_agricolas-p01.pdf
 ###
-99
+99 #ANALISAR
 2003-05-28-ESP-Comite_do_G_8_desconhece_Fome_Zero-p01.pdf
 2003-05-28-ESP-Comite_do_g8_desconhece_fome_zero-p01.pdf
 ###
-90
+90 ok (datas e titulos distintos)
 2007-01-16-GZM-Pressa_para_salvar_a_rodada_doha-p01.pdf
 2007-07-18-GZM-Propostas_para_salvar_a_rodada_doha-p01.pdf
 ###
-90
+90 #ANALISAR
 2007-01-18-GZM-Commodity_avanca_nas_exportacoes-p01.pdf
 2007-01-18-GZM-Commodity_avanca_nas_exportacoes_brasileiras-p01.pdf
 ###
-97
+97 #ANALISAR
 2003-05-31-ESP-Lula_vai_pedir_ao_G_8_ajuda_para_os_pobre-p02.pdf
 2003-05-31-ESP-Lula_vai_pedir_ao_g8_ajuda_para_os_pobres-p01.pdf
 ###
-99
+99 #ANALISAR
 2003-06-02-ESP-Chirac_apoia_propostas_de_Lula_contra_a_fome-p04.pdf
 2003-06-02-ESP-Chirac_apoia_propostas_de_lula_contra_a_fome-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-06-02-ESP-Lula_poe_em_duvida_imparcialidade_da_OMC-p02.pdf
 2003-06-02-ESP-Lula_poe_em_duvida_imparcialidade_da_omc-p01.pdf
 ###
-85
+85 ok (datas e titulos distintos)
 2007-07-31-ESP-Acordo_elimina_subsidios_de_avioes-p01.pdf
 2010-12-28-ESP-Acordo_limita_subsidio_a_avioes-p01.pdf
 ###
-98
+98 #ANALISAR
 2003-06-03-ESP-Lula_adverte_sindicatos_precisam_mudar-p03.pdf
 2003-06-03-ESP-Lula_adverte_sindicatos_precisam_muda-p01.pdf
 ###
-85
+85 ok (datas e titulos distintos)
 2006-02-24-GZM-Salvaguardas_amecam_o_mercosul-p01.pdf
 2001-10-10-GZM-Salvaguarda_comercial_no_Mercosul-p01.pdf
 ###
-99
+99 #ANALISAR
 2003-06-07-ESP-So_ousadia_comercial_vence_protecionismo_diz_Lula-p03.pdf
 2003-06-07-ESP-So_ousadia_comercial_vence_protecionismo_diz_lula-p01.pdf
 ###
-98
+98 #ANALISAR
 1998-07-13-GZM-UE_adia_adocao_de_sobretaxas_a_madeiras-p01.pdf
 1998-07-13-GZM-EU_adia_adocao_de_sobretaxas_a_madeiras-p01.pdf
 ###
-99
+99 #ANALISAR
 2008-10-22-GZM-Bush_chama_Lula_e_mergentes_para_debater_a_crise_com_o_G8-p01.pdf
 2008-10-22-GZM-Bush_chama_lula_e_emergentes_para_debater_a_crise_com_o_g8-p01.pdf
 ###
-100
+100 #ANALISAR
 2008-11-19-ESP-'Brasil_tem_sido_fundamental_no_dialogo_entre_os_paises'-p01.pdf
 2008-11-19-ESP-Brasil_tem_sido_fundamental_no_dialogo_entre_os_paises-p01.pdf
 ###
-87
+87 #ANALISAR (uma é continuação da outra)
 2003-06-09-GZM-Novo_programa_vai_agilizar...-p01.pdf
 2003-06-09-GZM-Novo_programa_vai_agilizar_as_exportacoes-p01.pdf
 ###
-99
+99 #ANALISAR
 2009-04-04-ESP-Uruguai_sai_da_lista_de_paraisos_fiscais_da_OCDE-p01.pdf
 2009-04-04-ESP-Uruguai_saiu_da_lista_de_paraisos_fiscais_da_ocde-p01.pdf
 ###
-85
+85 #ANALISAR
 2009-04-22-VLR-Reuniao_do_g-8_alerta_o_brasil_sobre_pressao_em_etanol_e_carne-p01.pdf
 2009-04-22-VLR-Reuniao_do_G_8_alerta_o_Brasil_sobre_pressao_em_etanol_e_carne-p01.pdf
 ###
-99
+99 #ANALISAR
 2009-06-27-ESP-Presidentes_de_BCs_vao_propor_nova_regulacao-p01.pdf
 2009-06-27-ESP-Presidentes_do_BCs_vao_propor_nova_regulacao-p01.pdf
 ###
-98
+98 #ANALISAR
 1997-02-18-GZM-Brasil_opcao_atraente_para_investir-p01.pdf
 1997-01-18-GZM-Brasil_opcao_atraente_para_investir-p01.pdf
 ###
-93
+93 ok (partes distintas)
 1991-12-17-GZM-O_novo_quadro_da_Economia_Mundial_-_3a_parte-p03.pdf
 1991-12-16-ESP-O_novo_quadro_da_Economia_Mundial_-_2a_parte-p03.pdf
 ###
-87
+87 ok (partes distintas)
 1991-12-17-GZM-O_novo_quadro_da_Economia_Mundial_-_3a_parte-p03.pdf
 1991-12-24-ESP-O_novo_quadro_da_Economia_Mundial_-_ultima_parte-p02.pdf
 ###
-88
+88 #ANALISAR
 2003-01-03-ESP-Lula_pode_suspender_compra_de_cacas-p01.pdf
 0000-00-00-GZM-Lula_pode_suspender_compra_de_cacas-p01.pdf
 ###
-92
+92 #ANALISAR
 1984-09-01-ESP-Um_empresario_nas_malhas_da_sei-p01.pdf
 1984-08-05-JB-Um_empresario_nas_malhas_da_sei-p01.pdf
 ###
-94
+94 ok (conferido)
 1995-07-10-GZM-Seguro_obrigatorio_no_Mercosul-p01.pdf
 1995-05-29-GZM-Seguro_obrigatorio_no_Mercosul-p01.pdf
 ###
-88
+88 ok (datas e titulos distintos)
 2000-11-08-GZM-Mercosul_e_UE_negociam_acordo-p01.pdf
 1995-06-12-GZM-Mercosul_e_UE_negociam_acordo-p01.pdf
 ###
-96
+96 #ANALISAR
 2002-04-08-GZM-Presidente_polones_visita_o_Brasil-p01.pdf
 2002-03-06-GZM-Presidente_polones_visita_o_Brasil-p01.pdf
 ###
-88
+88 ok (datas e jornais distintos)
 2005-07-14-ESP-Lula_critica_protecionismo_dos_ricos-p01.pdf
 2003-01-29-GZM-Lula_critica_protecionismo_dos_ricos-p01.pdf
 ###
-88
+88 #ANALISAR
 1993-12-15-GZM-Acordo_beneficia_setor_agricola_brasileiro_segundo_Celso_Amorim-p01.pdf
 1993-12-15-GZM-Acordo_beneficia_setor_agricola_brasileiro_se-p01.pdf
 ###
-98
+98 #ANALISAR
 1999-01-10-GZM-Senado_votara_salvaguardas_nucleares-p01.pdf
 1994-01-10-GZM-Senado_votara_salvaguardas_nucleares-p01.pdf
 ###
-98
+98 #ANALISAR
 2004-07-29-ESP-Geisel_e_o_acordo_nuclear-p01.pdf
 2004-07-20-ESP-Geisel_e_o_acordo_nuclear-p01.pdf
 ###
