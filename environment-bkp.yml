@@ -8,11 +8,17 @@ dependencies:
   - pikepdf
   - pandas
   - numpy
-<<<<<<< HEAD
   - jupyterlab
   - matplotlib
+  - seaborn
+  - plotly
+  - unidecode
   - ocrmypdf
-=======
->>>>>>> 8e7b22c (ajuste env.yml ambiente virtual conda)
+  - opencv
+  - pypdf2
+  - pdfrw
+  - typing-extensions
+  - pdfminer.six
+  - streamlit
   - fuzzywuzzy
- 
+  - tqdm
