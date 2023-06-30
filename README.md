@@ -7,6 +7,12 @@
 
 -----
 
+<div align="center">
+
+[![Static Badge](https://img.shields.io/badge/hemerotecapeb-apresenta%C3%A7%C3%A3o-%2303223f)](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/info) [![Static Badge](https://img.shields.io/badge/hemerotecapeb-equipe-%2303223f)](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/equipe) [![Static Badge](https://img.shields.io/badge/hemerotecapeb-atividades-%2303223f)](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/atividades) [![Static Badge](https://img.shields.io/badge/hemerotecapeb-documenta%C3%A7%C3%A3o-%2303223f)](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/infos/projetos/dados/hemeroteca-peb/infos/intro) [![Static Badge](https://img.shields.io/badge/hemerotecapeb-citar-%2303223f)](https://labriunesp.org/docs/projetos/dados/hemeroteca-peb/projetos/dados/hemeroteca-peb/citar)
+
+</div>
+
 A **Hemeroteca de Política Externa Brasileira** contém uma seleção de matérias publicadas, no período de 1972 a 2010, por alguns jornais brasileiros dentre os quais se destacam: O Estado de S. Paulo, Folha de S. Paulo e Gazeta Mercantil. O objetivo desta Hemeroteca é permitir aos pesquisadores interessados o acesso a notícias que foram selecionadas e classificadas ao longo dos anos, de 1972 até 2010, sobre importantes acontecimentos atinentes às relações internacionais do Brasil.
 
 -----
