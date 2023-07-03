@@ -55,32 +55,35 @@
 2001-05-21-GZM-Brasil_e_Argentina_retomam_negociacoes-p01.pdf
 ###
 88
-2010-10-30-ESP-Brasil_argentina_apos_a_era_kirchner-p01.pdf
+2010-10-30-ESP-Brasil_argentina_apos_a_era_kirchner-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2010-10-30-ESP-Brasil-Argentina_apos_a_era_kirchner-p01.pdf
 ###
 99
 2001-01-23-ESP-Fhc_confirma_escolha_de_lafer_para_o_itamaraty-p01.pdf
-2001-01-23-ESP-FHC_confirma_escolha_de_Lafer_para_o_Itamaraty-p02.pdf
+2001-01-23-ESP-FHC_confirma_escolha_de_Lafer_para_o_Itamaraty-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 99
-1986-05-03-ESP-Chernobyl_uma_prova_de_ineficiencia_e_soberb-p01.pdf
+1986-05-03-ESP-Chernobyl_uma_prova_de_ineficiencia_e_soberb-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1986-05-03-ESP-Chernobyl_uma_prova_de_ineficiencia_e_soberba-p01.pdf
 ###
 99
-1991-10-19-GZM-Ferias_coletivas_de_cliente_atingem_os_fornece-p01.pdf
-1991-10-19-GZM-Ferias_coletivas_de_cliente_atingem_os_forneced-p01.pdf
+1991-10-19-GZM-Ferias_coletivas_de_cliente_atingem_os_fornece-p01.pdf (mudar nome no jsno para o indicado na linha abaixo)
+## Ferias_coletivas_de_cliente_atingem_os_fornecedores_componentes_pecas
+1991-10-19-GZM-Ferias_coletivas_de_cliente_atingem_os_forneced-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+## Ferias_coletivas_de_cliente_atingem_os_fornecedores_componentes_pecas
+
 ###
-86
+86 ok
 1993-12-01-GZM-Brasil_e_Italia_revisam_o_acordo_de_cooperacao-p01.pdf
 1995-06-29-GZM-Brasil_e_Italia_fecham_acordo_de_cooperacao-p01.pdf
 ###
-87
+87 ok
 1994-09-16-GZM-Brasil_e_Russia_assinam_acordo_de_cooperacao-p01.pdf
 2004-09-08-GZM-Brasil_e_china_assinam_acordos_de_cooperacao-p01.pdf
 ###
 96
-2003-08-22-ESP-Aviao_da_FAB_chega_hoje_a_Bagda-p03.pdf
-2003-08-22-ESP-Aviao_da_fab_chega_hoje_a_bag-p01.pdf
+2003-08-22-ESP-Aviao_da_FAB_chega_hoje_a_Bagda-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2003-08-22-ESP-Aviao_da_fab_chega_hoje_a_Bagda-p01.pdf (ajustar nome)
 ###
 87
 1995-06-06-GZM-Cooperacao_com_a_Italia-p01.pdf
