@@ -142,20 +142,20 @@
 2001-01-08-ESP-Brasil_vai_a_omc_contra_o_mexico-p01.pdf
 2001-01-27-ESP-Brasil_recorre_a_omc_contra_os_mexicanos-p01.pdf
 ###
-89 #ANALISAR
-2001-01-18-GZM-EUA_querem_a_Alca_ainda-p01.pdf
-2001-01-18-GZM-OS_EUA_querem_a_Alca_ainda_com_FHC-p01.pdf
+89 ok
+2001-01-18-GZM-EUA_querem_a_Alca_ainda-p01.pdf 
+2001-01-18-GZM-Os_EUA_querem_a_Alca_ainda_com_FHC-p02.pdf  
 ###
 85 ok (datas e títulos distintos entre si)
 2001-01-27-ESP-Brasil_recorre_a_omc_contra_os_mexicanos-p01.pdf
-2005-10-25-ESP-Brasil_recorre_a_omc_contra_abusos-p01.pdf #ANALISAR
+2005-10-25-ESP-Brasil_recorre_a_omc_contra_abusos-p01.pdf 
 ###
-98 #ANALISAR
-2001-03-12-GZM-OEA_quer_explicacoes_sobre_Araguaia-p02.pdf
+98 
+2001-03-12-GZM-OEA_quer_explicacoes_sobre_Araguaia-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-03-12-GZM-Oea_quer_explicacoes_sobre_araguaia-p01.pdf
 ###
-98 #ANALISAR
-2001-05-05-ESP-Mexicanos_fazem_acordo_com_dindipecas-p01.pdf
+98 
+2001-05-05-ESP-Mexicanos_fazem_acordo_com_dindipecas-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-05-05-ESP-Mexicanos_fazem_acordo_com_sindipecas-p01.pdf
 ###
 86 ok (datas são diferentes entre si)
@@ -170,56 +170,56 @@
 2001-10-16-ESP-EUA_e_Brasil_rumo_a_Alca(3)-p01.pdf
 2001-10-12-ESP-EUA_e_Brasil_rumo_a_Alca(2)-p01.pdf
 ###
-92 #ANALISAR
-2002-01-08-GZM-OAB_critica_a_prestacao_de_advocacia_garat-p01.pdf
-2002-01-08-JC-OAB_Critica_a_prestacao_de_advocacia_gratuita-p01.pdf
+92
+2002-01-08-GZM-OAB_critica_a_prestacao_de_advocacia_garat-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2002-01-08-JC-OAB_Critica_a_prestacao_de_advocacia_gratuita-p01.pdf #ALTERAR sigla jornal para GZM e jornal para Gazeta Mercantil
 ###
-99 #ANALISAR
-2002-05-01-ESP-Urnas_vao_reconhecer_acao_do_governo_diz_FHC-p02.pdf
+99 
+2002-05-01-ESP-Urnas_vao_reconhecer_acao_do_governo_diz_FHC-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-05-01-ESP-Urnas_vao_reconhecer_acao_do_governo_diz_fhc-p01.pdf
 ###
-98 #ANALISAR
-2002-01-09-ESP-Parceiros_devem_cooperar_dizem_os_europe-p02.pdf
+98 
+2002-01-09-ESP-Parceiros_devem_cooperar_dizem_os_europe-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-01-09-ESP-Parceiros_devem_cooperar_dizem_os_europeus-p02.pdf
 ###
-98 #ANALISAR
-2002-01-09-ESP-Wall_Street_Journal_sugere_saida_do_Merco-p01.pdf
+98 
+2002-01-09-ESP-Wall_Street_Journal_sugere_saida_do_Merco-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-01-09-ESP-Wall_Street_Journal_sugere_saida_do_Mercosul-p01.pdf
 ###
-96 #ANALISAR
-2002-01-10-ESP-Duhalde_decreta_estado_de_emergencia_sani-p02.pdf
+96 
+2002-01-10-ESP-Duhalde_decreta_estado_de_emergencia_sani-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-01-10-ESP-Duhalde_decreta_estado_de_emergencia_sanitario-p02.pdf
 ###
-98 #ANALISAR
-2002-01-10-ESP-FHC_pede_explicacao_para_queda_abaixo_de-p01.pdf
+98 
+2002-01-10-ESP-FHC_pede_explicacao_para_queda_abaixo_de-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-01-10-ESP-FHC_pede_explicacao_para_queda_abaixo_de_20%-p01.pdf
 ###
-95 #ANALISAR
-2002-01-10-ESP-Fim_da_paridade_reduzira_disputa_diz_emb-p01.pdf
+95 
+2002-01-10-ESP-Fim_da_paridade_reduzira_disputa_diz_emb-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-01-10-ESP-Fim_da_paridade_reduzira_disputa_diz_embaixador-p01.pdf
 ###
 85 ok (datas e jornais diferentes entre si)
 2002-03-28-GZM-Brasil_e_canada_vao_retomar_negociacao-p01.pdf
 2000-05-12-ESP-Brasil_e_Canada_vao_retomar_negociacoes-p01.pdf
 ###
-93 #ANALISAR
-2002-01-10-ESP-Governo_ameaca_abrir_importacoes_para_con-p01.pdf
+93 
+2002-01-10-ESP-Governo_ameaca_abrir_importacoes_para_con-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-01-10-ESP-Governo_ameaca_abrir_importacoes_para_conter_precos-p01.pdf
 ###
-96 #ANALISAR
-2002-01-11-ESP-Brasil_nao_dara_ajuda_financeira_diz_Bot-p01.pdf
+96 
+2002-01-11-ESP-Brasil_nao_dara_ajuda_financeira_diz_Bot-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-01-11-ESP-Brasil_nao_dara_ajuda_financeira_diz_Botafogo-p01.pdf
 ###
-89 #ANALISAR
-2002-01-11-ESP-Chile_pede_que_PR_envie_supersopa-p01.pdf
-2002-01-11-ESP-'Chiche'_pede_que_PR_envie_supersopa-p01.pdf
+89 
+2002-01-11-ESP-Chile_pede_que_PR_envie_supersopa-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2002-01-11-ESP-'Chiche'_pede_que_PR_envie_supersopa-p01.pdf #RETIRAR ASPAS SIMPLES NO JSON DO PDF E TIF
 ###
-98 #ANALISAR
-2002-01-12-ESP-Banco_Central_quer_criar_outra_moeda_virt-p02.pdf
+98 
+2002-01-12-ESP-Banco_Central_quer_criar_outra_moeda_virt-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-01-12-ESP-Banco_Central_quer_criar_outra_moeda_virtual-p02.pdf
 ###
-98 #ANALISAR
-2002-05-10-ESP-FHC_critica_bancos_e_ataca_protecionismo-p03.pdf
+98 
+2002-05-10-ESP-FHC_critica_bancos_e_ataca_protecionismo-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-05-10-ESP-Fhc_critica_bancos_e_ataca_protecionismo-p01.pdf
 ###
 89 ok (datas diferentes entre si)
@@ -230,9 +230,9 @@
 2002-06-14-GZM-Sancoes_contra_o_canada-p01.pdf
 2001-01-19-GZM-Reacao_contra_o_Canada-p01.pdf
 ###
-99 #ANALISAR
+99 
 2002-05-12-ESP-Ignorancia_sobre_Brasil_choca_Itamaraty-p01.pdf
-2002-05-12-ESP-Ingnorancia_sobre_brasil_choca_itamaraty-p01.pdf
+2002-05-12-ESP-Ingnorancia_sobre_brasil_choca_itamaraty-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 85 ok (datas e títulos diferentes entre si)
 2002-06-25-GZM-Mercosul_quer_acelerar_acordo_com_os_andinos-p01.pdf
@@ -250,8 +250,8 @@
 2002-08-19-GZM-Mercosul_quer_acordo_com_andinos-p01.pdf
 2002-10-11-GZM-Mercosul_quer_acordo_com_a_Tailandia-p01.pdf
 ###
-97 #ANALISAR
-2002-05-17-ESP-Serra_volta_atacar_protecionismo_de_paises_ricos-p02.pdf
+97 
+2002-05-17-ESP-Serra_volta_atacar_protecionismo_de_paises_ricos-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-05-17-ESP-Serra_volta_a_atacar_protecionismo_de_paises_ricos-p01.pdf
 ###
 87 ok (jornais e títulos diferentes entre si)
@@ -266,25 +266,25 @@
 2002-12-06-GZM-Mercosul_e_CAN_negociam_acordo_de_livre_comerci-p02.pdf
 2008-06-08-GZM-Mercosul_e_asean_vao_negociar_um_acordo_de_livre_comercio-p01.pdf
 ###
-98 #ANALISAR
-2002-05-23-ESP-Lula_diz_nao_temer_negociacao_com_os_EUA-p02.pdf
+98 
+2002-05-23-ESP-Lula_diz_nao_temer_negociacao_com_os_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-05-23-ESP-Lula_diz_nao_temer_negociacao_com_os_eua-p01.pdf
 ###
-94 #ANALISAR
+94 ok (são noticias diferentes)
 2002-12-11-ESP-Paises_da_Triplice_fronteira_e_EUA_discutirao_te-p01.pdf
 2002-12-17-ESP-Paises_da_triplice_fronteira_e_EUA_discutem_ter-p01.pdf
 ###
-100 #ANALISAR
-2002-05-23-ESP-Toda_forca_aos_lobbies_protecionistas-p01.pdf
-2002-05-23-ESP-Toda_forca_aos_lobbies_protecionistas?-p01.pdf
+100 
+2002-05-23-ESP-Toda_forca_aos_lobbies_protecionistas-p01.pdf 
+2002-05-23-ESP-Toda_forca_aos_lobbies_protecionistas?-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2002-05-27-ESP-Estudo_aponta_ascensao_internacional_do_Pais-p02.pdf
+99 
+2002-05-27-ESP-Estudo_aponta_ascensao_internacional_do_Pais-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-05-27-ESP-Estudo_aponta_ascensao_internacional_do_pais-p01.pdf
 ###
-98 #ANALISAR
-2003-02-12-GZM-Alca_empresas_pedem_mais_pragmatismo-p01.pdf
-2004-02-12-GZM-Alca_empresas_pedem_mais_pragmatismo-p01.pdf
+98 ok
+2003-02-12-GZM-Alca_empresas_pedem_mais_pragmatismo-p01.pdf 
+2004-02-12-GZM-Alca_empresas_pedem_mais_pragmatismo-p02.pdf 
 ###
 85 ok (datas e títulos diferentes entre si)
 2002-01-30-ESP-Brasil_e_Argentina_fecham_acordo_comercia-p01.pdf
