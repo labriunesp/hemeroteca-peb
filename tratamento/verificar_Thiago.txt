@@ -290,119 +290,119 @@
 2002-01-30-ESP-Brasil_e_Argentina_fecham_acordo_comercia-p01.pdf
 2000-11-23-ESP-Brasile_Argentina_fecham_o_acordo_automotiv-p01.pdf
 ###
-99 #ANALISAR
-2002-06-08-ESP-Garotinho_quer_Itamaraty_so_para_fazer_festa-p01.pdf
+99
+2002-06-08-ESP-Garotinho_quer_Itamaraty_so_para_fazer_festa-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-06-08-ESP-Garotinho_quer_itamaraty_so_para_fazer_fest-p01.pdf
 ###
 86 ok (datas e títulos diferentes entre si)
 2003-04-16-GZM-Chile_apoia_o_brasil_no_conselho_de_seguranca-p01.pdf
 2006-03-10-GZM-Blair_apoia_o_Brasil_para_o_Conselho_de_Seguranca-p01.pdf
 ###
-98 #ANALISAR
-2002-06-10-ESP-Congresso_quer_ter_voz_em_assuntos_externos-p01.pdf
+98
+2002-06-10-ESP-Congresso_quer_ter_voz_em_assuntos_externos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-06-20-ESP-Congresso_quer_ter_voz_em_assuntos_externos-p01.pdf
 ###
-95 #ANALISAR
-2003-05-05-GZM-Mexico_adia_reuniao_e_causa_alivio_ao_governo_bra-p01.pdf
+95
+2003-05-05-GZM-Mexico_adia_reuniao_e_causa_alivio_ao_governo_bra-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-05-05-GZM-Mexico_adia_reuniao_e_causa_alivio_ao_governo_brasileiro-p01.pdf
 ###
-96 #ANALISAR
+96 11:17 (datas e títulos diferentes entre si)
 2003-05-07-GZM-Um_parlamento_para_o_Mercosul-p01.pdf
 2003-06-04-GZM-Um_parlamento_para_o_Mercosul-p01.pdf
 ###
-98 #ANALISAR
-2002-06-11-ESP-Europeus_creem_em_bom_dialogo_com_partido-p01.pdf
+98 11:21
+2002-06-11-ESP-Europeus_creem_em_bom_dialogo_com_partido-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-06-11-ESP-Europeus_creem_em_com_dialogo_com_partido-p01.pdf
 ###
 85
-2003-05-25-ESP-INtegra-p01.pdf #ANALISAR arrumar titulo
+2003-05-25-ESP-INtegra-p01.pdf
 2003-05-25-ESP-Area_de_protecao_ambiental_em_meia_amazonia-p01.pdf
 ###
 85 
-2003-05-25-ESP-INtegra-p01.pdf #ANALISAR arrumar titulo
+2003-05-25-ESP-INtegra-p01.pdf
 2003-05-25-ESP-Patentes:_eua_enfrentam_brasil_na_oms-p01.pdf
 ###
-99 #ANALISAR
-2002-06-13-GZM-FHC_ratifica_adesao_a_Tribunal_internacional-p02.pdf
+99 11:30
+2002-06-13-GZM-FHC_ratifica_adesao_a_Tribunal_internacional-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-06-13-GZM-Fhc_ratifica_adesao_a_tribunal_internacional-p01.pdf
 ###
-92 #ANALISAR juntar noticias?
+92 ok 11:38
 2003-08-24-ESP-A_Alca_e_o_jogo_dos_sete_erros-p01.pdf
 2003-08-26-ESP-A_ALca_e_o_jogo_dos_sete_erros_(final)-p01.pdf
 ###
-98 #ANALISAR
-2002-06-21-ESP-EUA_reagem_a_ideia_de_incluir_Cuba_na_Alca-p02.pdf
+98 11:41
+2002-06-21-ESP-EUA_reagem_a_ideia_de_incluir_Cuba_na_Alca-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-06-21-ESP-Eua_reagem_a_ideia_de_incluir_cuba_na_alca-p01.pdf
 ###
 88 ok (datas e títulos diferentes entre si)
 2003-10-14-GZM-Mercosul_e_EUA_iniciam_negociacoes-p01.pdf
 2005-02-14-GZM-Mercosul_e_canada_iniciam_negociacao-p01.pdf
 ###
-98 #ANALISAR
-2002-07-01-GZM-As_diretrizes_do_PT_para_o_governo-p04.pdf
+98 11:48
+2002-07-01-GZM-As_diretrizes_do_PT_para_o_governo-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-07-01-GZM-As_diretrizes_do_pt_para_o_governo-p01.pdf
 ###
-93 #ANALISAR
-2002-07-07-ESP-Brasil_e_criticado_por_indifinicap_sobre_TPI-p02.pdf
+93 11:52
+2002-07-07-ESP-Brasil_e_criticado_por_indifinicap_sobre_TPI-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-07-ESP-Brasil_e_criticado_por_indefinicao_sobre_tpi-p01.pdf
 ###
-97 #ANALISAR
-2002-07-22-ESP-Presidente_ativa_Sivam_e_rebate_criticas-p04.pdf
+97 12:03
+2002-07-22-ESP-Presidente_ativa_Sivam_e_rebate_criticas-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-07-26-ESP-Presidente_ativa_sivam_e_rebate_criticas-p01.pdf
 ###
-99 #ANALISAR
-2002-07-23-ESP-Brasileiro_e_novo_comissario_de_Direitos_Humanos-p03.pdf
-2002-07-23-ESP-Brasileiro_e_novo_comissario_de_direitos_humanos-p01.pdf
+99 12:07
+2002-07-23-ESP-Brasileiro_e_novo_comissario_de_Direitos_Humanos-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2002-07-23-ESP-Brasileiro_e_novo_comissario_de_direitos_humanos-p01.pdf 
 ###
-99 #ANALISAR
-2002-07-24-ESP-Aeronautica_nega_ter_repassado_dados_do_Sivam-p02.pdf
+99 
+2002-07-24-ESP-Aeronautica_nega_ter_repassado_dados_do_Sivam-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-07-24-ESP-Aeronautica_nega_ter_repassado_dados_do_sivam-p01.pdf
 ###
-98 #ANALISAR
-2002-07-24-ESP-ONG_questiona_nomeacao_de_Vieira_de_Mello-p02.pdf
+98 12:13
+2002-07-24-ESP-ONG_questiona_nomeacao_de_Vieira_de_Mello-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-07-24-ESP-Ong_questiona_nomeacao_de_vieira_de_mello-p01.pdf
 ###
-99 #ANALISAR
+99 12:17
 2002-07-25-ESP-Brasil_ativa_hoje_rede_de_radares_da_Amazonia-p04.pdf
-2002-07-25-ESP-Brasil_ativa_hoje_rede_de_radares_da_amazonia-p01.pdf
+2002-07-25-ESP-Brasil_ativa_hoje_rede_de_radares_da_amazonia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
+98
 2002-07-25-ESP-Lula_promete_guerra_de_subsidio_na_agricultura-p02.pdf
-2002-07-25-ESP-Lula_promete_guerra_de_subsidios_na_agricultura-p01.pdf
+2002-07-25-ESP-Lula_promete_guerra_de_subsidios_na_agricultura-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-95 #ANALISAR
+95 ok 12:29
 2004-05-03-ESP-Mercosul_e_ue_tentam_superar_impasse-p01.pdf
 2004-07-09-ESP-Mercosul_e_ue_tentam_superar_o_impasse-p01.pdf
 ###
-85 ok (datas e títulos diferentes entre si)
+85 ok (datas e títulos diferentes entre si) 12:29
 2004-05-03-ESP-Mercosul_e_ue_tentam_superar_impasse-p01.pdf
 2004-10-20-GZM-Mercosul_e_ue_tentam_sair_do_impasse-p01.pdf
 ###
-90 #ANALISAR verificar se uma é a continuidade da outra em outra página e se há necessidade de uni-las
-2002-07-26-GZM-Acordo_com_fmi_agora_requer_algum...-p01.pdf
-2002-07-26-GZM-Acordo_com_fmi_agora_requer_algum_compromisso-p01.pdf
+90 12:40 ok 
+2002-07-26-GZM-Acordo_com_fmi_agora_requer_algum_compromisso-p02.pdf (renomear arquivo no json)
+2002-07-26-GZM-Acordo_com_fmi_agora_requer_algum_compromisso-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-91 #ANALISAR
-2004-05-21-GZM-Empresa_ancora_apoia_pequeno_e_medio-p01.pdf
-2004-05-21-GZM-Empresa_ancora_apoia_pequeno_e_medio_exportador-p01.pdf
+91 ok 08:51
+2004-05-21-GZM-Empresa_ancora_apoia_pequeno_e_medio_exportador-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2004-05-21-GZM-Empresa_ancora_apoia_pequeno_e_medio_exportador-p02.pdf (renomear arquivo no json)
 ###
-99 #ANALISAR
-2002-07-29-GZM-Oito_paises_de_lingua_portuguesa_discutem_integracao_em_Brasilia-p02.pdf
-2002-07-29-GZM-Oito_paises_de_lingua_portuguesa_discutem_integracao_em_brasilia-p01.pdf
+99 09:06
+2002-07-29-GZM-Oito_paises_de_lingua_portuguesa_discutem_integracao_em_Brasilia-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2002-07-29-GZM-Oito_paises_de_lingua_portuguesa_discutem_integracao_em_brasilia-p01.pdf (renomear arquivo no json)
 ###
 87 ok (datas e títulos diferentes entre si)
 2004-07-09-ESP-Mercosul_e_ue_tentam_superar_o_impasse-p01.pdf
 2004-10-20-GZM-Mercosul_e_ue_tentam_sair_do_impasse-p01.pdf
 ###
-86 #ANALISAR verificar se uma é a continuidade da outra em outra página e se há necessidade de uni-las
-2002-07-29-GZM-Agora_um_acordo_breve_o_definitivo...-p01.pdf
-2002-07-29-GZM-Agora_um_acordo_breve_o_definitivo_so_apos_a_eleicao-p01.pdf
+86 ok
+2002-07-29-GZM-Agora_um_acordo_breve_o_definitivo_so_apos_a_eleicao-p02.pdf (renomear arquivo no json)
+2002-07-29-GZM-Agora_um_acordo_breve_o_definitivo_so_apos_a_eleicao-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 87 ok (datas e títulos diferentes entre si)
 2002-07-24-ESP-Embraer_vende_10_avioes_para_empresa_indiana-p01.pdf
 2006-08-31-ESP-Embraer_vende_100_avioes_para_empresa_chinesa-p01.pdf
 ###
-89 #ANALISAR
+89 ok
 2004-08-11-GZM-Ue_melhora_oferta_para_o_emrcosul-p01.pdf
 2004-09-17-ESP-Ue_melhora_oferta_para_o_mercosul-p01.pdf
 ###
@@ -410,28 +410,28 @@
 2004-09-10-GZM-Uma_saida_para_o_pacifico-p01.pdf
 2004-12-08-GZM-Uma_abertura_para_o_pacifico-p01.pdf
 ###
-95 #ANALISAR
+95 ok
 2007-03-31-ESP-Senado_da_bolivia_aprova_41_contratos_com_petroleiras-p01.pdf
 2007-04-12-ESP-Senado_da_bolivia_aprova_contratos_com_petroleiras-p01.pdf
 ###
-98 #ANALISAR
-2004-09-24-GZM-Bndes_firma_abertura_para_mercosul-p01.pdf
+98 ok
 2004-09-24-GZM-Bndes_firma_abertura_para_o_mercosul-p01.pdf
+2004-09-24-GZM-Bndes_firma_abertura_para_o_mercosul-p02.pdf (renomear arquivo no json)
 ###
-90 #ANALISAR verificar se uma é a continuidade da outra em outra página e se há necessidade de uni-las
-2004-09-30-GZM-Air_canada_paga_us$_1,35_bi_por...-p01.pdf
-2004-09-30-GZM-Air_canada_paga_us$_1,35_bi_por_45_jatos_embraer-p01.pdf
+90 ok 09:52
+2004-09-30-GZM-Air_canada_paga_us$_1,35_bi_por_45_jatos_embraer-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2004-09-30-GZM-Air_canada_paga_us$_1,35_bi_por_45_jatos_embraer-p02.pdf (renomear arquivo no json)
 ###
-88 #ANALISAR ANO
+88 ok
 2004-10-14-ESP-Governador_do_ms_acusa_o_paraguai-p01.pdf
 2005-10-14-GZM-Governo_do_ms_acusa_o_paraguai-p01.pdf
 ###
-90 #ANALISAR
-2004-12-08-GZM-Uma_abertura_para_o-p01.pdf
-2004-12-08-GZM-Uma_abertura_para_o_pacifico-p01.pdf
+90 ok 10:10
+2004-12-08-GZM-Uma_abertura_para_o_pacifico-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2004-12-08-GZM-Uma_abertura_para_o_pacifico-p02.pdf (renomear arquivo no json)
 ###
-98 #ANALISAR
-2004-12-11-GZM-Agricultor_protesta_contra_mercosul-p01.pdf
+98 
+2004-12-11-GZM-Agricultor_protesta_contra_mercosul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-12-11-GZM-Agricultor_protesta_contra_o_mercosul-p01.pdf
 ###
 87 ok (datas e títulos diferentes entre si)
@@ -446,65 +446,65 @@
 2004-12-17-GZM-Brasil_e_paraguai_assinam_acordo_de_cooperacao-p01.pdf
 2004-09-08-GZM-Brasil_e_china_assinam_acordos_de_cooperacao-p01.pdf
 ###
-85 #ANALISAR
-2005-01-28-GZM-A_maior_venda_mundial_da_volvo_a_partir_do_brasil-p01.pdf
-2005-01-28-GZM-A_maior_venda_mundial_da_volvo-p01.pdf
+85
+2005-01-28-GZM-A_maior_venda_mundial_da_volvo_a_partir_do_brasil-p02.pdf (renomear arquivo no json)
+2005-01-28-GZM-A_maior_venda_mundial_da_volvo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 88 ok (datas e títulos diferentes entre si)
 2005-03-21-GZM-As_negociacoes_ue_mercosul-p01.pdf
 2005-04-08-GZM-As_negociacoes_mercosul_ue-p01.pdf
 ###
-99 #ANALISAR
-2002-09-06-ESP-Itamaraty_demite_diplomatas_por_apropiacao_de_recursos-p01.pdf
+99 10:45
+2002-09-06-ESP-Itamaraty_demite_diplomatas_por_apropiacao_de_recursos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-06-ESP-Itamaraty_demite_diplomata_por_apropriacao_de_recursos-p01.pdf
 ###
 88 ok (datas e títulos diferentes entre si)
 2005-04-01-GZM-Presidente_uruguaio_chega_hoje_ao_brasil-p01.pdf
 2005-01-11-GZM-Presidente_da_Bulgaria_chega_hoje_ao_Brasil-p01.pdf
 ###
-87 #ANALISAR
-2005-04-07-GZM-Intensificam_se_pressoes_para-p01.pdf
-2005-04-07-GZM-Intensificam_se_pressoes_para_mercedes_ficar-p01.pdf
+87 ok
+2005-04-07-GZM-Intensificam_se_pressoes_para_mercedes_ficar-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2005-04-07-GZM-Intensificam_se_pressoes_para_mercedes_ficar-p02.pdf (renomear arquivo no json)
 ###
-99 #ANALISAR
-2002-09-08-ESP-Candidatos_prometem_reforcar_defesa_da_Amazonia-p04.pdf
+99 11:32
+2002-09-08-ESP-Candidatos_prometem_reforcar_defesa_da_Amazonia-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-08-ESP-Candidatos_prometem_reforcar_defesa_da_amazonia-p01.pdf
 ###
-90 #ANALISAR verificar se uma é a continuidade da outra em outra página e se há necessidade de uni-las
-2005-05-11-GZM-Lula,_chavez_e_kirchner_oficializam...-p01.pdf
-2005-05-11-GZM-Lula,_chvez_e_kirchner_oficializam_a_petrosul-p01.pdf
+90
+2005-05-11-GZM-Lula,_chvez_e_kirchner_oficializam_a_petrosul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2005-05-11-GZM-Lula,_chvez_e_kirchner_oficializam_a_petrosul-p02.pdf (renomear arquivo no json)
 ###
-90 #ANALISAR verificar se uma é a continuidade da outra em outra página e se há necessidade de uni-las
-2005-05-30-ESP-Exportacao_para_a_aladi_supera_vendas_aos_eua-p01.pdf
-2005-05-30-GZM-Exportacao_para_a_aladi_supera_venda_aos...-p01.pdf
+90 
+2005-05-30-ESP-Exportacao_para_a_aladi_supera_vendas_aos_eua-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2005-05-30-ESP-Exportacao_para_a_aladi_supera_vendas_aos_eua-p02.pdf (renomear arquivo no json)
 ###
-98 #ANALISAR
+98
 2005-06-15-ESP-Petrobras_volta_a_operar_com_gas-p01.pdf
-2005-06-16-ESP-Petrobras_volta_a_operar_com_gas-p01.pdf
+2005-06-16-ESP-Petrobras_volta_a_operar_com_gas-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-88 #ANALISAR
-2005-06-21-GZM-So_gas_boliviano_ecitara_um_novo-p01.pdf
-2005-06-21-GZM-So_gas_boliviano_evitara_um_novo_racionamento-p01.pdf
+88
+2005-06-21-GZM-So_gas_boliviano_evitara_um_novo_racionamento-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2005-06-21-GZM-So_gas_boliviano_evitara_um_novo_racionamento-p02.pdf (renomear arquivo no json)
 ###
 85 ok (datas e títulos diferentes entre si)
 2002-07-08-ESP-Brasil_ameaca_argentinos_com_retaliacao-p01.pdf
 2005-07-23-ESP-Brasil_ameaca_EUA_com_retaliacao-p01.pdf
 ###
-98 #ANALISAR
+98
 2002-09-13-ESP-Guerra_ao_terror_preocupa_Viera_de_Mello-p03.pdf
-2002-09-13-ESP-Guerra_ao_terror_preocupa_vieira_de_mello-p01.pdf
+2002-09-13-ESP-Guerra_ao_terror_preocupa_vieira_de_mello-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-96 #ANALISAR verificar se uma é a continuidade da outra em outra página e se há necessidade de uni-las
-2005-07-13-GZM-UE_espera_acordo_com_o_mercosul_ate_maio_de...-p01.pdf
-2005-07-13-GZM-UE_espera_acordo_com_o_mercosul_ate_maio_de_2006-p01.pdf
+96
+2005-07-13-GZM-UE_espera_acordo_com_o_mercosul_ate_maio_de_2006-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2005-07-13-GZM-UE_espera_acordo_com_o_mercosul_ate_maio_de_2006-p02.pdf (renomear arquivo no json)
 ###
 87 ok (datas e títulos diferentes entre si)
 2005-03-11-ESP-Brasil_e_argentina_adiam_negociacoes-p01.pdf
 2010-02-04-ESP-Brasil_e_argentina_retomam_negociacoes-p01.pdf
 ###
-99 #ANALISAR
-2005-08-18-GZM-Gerdau_quer_o_controle_de_siderirgica_na_colombia-p01.pdf
-2005-08-18-GZM-Gerdau_quer_o_controle_de_siderurgica_na_colombia-p01.pdf
+99
+2005-08-18-GZM-Gerdau_quer_o_controle_de_siderurgica_na_colombia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2005-08-18-GZM-Gerdau_quer_o_controle_de_siderurgica_na_colombia-p02.pdf (renomear arquivo no json)
 ###
 85 ok (datas e títulos diferentes entre si)
 2005-09-09-GZM-Petrobras_disputa_participacao_em_refinaria_na_colombia-p01.pdf
@@ -514,19 +514,19 @@
 2002-09-16-GZM-Japao_propoe_eliminacao_de_tarifas-p01.pdf
 2003-05-19-GZM-Omc_propoe_eliminacao_de_tarifas-p01.pdf
 ###
-99 #ANALISAR
-2002-09-18-ESP-No_Rio_Serra_trava_debate_tenso_com_militares-p02.pdf
-2002-09-18-ESP-No_rio_serra_trava_debate_tenso_com_militares-p01.pdf
+99
+2002-09-18-ESP-No_Rio_Serra_trava_debate_tenso_com_militares-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2002-09-18-ESP-No_rio_serra_trava_debate_tenso_com_militares-p02.pdf
 ###
-98 #ANALISAR
+98 12:24
 2002-09-19-ESP-Lula_afirma_que_Amazonia_nao_e_intocavel-p03.pdf
-2002-09-19-ESP-Lula_afirma_que_amazonia_nao_e_intocavel-p01.pdf
+2002-09-19-ESP-Lula_afirma_que_amazonia_nao_e_intocavel-p01.pdf  (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-90 #ANALISAR
-2005-12-07-GZM-Venezuela_vai_ser_mais_importante-p01.pdf
-2005-12-07-GZM-Venezuela_vai_ser_mais_importante_no_mercosul-p01.pdf
+90 12:30
+2005-12-07-GZM-Venezuela_vai_ser_mais_importante_no_mercosul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2005-12-07-GZM-Venezuela_vai_ser_mais_importante_no_mercosul-p02.pdf (renomear arquivo no json)
 ###
-85 #ANALISAR
+85 #ANALISAR   (COMEÇAR 07/06) !!!!!
 2005-12-08-GZM-Tarifas_de_tele_e_informatica_sao-p01.pdf
 2005-12-08-GZM-Tarifas_de_tele_e_informatica_sao_adiadas_no_mercosul-p01.pdf
 ###
