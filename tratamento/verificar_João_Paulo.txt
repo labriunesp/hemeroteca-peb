@@ -1,209 +1,209 @@
-87 #ANALISAR
-2002-08-06-ESP-Fast_track_favorece_a_Alca_diz_O_Neill_a_FHC-p02.pdf
+87 ok
+2002-08-06-ESP-Fast_track_favorece_a_Alca_diz_O_Neill_a_FHC-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-08-06-ESP-Fast_track_favorece_a_alca,_diz_o'neill_a_fhc-p01.pdf
 ###
-99 #ANALISAR
-2002-08-06-GZM-FHC_pede_mais_atencao_dos_EUA_a_America_Latina-p02.pdf
+99 ok
+2002-08-06-GZM-FHC_pede_mais_atencao_dos_EUA_a_America_Latina-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-08-06-GZM-Fhc_pede_mais_atencao_dos_eua_a_america_latina-p01.pdf
 ###
-98 #ANALISAR
-2002-08-06-GZM-O'Neil_reitera_apoiio_a_emprestimo-p01.pdf
+98 ok
+2002-08-06-GZM-O'Neil_reitera_apoiio_a_emprestimo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-08-06-GZM-O'neill_reitera_apoio_a_emprestimo-p01.pdf
 ###
-99 #ANALISAR
-2002-08-13-ESP-Governo_negocia_abertura_do_mercado_americano_pra_a_carne_brasileira-p01.pdf
+99 ok
+2002-08-13-ESP-Governo_negocia_abertura_do_mercado_americano_pra_a_carne_brasileira-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-08-13-ESP-Governo_negocia_abertura_do_mercado_americano_para_a_carne_brasileira-p01.pdf
 ###
-98 #ANALISAR
-2002-08-14-GZM-Ministperio_negocia_venda_de_carne_bovina_aos_EUA-p01.pdf
+98 ok
+2002-08-14-GZM-Ministperio_negocia_venda_de_carne_bovina_aos_EUA-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-08-14-GZM-Ministerio_negocia_a_venda_de_carne_bovina_aos_eua-p01.pdf
 ###
-98  #ANALISAR
+98  ok
 2002-08-17-ESP-Brasil_vai_atacar_restricoes_americanas_ao_suco_de_laranja-p01.pdf
-2002-08-17-ESP-Brasil_vai_atacar_as_restricoes_americanas_ao_suco_de_laranja-p01.pdf
+2002-08-17-ESP-Brasil_vai_atacar_as_restricoes_americanas_ao_suco_de_laranja-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2002-08-20-GZM-Missao_da_Nafta_vai_vistoriar_frigorificos_e_rebanho_bovino-p01.pdf
+99 ok
+2002-08-20-GZM-Missao_da_Nafta_vai_vistoriar_frigorificos_e_rebanho_bovino-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-08-20-GZM-Missao_do_nafta_vai_vistoriar_frigorificos_e_rebanho_bovino-p01.pdf
 ###
-99 #ANALISAR
-2002-08-27-GZM-Haass_comeca_a_ouvir_propostas_sobre_comecio_Brasil_EUA-p01.pdf
+99 ok
+2002-08-27-GZM-Haass_comeca_a_ouvir_propostas_sobre_comecio_Brasil_EUA-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-08-27-GZM-Haass_comeca_a_ouvir_propostas_sobre_comercio_brasil_eua-p01.pdf
 ###
-98 #ANALISAR
-2002-08-29-ESP-EUA_podem_bloquear_acao_brasileira_na_OMC-p02.pdf
+98 ok
+2002-08-29-ESP-EUA_podem_bloquear_acao_brasileira_na_OMC-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-08-29-ESP-Eua_podem_bloquear_acao_brasileira_na_omc-p01.pdf
 ###
-99 #ANALISAR
-2002-09-03-ESP-EUA_poderao_rever_restricoes_ao_aco_em_marco-p02.pdf
+99 ok
+2002-09-03-ESP-EUA_poderao_rever_restricoes_ao_aco_em_marco-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-03-ESP-Eua_poderao_rever_restricoes_ao_aco_em_marco-p01.pdf
 ###
-98 #ANALISAR
-2002-09-04-ESP-CNA_prega_luta_contra_subsidios_dos_EUA-p02.pdf
+98 ok
+2002-09-04-ESP-CNA_prega_luta_contra_subsidios_dos_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-04-ESP-Cna_prega_luta_contra_subsidios_dos_eua-p01.pdf
 ###
-96 #ANALISAR
-2002-09-04-ESP-EUA_pressionam_Brasil_a_firmar_pacto_contra_TPI-p02.pdf
+96 ok
+2002-09-04-ESP-EUA_pressionam_Brasil_a_firmar_pacto_contra_TPI-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-04-ESP-Eua_pressionam_brasil_a_firmar_pacto_contra_pt-p01.pdf
 ###
-98 #ANALISAR
-2002-09-04-GZM-Um_acordo_pos_eleitoral_Brasil_EUA-p02.pdf
+98 ok
+2002-09-04-GZM-Um_acordo_pos_eleitoral_Brasil_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-04-GZM-Um_acordo_pos_eleitoral_brasil_eua-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2002-09-05-GZM-Tratado_nao_surpreende_diplomacia-p01.pdf
-2002-09-05-GZM-Tratado_nao_surpreeende_diplomacia-p01.pdf
+2002-09-05-GZM-Tratado_nao_surpreeende_diplomacia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-95 #ANALISAR
-2002-09-18-ESP-EUA_admitem_negociar_medidas_protecionistas-p02.pdf
-2002-11-18-ESP-Eua_admitem_negociar_medidas_protecionistas-p01.pdf
+95 ok
+2002-09-18-ESP-EUA_admitem_negociar_medidas_protecionistas-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2002-09-18-ESP-Eua_admitem_negociar_medidas_protecionistas-p01.pdf
 ###
-99 #ANALISAR
-2002-09-18-GZM-EUA_aceitam_egociar_protecionismo-p01.pdf
+99 ok
+2002-09-18-GZM-EUA_aceitam_egociar_protecionismo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-18-GZM-Eua_aceitam_negociar_protecionismo-p01.pdf
 ###
 98 #ANALISAR
 2001-05-05-ESP-Brasil_diz_que_voto_na_ONU_nao_foi_contra_EUA-p02.pdf
 2001-05-05-ESP-Brasil_diz_que_voto_na_onu_nao_foi_contra_eua-p01.pdf
 ###
-100 #ANALISAR
-2002-09-23-GZM-''Pais_e_socio_de_longo_prazo''_diz_Zoellick-p01.pdf
-2002-09-23-GZM-''Pais_e_socio_de_longo_prazo'',_diz_zoellick-p01.pdf
+100 ok
+2002-09-23-GZM-Pais_e_socio_de_longo_prazo_diz_Zoellick-p01.pdf
+2002-09-23-GZM-''Pais_e_socio_de_longo_prazo'',_diz_zoellick-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-100 #ANALISAR
-2002-09-25-ESP-'Sera_melhor_assinar_a_Alca'_Alertam_EUA-p01.pdf
-2002-09-25-ESP-'Sera_melhor_assinar_a_alca',_alertam_eua-p01.pdf
+100 ok
+2002-09-25-ESP-Sera_melhor_assinar_a_Alca_Alertam_EUA-p01.pdf
+2002-09-25-ESP-'Sera_melhor_assinar_a_alca',_alertam_eua-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-96 #ANALISAR
-2002-09-26-ESP-EUA_mandam_recado_a_Lula_apos_critica_a_Bush-p02.pdf
-2002-11-26-ESP-Eua_mandam_recado_a_lula_apos_critica_a_bush-p01.pdf
+96 ok
+2002-09-26-ESP-EUA_mandam_recado_a_Lula_apos_critica_a_Bush-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2002-09-26-ESP-Eua_mandam_recado_a_lula_apos_critica_a_bush-p01.pdf
 ###
-98 #ANALISAR
-2002-09-26-ESP-Pressao_aumenta_entre_Brasil_e_EUA_na_OMC-p03.pdf
+98 ok
+2002-09-26-ESP-Pressao_aumenta_entre_Brasil_e_EUA_na_OMC-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-26-ESP-Pressao_aumenta_entre_brasil_e_eua_na_omc-p01.pdf
 ###
-98 #ANALISAR
-2002-09-26-GZM-EUA_aucsam_Brasil_de_proteger_agricultura-p01.pdf
+98 ok
+2002-09-26-GZM-EUA_aucsam_Brasil_de_proteger_agricultura-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-26-GZM-Eua_acusam_brasil_de_proteger_agricultura-p01.pdf
 ###
-98 #ANALISAR
-2002-09-28-ESP-O'Neill_elogia_economia_sob_o_governo_FHC-p01.pdf
+98 ok
+2002-09-28-ESP-O'Neill_elogia_economia_sob_o_governo_FHC-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-28-ESP-Oneill_elogia_economia_sob_o_governo_fhc-p01.pdf
 ###
-89 #ANALISAR
-2002-10-01-GZM-Camara_quer_documentos_americanos-p03.pdf
+89 ok
+2002-10-01-GZM-Camara_quer_documentos_americanos-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-10-01-GZM-Comissao_da_camara_quer_documentos_americanos-p01.pdf
 ###
-99 #ANALISAR
-2002-10-01-GZM-Solucao_bilateral_pode_resolver_caso_do_suco_de_laranja_no_OMC-p01.pdf
+99 ok
+2002-10-01-GZM-Solucao_bilateral_pode_resolver_caso_do_suco_de_laranja_no_OMC-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-10-01-GZM-Solucao_bilateral_pode_resolver_caso_do_suco_de_laranja_na_omc-p01.pdf
 ###
-95 #ANALISAR
+95 ok
 2002-10-02-GZM-A_Doutrina_Bush_e_a_America_Latina-p01.pdf
-2002-10-02-GZM-A_doutrina_e_a_america_latina-p01.pdf
+2002-10-02-GZM-A_doutrina_e_a_america_latina-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-87 #ANALISAR
+87 ok
 2002-10-03-ESP-EUA_sobretaxam_fio_maquina_do_Brasil_e_de_mais_seis_paises-p01.pdf
 2002-10-03-GZM-EUA_sobrataxam_fio_maquina_do_Brasil_e_outros_seis_paises-p01.pdf
 ###
-88  #ANALISAR
+88  ok
 2002-10-03-ESP-EUA_sobretaxam_fio_maquina_do_Brasil_e_de_mais_seis_paises-p01.pdf
 2002-10-03-GZM-Eua_sobretaxam_fio_maquina_do_brasil_e_outros_seis_paises-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2002-10-03-GZM-EUA_sobrataxam_fio_maquina_do_Brasil_e_outros_seis_paises-p01.pdf
-2002-10-03-GZM-Eua_sobretaxam_fio_maquina_do_brasil_e_outros_seis_paises-p01.pdf
+2002-10-03-GZM-Eua_sobretaxam_fio_maquina_do_brasil_e_outros_seis_paises-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-88 #ANALISAR
+88 ok
 2002-10-04-ESP-Para_IBS_nova_sobretaxa_nao_afeta_exportacoes-p01.pdf
-2002-10-04-ESP-Para_ibs,_nova_sobretaxa_nao_afeta_exportacoes-p01.pdf
+2002-10-04-ESP-Para_ibs,_nova_sobretaxa_nao_afeta_exportacoes-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ### 
-98 #ANALISAR
-2002-10-07-ESP-Eventual_malogro_brasileiro_preocupa_EUA-p02.pdf
+98 ok
+2002-10-07-ESP-Eventual_malogro_brasileiro_preocupa_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-10-07-ESP-Eventual_malogro_brasileiro_preocupa_eua-p01.pdf
 ###
-100 #ANALISAR
-2002-10-11-GZM-''Quem_quer_que_venca_sera_sensato''_diz_O'Neill-p01.pdf
-2002-10-11-GZM-''Quem_quer_que_venca_sera_sensato'',_diz_o'neill-p01.pdf
+100 ok
+2002-10-11-GZM-Quem_quer_que_venca_sera_sensato_diz_O'Neill-p01.pdf
+2002-10-11-GZM-''Quem_quer_que_venca_sera_sensato'',_diz_o'neill-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-94 #ANALISAR
-2002-10-16-ESP-Lula_reage_a_secretario_dos_EUA_e_cobra_respeito-p02.pdf
+94 ok
+2002-10-16-ESP-Lula_reage_a_secretario_dos_EUA_e_cobra_respeito-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-10-16-ESP-Lula_reage_a_secretario_dos_eua_e_cobra_'respeito'-p01.pdf
 ###
-88 #ANALISAR
+88 ok
 2002-10-16-GZM-Casa_branca_tem_plano_de_contingencia_para_governo_Lula_diz_Reich-p01.pdf
-2002-10-16-GZM-Casa_branca_tem_plano_de_contingencia_para_governo_lula,_diz_reich-p01.pdf
+2002-10-16-GZM-Casa_branca_tem_plano_de_contingencia_para_governo_lula,_diz_reich-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2002-10-17-ESP-Dirceu_reage_aos_EUA_e_diz_que_economia_mudara-p02.pdf
+99 ok
+2002-10-17-ESP-Dirceu_reage_aos_EUA_e_diz_que_economia_mudara-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-10-17-ESP-Dirceu_reage_aos_eua_e_diz_que_economia_mudara-p01.pdf
 ###
-98 #ANALISAR
-2002-10-22-ESP-EUA_reforcam_equipe_para_encontro_bilateral-p02.pdf
+98 ok
+2002-10-22-ESP-EUA_reforcam_equipe_para_encontro_bilateral-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-10-22-ESP-Eua_reforcam_equipe_para_encontro_bilateral-p01.pdf
 ###
 90 #ANALISAR
 2000-06-04-ESP-Democracia_na_America_Latina_tem_de_ser_consolidada_diz_FHC-p01.pdf
 2000-06-04-ESP-Democracia_na_america_latina_tem_de_ser_consolidada,_diz_fhc-p01.pdf
 ###
-98 #ANALISAR
+98 ok
 2002-10-25-ESP-ColinPowell_deve_visitar_Brasil_na_transicao-p02.pdf
-2002-10-25-ESP-Colin_powell_deve_visitar_brasil_na_transicao-p01.pdf
+2002-10-25-ESP-Colin_powell_deve_visitar_brasil_na_transicao-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2002-10-30-ESP-Exportador_do_Brasil_precisa_ser_mais_agressivo-p02.pdf
+99 ok
+2002-10-30-ESP-Exportador_do_Brasil_precisa_ser_mais_agressivo-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-10-30-ESP-Exportador_do_brasil_precisa_ser_mais_agressivo-p01.pdf
 ###
-98 #ANALISAR
-2002-11-15-ESP-FHC_ameaca_levar_questao_do_frango_a_OMC-p03.pdf
+98 ok
+2002-11-15-ESP-FHC_ameaca_levar_questao_do_frango_a_OMC-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-11-15-ESP-Fhc_ameaca_levar_questao_do_frango_a_omc-p01.pdf
 ###
-97 #ANALISAR
-2002-11-18-ESP-Protesto_em_Alcantara_reune_3_000_romeiros-p03.pdf
+97 ok
+2002-11-18-ESP-Protesto_em_Alcantara_reune_3_000_romeiros-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-11-18-ESP-Protesto_em_alcantara_reune_3000_'romeiros'-p01.pdf
 ###
-99 #ANALISAR
-2002-11-19-ESP-Brasil_ameaca_retaliar_EUA_por_causa_do_frango-p02.pdf
+99 ok
+2002-11-19-ESP-Brasil_ameaca_retaliar_EUA_por_causa_do_frango-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-11-19-ESP-Brasil_ameaca_retaliar_eua_por_causa_do_frango-p01.pdf
 ###
-99 #ANALISAR 
-2002-11-19-ESP-Emissario_de_Bush_vem_definir_agenda_com_Lula-p02.pdf
+99 ok 
+2002-11-19-ESP-Emissario_de_Bush_vem_definir_agenda_com_Lula-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-11-19-ESP-Emissario_de_bush_vem_definir_agenda_com_lula-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2002-11-20-ESP-EUA_ganham_prazo_na_questao_do_frango-p01.pdf
-2002-11-20-ESP-Eua_ganham_prazo_a_questao_do_frango-p01.pdf
+2002-11-20-ESP-Eua_ganham_prazo_a_questao_do_frango-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2002-11-20-GZM-Pratini_discute_coim_os_EUA_a_venda_de_frango_brasileiro_ao_Canada-p01.pdf
+99 ok
+2002-11-20-GZM-Pratini_discute_coim_os_EUA_a_venda_de_frango_brasileiro_ao_Canada-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-11-20-GZM-Pratini_discute_com_os_eua_a_venda_de_frango_brasileiro_ao_canada-p01.pdf
 ###
-99 #ANALISAR
-2002-11-21-ESP-Embaixador_quer_negociacao_direta_do_pais_com_EUA-p02.pdf
+99 ok
+2002-11-21-ESP-Embaixador_quer_negociacao_direta_do_pais_com_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-11-21-ESP-Embaixador_quer_negociacao_direta_do_pais_com_eua-p01.pdf
 ###
-98 #ANALISAR
-2002-11-22-GZM-Mercadante_propoe_acordo_com_os_EUA-p03.pdf
+98 ok
+2002-11-22-GZM-Mercadante_propoe_acordo_com_os_EUA-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-11-22-GZM-Mercadante_propoe_acordo_com_os_eua-p01.pdf
 ###
-98 #ANALISAR
-2002-11-23-ESP-Amaral_reage_ao_PT_e_diz_que_Brasil_ja_joga_duro-p03.pdf
+98 ok
+2002-11-23-ESP-Amaral_reage_ao_PT_e_diz_que_Brasil_ja_joga_duro-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-11-23-ESP-Amaral_reage_ao_pt_e_diz_que_brasil_ja_'joga_duro'-p01.pdf
 ###
-92 #ANALISAR
-2002-11-23-ESP-Lula_vai_propor_acordo_com_Mercosul_e_EUA-p02.pdf
+92 ok
+2002-11-23-ESP-Lula_vai_propor_acordo_com_Mercosul_e_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-11-23-ESP-Lula_vai_propor_acordo_entre_mercosul_e_eua-p01.pdf
 ###
-98 #ANALISAR
-2002-11-29-GZM-EUA_reclamam_do_Brasil_sobre_patente-p03.pdf
+98 ok
+2002-11-29-GZM-EUA_reclamam_do_Brasil_sobre_patente-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-11-29-GZM-Eua_reclamam_do_brasil_sobre_patente-p01.pdf
 ###
-99 #ANALISAR
-2002-11-30-ESP-EUA_vao_por_cacas_na_pauta_informal_com_Lula-p03.pdf
+99 ok
+2002-11-30-ESP-EUA_vao_por_cacas_na_pauta_informal_com_Lula-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-11-30-ESP-Eua_vao_por_cacas_na_pauta_informal_com_lula-p01.pdf
 ###
-99 #ANALISAR
-2002-12-02-GZM-Brasil_ataca_subsidios_dos_EUA_e_espera_revide-p02.pdf
+99 ok
+2002-12-02-GZM-Brasil_ataca_subsidios_dos_EUA_e_espera_revide-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-12-02-GZM-Brasil_ataca_subsidios_dos_eua_e_espera_revide-p01.pdf
 ###
 95 #ANALISAR
