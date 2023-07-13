@@ -206,76 +206,76 @@
 2002-12-02-GZM-Brasil_ataca_subsidios_dos_EUA_e_espera_revide-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-12-02-GZM-Brasil_ataca_subsidios_dos_eua_e_espera_revide-p01.pdf
 ###
-95 #ANALISAR
+95 ok
 2002-12-04-GZM-Medidas_antidumping_ameacam_camarao_brasileiro_nos_EUA-p01.pdf
-2002-12-04-GZM-Medidas_antidumping_ameacam_camarao_brasileiro-p01.pdf
+2002-12-04-GZM-Medidas_antidumping_ameacam_camarao_brasileiro-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-92 #ANALISAR
+92 ok
 2002-12-08-ESP-'Novo'_pt_resiste_ao_encontro_com_velha_esquerda-p01.pdf
-2002-12-08-ESP-Novo_PT_resiste_ao_encontro_com_velha_esquerda-p02.pdf
+2002-12-08-ESP-Novo_PT_resiste_ao_encontro_com_velha_esquerda-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-2002-12-08-ESP-EUA_apostam_em_afinidade_entre_Bush_e_Lula-p02.pdf
+98 ok
+2002-12-08-ESP-EUA_apostam_em_afinidade_entre_Bush_e_Lula-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-12-08-ESP-Eua_apostam_em_afinidade_entre_bush_e_lula-p01.pdf
 ###
-98 #ANALISAR
-2002-12-09-ESP-Lula_e_Bush_testam_amanha_o_novo_dialogo-p03.pdf
+98 ok
+2002-12-09-ESP-Lula_e_Bush_testam_amanha_o_novo_dialogo-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-12-09-ESP-Lula_e_bush_testam_amanha_o_novo_dialogo-p01.pdf
 ###
-98 #ANALISAR
-2002-12-10-ESP-Novo_governo_quer_dobar_comercio_com_EUA-p02.pdf
+98 ok
+2002-12-10-ESP-Novo_governo_quer_dobar_comercio_com_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-12-10-ESP-Novo_governo_quer_dobrar_comercio_com_eua-p01.pdf
 ###
-98 #ANALISAR
-2002-12-10-GZM-EUA_ganhan_m_disputa_contra_ex_estatais-p01.pdf
-2002-12-10-GZM-Eua_ganham_disputa_contra_ex_estatais-p01.pdf
+98 ok
+2002-12-10-GZM-EUA_ganhan_m_disputa_contra_ex_estatais-p01.pdf 
+2002-12-10-GZM-Eua_ganham_disputa_contra_ex_estatais-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-2002-12-11-ESP-Bush_propoe_A_lula_uma_cupula_no_Brasil-p02.pdf
+98 ok
+2002-12-11-ESP-Bush_propoe_A_lula_uma_cupula_no_Brasil-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-12-11-ESP-Bush_propoe_a_lula_uma_cupula_no_brasil-p01.pdf
 ###
-98 #ANALISAR
-2002-12-11-GZM-Lula_e_Bush_abrem_negociacoes-p02.pdf
+98 ok
+2002-12-11-GZM-Lula_e_Bush_abrem_negociacoes-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-12-11-GZM-Lula_e_bush_abrem_negociacoes-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2002-12-11-GZM-Lula_e_Bush_definem_i_inicio_de_novo_dialogo-p01.pdf
-2002-12-11-GZM-Lula_e_bush_definem_o_inicio_de_novo_dialogo-p01.pdf
+2002-12-11-GZM-Lula_e_bush_definem_o_inicio_de_novo_dialogo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-2002-12-12-ESP-Amaral_recomenda_firmeza_com_EUA-p02.pdf
+98 ok
+2002-12-12-ESP-Amaral_recomenda_firmeza_com_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-12-12-ESP-Amaral_recomenda_firmeza_com_eua-p01.pdf
 ### 
-85  #ANALISAR
+85 ok
 2002-12-12-ESP-Em_jantar_unica_queixa_foi_por_fim_do_sorvete-p01.pdf
-2002-12-12-ESP-Em_jantar,_unica_queixa_foi_por_fim_do_sorvete-p01.pdf
+2002-12-12-ESP-Em_jantar,_unica_queixa_foi_por_fim_do_sorvete-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-2002-12-12-ESP-Palocci_diz_nos_EUA_como_com_batera_inflacao-p02.pdf
+98 ok
+2002-12-12-ESP-Palocci_diz_nos_EUA_como_com_batera_inflacao-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-12-12-ESP-Palocci_diz_nos_eua_como_combatera_inflacao-p01.pdf
 ###
-100  #ANALISAR
+100 ok
 2003-01-02-GZM-Zoellick_diz_que_veio_ao_Brasil_''ouvir_e_aprender-p01.pdf
-2003-01-02-GZM-Zoellick_diz_que_veio_ao_brasil_''ouvir_e_aprender''-p01.pdf
+2003-01-02-GZM-Zoellick_diz_que_veio_ao_brasil_''ouvir_e_aprender''-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99  #ANALISAR
+99 ok
 2003-01-10-ESP-Amorim_'tranquiliza'_Powell_sobre_iniciativa-p01.pdf
-2003-01-10-ESP-Amorim_'traquiliza'_powell_sobre_iniciativa-p01.pdf
+2003-01-10-ESP-Amorim_'traquiliza'_powell_sobre_iniciativa-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2003-01-11-ESP-Potaria_mantem_fichamento_de_americanos-p01.pdf
+99 ok
+2003-01-11-ESP-Potaria_mantem_fichamento_de_americanos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-01-11-ESP-Portaria_mantem_fichamento_de_americanos-p01.pdf
 ###
-99 #ANALISAR
-2003-02-07-ESP-Brasil_recorre_a_OMC_contra_subsidio_americano-p02.pdf
+99 ok
+2003-02-07-ESP-Brasil_recorre_a_OMC_contra_subsidio_americano-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-02-07-ESP-Brasil_recorre_a_omc_contra_subsidio_americano-p01.pdf
 ###
-98 #ANALISAR
-2003-02-19-ESP-EUA_devem_bloquear_pedido_de_painel_na_OMC-p02.pdf
+98 ok
+2003-02-19-ESP-EUA_devem_bloquear_pedido_de_painel_na_OMC-p02.pdf  (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-02-19-ESP-Eua_devem_bloquear_pedido_de_painel_na_omc-p01.pdf
 ###
-99 #ANALISAR
-2003-03-01-ESP-FHC_quer_debater_restricao_a_liberdade_nos_EUA-p02.pdf
+99 ok
+2003-03-01-ESP-FHC_quer_debater_restricao_a_liberdade_nos_EUA-p02.pdf  (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-03-01-ESP-Fhc_quer_debater_restricao_a_liberdade_nos_eua-p01.pdf
 ###
 98 #ANALISAR
