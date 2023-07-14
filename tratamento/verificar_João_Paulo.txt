@@ -278,48 +278,48 @@
 2003-03-01-ESP-FHC_quer_debater_restricao_a_liberdade_nos_EUA-p02.pdf  (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-03-01-ESP-Fhc_quer_debater_restricao_a_liberdade_nos_eua-p01.pdf
 ###
-98 #ANALISAR
-2003-03-04-ESP-EUA_querem_exercitos_contra_o_trafico_na_AL-p02.pdf
+98 ok
+2003-03-04-ESP-EUA_querem_exercitos_contra_o_trafico_na_AL-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-03-04-ESP-Eua_querem_exercitos_contra_o_trafico_na_al-p01.pdf
 ###
-96 #ANALISAR
+96 ok
 2003-03-08-ESP-Americano_pede_paciencia_com_divida_da_Alca-p01.pdf
-2003-03-08-ESP-Americano_pede_paciencia_com_divida_da_aes-p01.pdf
+2003-03-08-ESP-Americano_pede_paciencia_com_divida_da_aes-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2003-03-09-ESP-Viegas_nao_quer_Forcas_Armadas_contra_trafico-p02.pdf
+99 ok
+2003-03-09-ESP-Viegas_nao_quer_Forcas_Armadas_contra_trafico-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-03-09-ESP-Viegas_nao_quer_forcas_armadas_contra_trafico-p01.pdf
 ###
-98 #ANALISAR
-2003-03-12-GZM-Seguraca_regional_divide_Brasil_e_EUA-p01.pdf
-2003-03-12-GZM-Segranca_regional_divide_brasil_e_eua-p01.pdf
+98 ok
+2003-03-12-GZM-Seguraca_regional_divide_Brasil_e_EUA-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2003-03-12-GZM-Segranca_regional_divide_brasil_e_eua-p01.pdf 
 ###
-98 #ANALISAR
+98 ok
 2003-03-13-GZM-Briga_do_suco_sera_resolvida_na_OMC-p01.pdf
-2003-03-13-GZM-Briga_de_suco_sera_resolvida_na_omc-p01.pdf
+2003-03-13-GZM-Briga_de_suco_sera_resolvida_na_omc-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2003-03-15-ESP-Governo_quer_rever_uso_de_Alcantara_pelos_EUA-p02.pdf
+99
+2003-03-15-ESP-Governo_quer_rever_uso_de_Alcantara_pelos_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-03-15-ESP-Governo_quer_rever_uso_de_alcantara_pelos_eua-p01.pdf
 ###
-98 #ANALISAR
-2003-03-26-GZM-C_&_T_brasileira_nos_EUA-p02.pdf
+98
+2003-03-26-GZM-C_&_T_brasileira_nos_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-03-26-GZM-C_&_t_brasileira_nos_eua-p01.pdf
 ###
-94 #ANALISAR
-2003-03-27-ESP-Brasil_vence_1_round_da_guerra_do_aco_na_OMC-p01.pdf
+94 ok
+2003-03-27-ESP-Brasil_vence_1_round_da_guerra_do_aco_na_OMC-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-03-27-ESP-Brasil_vence_primeiro_round_da_guerra_do_aco_na_omc-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2003-03-28-GZM-EUA_mantem_salaguardas_e_apelam_da_decisao_da_OMC-p01.pdf
-2003-03-28-GZM-Eua_mantem_salvaguardas_e_apelam_da_decisao_da_omc-p01.pdf
+2003-03-28-GZM-Eua_mantem_salvaguardas_e_apelam_da_decisao_da_omc-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
+98 ok
 2003-04-01-GZM-EUA_bloqueiam_o_pedido_do_Brasil-p01.pdf
-2003-04-07-GZM-Eua_bloqueiam_o_pedido_do_brasil-p01.pdf
+2003-04-07-GZM-Eua_bloqueiam_o_pedido_do_brasil-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2003-04-07-GZM-Brasil_esta_preparado_para_denunciar_os_eua_na_omc-p01.pdf
+99 ok
+2003-04-07-GZM-Brasil_esta_preparado_para_denunciar_os_eua_na_omc-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-04-17-GZM-Brasil_esta_preparado_para_denunciar_os_EUA_na_OMC-p01.pdf
 ###
 98 #ANALISAR
