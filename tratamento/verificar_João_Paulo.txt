@@ -322,185 +322,185 @@
 2003-04-07-GZM-Brasil_esta_preparado_para_denunciar_os_eua_na_omc-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-04-17-GZM-Brasil_esta_preparado_para_denunciar_os_EUA_na_OMC-p01.pdf
 ###
-98 #ANALISAR
+98 ok 9:00
 2003-04-12-ESP-Palocci_ouve_elogios_de_Greenspan_e_Snow-p02.pdf
-2003-04-12-ESP-Palocci_ouve_elogios_de_greenspan_e_snow-p01.pdf
+2003-04-12-ESP-Palocci_ouve_elogios_de_greenspan_e_snow-p01.pdf  (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-2003-04-13-ESP-Boicote_ao_Brasil-p03.pdf
+98 ok
+2003-04-13-ESP-Boicote_ao_Brasil-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-04-13-ESP-Boicote_ao_brasil-p01.pdf
 ###
-99 #ANALISAR
-2003-04-14-ESP-Wolf_elogia_nao_proliferacao_nuclear_do_Brasil-p02.pdf
+99 ok
+2003-04-14-ESP-Wolf_elogia_nao_proliferacao_nuclear_do_Brasil-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-04-14-ESP-Wolf_elogia_nao_proliferacao_nuclear_do_brasil-p01.pdf
 ###
-97 #ANALISAR
-2003-04-19-ESP-Visita_de_Snow_refotca_dialogo_Brasil_EUA-p03.pdf
+97 ok
+2003-04-19-ESP-Visita_de_Snow_refotca_dialogo_Brasil_EUA-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-04-19-ESP-Visita_de_snow_reforca_dialogo_brasil_eua-p01.pdf
 ###
-99 #ANALISAR
-2003-04-23-ESP-EUA_admitem_reduzir_subsidios_para_criar_Alca-p02.pdf
+99 ok
+2003-04-23-ESP-EUA_admitem_reduzir_subsidios_para_criar_Alca-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-04-23-ESP-Eua_admitem_reduzir_subsidios_para_criar_alca-p01.pdf
 ###
-98 #ANALISAR
-2003-04-23-ESP-Pragmatismo_entre_o_Brasil_e_os_EUA-p02.pdf
+98 ok
+2003-04-23-ESP-Pragmatismo_entre_o_Brasil_e_os_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-04-23-ESP-Pragmatismo_entre_o_brasil_e_os_eua-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2003-04-23-GZM-EUA_acenam_com_o_fim_de_barreiras_para_o_Brasil-p02.pdf
-2003-04-23-GZM-Eua_acenam_com_o_fim_de_barreiras_para_o_brasil-p01.pdf
+2003-04-23-GZM-Eua_acenam_com_o_fim_de_barreiras_para_o_brasil-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-89 #ANALISAR
+89 ok
 2003-04-29-ESP-Powell_sucesso_de_Lula_sera_importante-p01.pdf
-2003-04-29-ESP-Powell:_sucesso_de_lula_sera_importante-p01.pdf
+2003-04-29-ESP-Powell:_sucesso_de_lula_sera_importante-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
+99 ok
 2003-04-29-GZM-EUA_querem_o_fim_da_salvaguarda_para_seotr_de_brinquedos_no_Brasil-p01.pdf
-2003-04-29-GZM-Eua_querem_o_fim_da_salvaguarda_para_setor_de_brinquedos_no_brasil-p01.pdf
+2003-04-29-GZM-Eua_querem_o_fim_da_salvaguarda_para_setor_de_brinquedos_no_brasil-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
+99 ok
 2003-04-30-ESP-Brasil_serve_de_exemplo_no_conselho_das_americas-p01.pdf
-2003-04-30-ESP-Brasil_serve_de_exemplo_no_Conselho_das_Americas-p02.pdf
+2003-04-30-ESP-Brasil_serve_de_exemplo_no_Conselho_das_Americas-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-97 #ANALISAR
-2003-04-30-GZM-Reuniao_de_Amorim_e_Zoellick_nao_devara_ser_definitiva_sobre_a_Alca-p01.pdf
+97 ok
+2003-04-30-GZM-Reuniao_de_Amorim_e_Zoellick_nao_devara_ser_definitiva_sobre_a_Alca-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-05-01-GZM-Reuniao_de_amorim_e_zoellick_nao_devera_ser_definitiva_sobre_a_alca-p01.pdf
 ###
-85  #ANALISAR
+85 ok
 2003-05-01-ESP-Pais_sera_retaliado_se_aprovar_lei_do_abate_diz_Viegas-p01.pdf
-2003-05-01-ESP-Pais_sera_retaliado_se_aprovar_lei_do_abate,_diz_viegas-p01.pdf
+2003-05-01-ESP-Pais_sera_retaliado_se_aprovar_lei_do_abate,_diz_viegas-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99  #ANALISAR
-2003-05-01-ESP-Zoellick_quer_discutir_com_Brasil_rumos_da_Alca-p02.pdf
+99 ok
+2003-05-01-ESP-Zoellick_quer_discutir_com_Brasil_rumos_da_Alca-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-05-01-ESP-Zoellick_quer_discutir_com_brasil_rumos_da_alca-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2003-05-06-ESP-Algodao_pode_subir_7%_de_queixa_do_Brasil_contra_EUA_for_aceita-p01.pdf
-2003-05-06-ESP-Algodao_pode_subir_7%_se_queixa_do_brasil_contra_eua_for_aceita-p01.pdf
+2003-05-06-ESP-Algodao_pode_subir_7%_se_queixa_do_brasil_contra_eua_for_aceita-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98  #ANALISAR
-2003-05-09-ESP-EUA_esperam_mais_produtos_brasileiros-p02.pdf
+98 ok
+2003-05-09-ESP-EUA_esperam_mais_produtos_brasileiros-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-05-09-ESP-Eua_esperam_mais_produtos_brasileiros-p01.pdf
 ###
-92  #ANALISAR
-2003-05-14-GZM-Eua_ampliam_cota_de_importacao-p01.pdf
+92 ok
+2003-05-14-GZM-Eua_ampliam_cota_de_importacao-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-08-14-GZM-EUA_ampliam_cota_de_importacao_de_aco-p01.pdf
 ###
-99  #ANALISAR
+99 ok
 2003-05-20-GZM-''Brasil_deve_liderar_a_America_Latina_''-p01.pdf
-2003-05-20-GZM-''Brasil_deve_liderar_a_america_latina''-p01.pdf
+2003-05-20-GZM-''Brasil_deve_liderar_a_america_latina''-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-95  #ANALISAR
-2003-05-23-ESP-Agricultores_EUa_querem_mais_subsidios-p02.pdf
+95 ok
+2003-05-23-ESP-Agricultores_EUa_querem_mais_subsidios-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-05-23-ESP-Agricultores_dos_eua_querem_mais_subsidios-p01.pdf
 ###
-99  #ANALISAR
+99 ok
 2003-05-23-ESP-Reuniao_com_EUA_pode_fazer_negociacao_avancar-p02.pdf
-2003-05-23-ESP-Reuniao_com_eua_pode_fazer_negociacao_avancar-p01.pdf
+2003-05-23-ESP-Reuniao_com_eua_pode_fazer_negociacao_avancar-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99  #ANALISAR
+99 ok
 2003-05-23-GZM-Brasil_e_EUA_confrontam_se_sobre_patentes_farmaceuticas-p01.pdf
-2003-05-23-GZM-Brasil_e_eua_conforntam_se_sobre_patentes_farmaceuticas-p01.pdf
+2003-05-23-GZM-Brasil_e_eua_conforntam_se_sobre_patentes_farmaceuticas-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99  #ANALISAR
+99 ok
 2003-05-27-ESP-Avancos_agricolas_do_Pais_despertam_interesse_do_geverno_americano-p01.pdf
-2003-05-27-ESP-Avancos_agricolas_do_pais_despertam_interesse_do_governo_americano-p01.pdf
+2003-05-27-ESP-Avancos_agricolas_do_pais_despertam_interesse_do_governo_americano-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-97 #ANALISAR
-2003-05-28-ESP-Zoellick_exige_Alca_e_desacata_EUa_Mercosul-p02.pdf
+97 ok
+2003-05-28-ESP-Zoellick_exige_Alca_e_desacata_EUa_Mercosul-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-05-28-ESP-Zoellick_exige_alca_e_descarta_eua_mercosul-p01.pdf
 ###
-98 #ANALISAR
-2003-05-29-ESP-Brasil_e_EUA_contornam_impasse_na_Alca-p03.pdf
+98 ok
+2003-05-29-ESP-Brasil_e_EUA_contornam_impasse_na_Alca-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-05-29-ESP-Brasil_e_eua_contornam_impasse_na_alca-p01.pdf
 ###
-99 #ANALISAR
-2003-05-29-ESP-Deportacao_de_brasileiros_causa_atrito_com_EUA-p02.pdf
+99 ok
+2003-05-29-ESP-Deportacao_de_brasileiros_causa_atrito_com_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-05-29-ESP-Deportacao_de_brasileiros_causa_atrito_com_eua-p01.pdf
 ###
-91 #ANALISAR
+91 ok
 2003-05-29-GZM-Brasil_como_os_EUA_quer_levar_temas_sensiveis_a_OMC-p01.pdf
-2003-05-29-GZM-Brasil,_como_os_eua,_quer_levar_temas_sensiveis_a_omc-p01.pdf
+2003-05-29-GZM-Brasil,_como_os_eua,_quer_levar_temas_sensiveis_a_omc-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
+99 ok
 2003-06-04-GZM-Acordo_de_cooperacao_entre_Brasil_em_EUA_investiga_primeiro_caso-p01.pdf
-2003-06-04-GZM-Acordo_de_cooperacao_entre_brasil_e_eua_investiga_primeiro_caso-p01.pdf
+2003-06-04-GZM-Acordo_de_cooperacao_entre_brasil_e_eua_investiga_primeiro_caso-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-91 #ANALISAR
+91 ok
 2003-06-10-ESP-Amorim_EUA_querem_ver_Pais_como_porta_voz_da_AL-p01.pdf
-2003-06-10-ESP-Amorim:_eua_querem_ver_pais_como_porta_voz_da_al-p01.pdf
+2003-06-10-ESP-Amorim:_eua_querem_ver_pais_como_porta_voz_da_al-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
+99 ok
 2003-06-11-GZM-Embraerfaz_venda_de_US$_3_bilhoes-p01.pdf
-2003-06-11-GZM-Embraer_faz_venda_de_US$_3_bilhoes-p01.pdf
+2003-06-11-GZM-Embraer_faz_venda_de_US$_3_bilhoes-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
+99 ok
 2003-06-13-ESP-Embaer_disputa_venda_de_US$_600_milhoes_nos_EUA-p01.pdf
-2003-06-13-ESP-Embraer_disputa_venda_de_US$_600_milhoes_nos_eua-p01.pdf
+2003-06-13-ESP-Embraer_disputa_venda_de_US$_600_milhoes_nos_eua-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-92 #ANALISAR
+92 ok
 2003-06-15-ESP-Lula_encontra_Bush_neste_semana_pela_2__vez-p01.pdf
-2003-06-15-ESP-Lula_encontra_bush_nesta_semana_pela_segunda_vez-p01.pdf
+2003-06-15-ESP-Lula_encontra_bush_nesta_semana_pela_segunda_vez-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-97 #ANALISAR
-2003-06-20-GZM-''Ha_espaco_para_tratar_de_subsidios_e_antidumping''-p01.pdf
+97 ok
+2003-06-20-GZM-''Ha_espaco_para_tratar_de_subsidios_e_antidumping''-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-10-20-GZM-Ha_espaco_para_tratar_de_subsidios_e_antidumping-p02.pdf
 ###
-98 #ANALISAR
-2003-06-23-GZM-Brasil_quer_EUA_em_infra_estrutura-p02.pdf
+98 ok
+2003-06-23-GZM-Brasil_quer_EUA_em_infra_estrutura-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-06-23-GZM-Brasil_quer_eua_em_infra_estrutura-p01.pdf
 ###
-98 #ANALISAR
-2003-06-30-GZM-Fome_une_agendas_de_Bush_e_Lula-p03.pdf
+98 ok
+2003-06-30-GZM-Fome_une_agendas_de_Bush_e_Lula-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-06-30-GZM-Fome_une_agendas_de_bush_e_lula-p01.pdf
 ###
-99 #ANALISAR
-2003-07-02-GZM-Apoio_ao_TPI_faz_EUA_suspenderem_ajuda_militar-p03.pdf
+99 ok
+2003-07-02-GZM-Apoio_ao_TPI_faz_EUA_suspenderem_ajuda_militar-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-07-02-GZM-Apoio_ao_tpi_faz_eua_suspenderem_ajuda_militar-p01.pdf
 ###
-97 #ANALISAR
-2003-08-05-ESP-EUa_exigem_visto_de_passageiro_em_transito-p02.pdf
+97 ok
+2003-08-05-ESP-EUa_exigem_visto_de_passageiro_em_transito-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-05-ESP-Eua_exigem_visto_de_passageiro_em_transito-p01.pdf
 ###
-95 #ANALISAR
-2003-09-05-GZM-Missao_sa_Suica_retorna_negocios_com_o_Brasil-p03.pdf
+95 ok
+2003-09-05-GZM-Missao_sa_Suica_retorna_negocios_com_o_Brasil-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-05-GZM-Missao_da_suica_retoma_negocios_com_o_brasil-p01.pdf
 ###
-92 #ANALISAR
-2003-09-06-ESP-Brasil_contestara_acusacao_de_dumping_no_Camarao-p01.pdf
+92 ok
+2003-09-06-ESP-Brasil_contestara_acusacao_de_dumping_no_Camarao-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-06-ESP-Brasil_contestara_acusacao_de_dumping-p01.pdf
 ###
-95 #ANALISAR
+95 ok
 2003-09-08-GZM-EUA_causam_perda_de_US$_1_8_bilhao-p01.pdf
-2003-09-08-GZM-Eua_causam_perda_de_US$_1,8_bilhao-p01.pdf
+2003-09-08-GZM-Eua_causam_perda_de_US$_1,8_bilhao-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-94 #ANALISAR
+94 ok
 2003-09-09-ESP-EUA_Lula_deve_vender_democracia_em_Cuba-p01.pdf
-2003-09-09-ESP-Eua:_lula_deve_vender_democracia_em_cuba-p01.pdf
+2003-09-09-ESP-Eua:_lula_deve_vender_democracia_em_cuba-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2003-09-10-ESP-EUA_mudam_validade_de_visto_para_brasileiros-p02.pdf
+99 ok
+2003-09-10-ESP-EUA_mudam_validade_de_visto_para_brasileiros-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-10-ESP-Eua_mudam_validade_de_visto_para_brasileiros-p01.pdf
 ###
-94 #ANALISAR
-2003-09-22-ESP-Show_diz_que_Lula_e_exemplo_para_o_mundo-p02.pdf
+94 ok
+2003-09-22-ESP-Show_diz_que_Lula_e_exemplo_para_o_mundo-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-11-22-ESP-Snow_diz_que_lula_e_exemplo_para_o_mundo-p01.pdf
 ###
-97 #ANALISAR
-2003-09-23-ESP-Estabelecimento_parcerias_mais_solidas-p01.pdf
+97 ok
+2003-09-23-ESP-Estabelecimento_parcerias_mais_solidas-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-23-ESP-Estabelecendo_parcerias_mais_solidas-p01.pdf
 ###
-98 #ANALISAR
-2003-09-23-ESP-Zoellickculpa_Brasil_por_fracasso_da_OMC-p02.pdf
+98 ok
+2003-09-23-ESP-Zoellickculpa_Brasil_por_fracasso_da_OMC-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-23-ESP-Zoellick_culpa_brasil_por_fracasso_da_omc-p01.pdf
 ###
-92 #ANALISAR
+92 ok
 2003-09-24-GZM-Sociedade_civil_debate_futuro_do_acordo_entre_Mercosul_e_UE_no_Rio-p01.pdf
-2003-09-24-GZM-Sociedade_civil_debate_futuro_do_acordo_entre_mercosul_e_ue,_no_rio-p01.pdf
+2003-09-24-GZM-Sociedade_civil_debate_futuro_do_acordo_entre_mercosul_e_ue,_no_rio-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-85 #ANALISAR
+85 ok
 2003-09-25-ESP-Brasil_sera_tao_duro_quanto_EUA_diz_Lula-p01.pdf
-2003-09-25-ESP-Brasil_sera_tao_duro_quanto_eua,_diz_lula-p01.pdf
+2003-09-25-ESP-Brasil_sera_tao_duro_quanto_eua,_diz_lula-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 99 #ANALISAR
 2003-10-20-ESP-EUa_trabalham_para_preservar_relacao_com_Brasil-p02.pdf
