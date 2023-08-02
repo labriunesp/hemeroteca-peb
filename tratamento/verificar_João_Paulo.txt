@@ -502,57 +502,57 @@
 2003-09-25-ESP-Brasil_sera_tao_duro_quanto_EUA_diz_Lula-p01.pdf
 2003-09-25-ESP-Brasil_sera_tao_duro_quanto_eua,_diz_lula-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2003-10-20-ESP-EUa_trabalham_para_preservar_relacao_com_Brasil-p02.pdf
+99 ok 08:40
+2003-10-20-ESP-EUa_trabalham_para_preservar_relacao_com_Brasil-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-10-20-ESP-Eua_trabalham_para_preservar_relacao_com_brasil-p01.pdf
 ###
-97 #ANALISAR
+97 ok
 2003-10-24-ESP-Bustani_reage_critica_feitas_no_'FT'-p01.pdf
-2003-10-24-ESP-Bustani_reage_a_criticas_feitas_no_'ft'-p01.pdf
+2003-10-24-ESP-Bustani_reage_a_criticas_feitas_no_'ft'-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-91 #ANALISAR
+91 ok
 2003-11-10-ESP-Comissao_aprova_nome_de_Abdenur_para_Washington-p01.pdf
 2003-11-21-ESP-EUA_aprovam_nome_de_Abdenur_para_Washington-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2003-11-11-ESP-Decicao_da_OMC_sobre_tarifa_do_aco_cria_problema_politico_para_Bush-p01.pdf
-2003-11-11-ESP-Decisao_da_omc_sobre_tarifa_do_aco_cria_problema_politico_para_bush-p01.pdf
+2003-11-11-ESP-Decisao_da_omc_sobre_tarifa_do_aco_cria_problema_politico_para_bush-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
+99 ok
 2003-11-11-GZM-OMC_considera_ilegal_salguarda_imposta_pelos_Estados_Unidos-p01.pdf
-2003-11-11-GZM-Omc_considera_ilegal_salvaguarda_imposta_pelos_estados_unidos-p01.pdf
+2003-11-11-GZM-Omc_considera_ilegal_salvaguarda_imposta_pelos_estados_unidos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
+99 ok
 2003-11-13-ESP-Demitido_suposto_'espiao'_americano_de_lavoura_na_BA-p01.pdf
-2003-11-13-ESP-Demitido_suposto_'espiao'_aericano_de_lavoura_na_ba-p01.pdf
+2003-11-13-ESP-Demitido_suposto_'espiao'_aericano_de_lavoura_na_ba-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2003-11-21-ESP-Parlamentares_vao_aos_EUA_libertar_brasileiros-p03.pdf
+99 ok 10:00
+2003-11-21-ESP-Parlamentares_vao_aos_EUA_libertar_brasileiros-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-11-21-ESP-Parlamentares_vao_aos_eua_libertar_brasileiros-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2003-11-25-ESP-EUA_cogitam_retirar_barreira_ao_aco_em_marco_do_proximo_ano-p01.pdf
-2003-11-25-ESP-Eua_cogitam_retirar_barreiras_ao_aco_em_marco_do_proximo_ano-p01.pdf
+2003-11-25-ESP-Eua_cogitam_retirar_barreiras_ao_aco_em_marco_do_proximo_ano-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2003-11-28-ESP-OMC_suspende_condenacao_aos_EUA_por_10_dias-p01.pdf
+99 ok
+2003-11-28-ESP-OMC_suspende_condenacao_aos_EUA_por_10_dias-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-11-28-ESP-Oc_suspende_condenacao_aos_eua_por_10_dias-p01.pdf
 ###
-99 #ANALISAR
-2003-12-02-ESP-EUA_vao_revogar_tarifas_de_importacao_ao_aco-p02.pdf
+99 ok
+2003-12-02-ESP-EUA_vao_revogar_tarifas_de_importacao_ao_aco-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-12-02-ESP-Eua_vao_revogar_tarifas_de_importacao_ao_aco-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2003-12-02-ESP-Lei_do_Bioterrorismo_deve_causar_perdas-p01.pdf
-2003-12-02-ESP-Lei_do_bioterroriso_deve_causar_perdas-p01.pdf
+2003-12-02-ESP-Lei_do_bioterroriso_deve_causar_perdas-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-2003-12-05-ESP-Alivioo_na_OMC_com_o_fim_das_barreiras_ao_aco-p02.pdf
+98 ok
+2003-12-05-ESP-Alivioo_na_OMC_com_o_fim_das_barreiras_ao_aco-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-12-05-ESP-Alivio_na_omc_com_o_fim_das_barreiras_ao_aco-p01.pdf
 ###
-99
+99 ok
 2003-12-05-ESP-Bush_revoga_barreira_a_importacao_do_aco-p01.pdf
-2003-12-05-ESP-Bush_revoga_barreiras_a_importacao_do_aco-p01.pdf
+2003-12-05-ESP-Bush_revoga_barreiras_a_importacao_do_aco-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 90 #ANALISAR
 2003-12-06-ESP-Governador_do_MT_ataca_nos_EUA-p02.pdf
