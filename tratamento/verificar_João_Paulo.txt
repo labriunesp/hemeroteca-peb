@@ -554,52 +554,52 @@
 2003-12-05-ESP-Bush_revoga_barreira_a_importacao_do_aco-p01.pdf
 2003-12-05-ESP-Bush_revoga_barreiras_a_importacao_do_aco-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-90 #ANALISAR
-2003-12-06-ESP-Governador_do_MT_ataca_nos_EUA-p02.pdf
+90 ok
+2003-12-06-ESP-Governador_do_MT_ataca_nos_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-12-06-ESP-Governador_do_mt_ataca_subsidios_nos_eua-p01.pdf
 ###
-98 #ANALISAR
-2003-12-08-ESP-Algodao_'NYT'_elogia_posicao_brasileira-p01.pdf
+98 ok
+2003-12-08-ESP-Algodao_'NYT'_elogia_posicao_brasileira-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-12-08-ESP-Algodao:_'nyt'_elogia_posicao_brasileira-p01.pdf
 ###
-87 #ANALISAR
+87 ok
 2003-12-09-ESP-Pais_pode_sair_ganhando_com_a_Lei_de_Bioterrorismo_diz_Camex-p01.pdf
-2003-12-09-ESP-Pais_pode_sair_ganhando_com_a_lei_de_bioterrorismo,_diz_camex-p01.pdf
+2003-12-09-ESP-Pais_pode_sair_ganhando_com_a_lei_de_bioterrorismo,_diz_camex-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-2003-12-11-ESP-E2001UA_vao_financiar_investimento_no_Brasil-p03.pdf
+98 ok
+2003-12-11-ESP-E2001UA_vao_financiar_investimento_no_Brasil-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-12-11-ESP-Eua_vao_financiar_investimento_no_brasil-p01.pdf
 ###
-98 #ANALISAR
-2003-12-12-GZM-Impactos_da_lei_do_Bioterrorismo-p02.pdf
+98 ok
+2003-12-12-GZM-Impactos_da_lei_do_Bioterrorismo-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-12-12-GZM-Impactos_da_lei_do_bioterrorismo-p01.pdf
 ###
-99 #ANALISAR
-2003-12-16-ESP-Lula_diz_a_Bush_que_a_captura_de_Saddam_ajuda_democracia-p03.pdf
+99 ok
+2003-12-16-ESP-Lula_diz_a_Bush_que_a_captura_de_Saddam_ajuda_democracia-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-12-16-ESP-Lula_diz_a_bush_que_a_captura_de_saddam_ajuda_democracia-p01.pdf
 ###
-99 #ANALISAR
-2003-12-19-ESP-Embaixador_quer_diversificar_vendas_para_EUA-p02.pdf
+99 ok
+2003-12-19-ESP-Embaixador_quer_diversificar_vendas_para_EUA-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-12-19-ESP-Embaixador_quer_diversificar_vendas_para_eua-p01.pdf
 ###
-99 #ANALISAR
-2004-01-05-ESP-EUA_iniciam_hoje_identificacao_de_estrangeiros-p02.pdf
+99 ok
+2004-01-05-ESP-EUA_iniciam_hoje_identificacao_de_estrangeiros-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-05-ESP-Eua_iniciam_hoje_identificacao_de_estrangeiros-p01.pdf
 ###
-99 #ANALISAR
-2004-01-07-ESP-EUA_criticam_lentidao_nos_aeroportos_do_Brasil-p03.pdf
+99 ok
+2004-01-07-ESP-EUA_criticam_lentidao_nos_aeroportos_do_Brasil-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-07-ESP-Eua_criticam_lentidao_nos_aeroportos_do_brasil-p01.pdf
 ###
-98 #ANALISAR
-2004-01-09-ESP-Bush_impoe_mais_barreiras_ao_aco_do_Brasil-p02.pdf
+98 ok
+2004-01-09-ESP-Bush_impoe_mais_barreiras_ao_aco_do_Brasil-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-09-ESP-Bush_impoe_mais_barreiras_ao_aco_do_brasil-p01.pdf
 ###
-99 #ANALISAR
-2004-01-11-ESP-Bush_dira_a_Lula_que_quer_aprofundar_dialogo-p02.pdf
+99 ok
+2004-01-11-ESP-Bush_dira_a_Lula_que_quer_aprofundar_dialogo-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-11-ESP-Bush_dira_a_lula_que_quer_aprofundar_dialogo-p01.pdf
 ###
-99 #ANALISAR
-2004-01-11-ESP-Casa_Branca_tem_dado_sinais_de_irritacao_com_Lula-p02.pdf
+99 ok
+2004-01-11-ESP-Casa_Branca_tem_dado_sinais_de_irritacao_com_Lula-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-11-ESP-Casa_branca_tem_dado_sinais_de_irritacao_com_lula-p01.pdf
 ###
 99 #ANALISAR
