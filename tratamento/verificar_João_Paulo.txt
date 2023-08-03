@@ -602,61 +602,61 @@
 2004-01-11-ESP-Casa_Branca_tem_dado_sinais_de_irritacao_com_Lula-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-11-ESP-Casa_branca_tem_dado_sinais_de_irritacao_com_lula-p01.pdf
 ###
-99 #ANALISAR
-2004-01-14-GZM-Brasil_quer_pressa_no_acordo_para_vistos-p01.pdf
+99 ok 09:30
+2004-01-14-GZM-Brasil_quer_pressa_no_acordo_para_vistos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-14-GZM-Brasi_quer_pressa_no_acordo_para_vistos-p01.pdf
 ###
-99 #ANALISAR
-2004-01-15-ESP-Brasil_vai_pedir_a_OMC_direto_de_retaliar_os_EUA-p01.pdf
+99 ok
+2004-01-15-ESP-Brasil_vai_pedir_a_OMC_direto_de_retaliar_os_EUA-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-15-ESP-Brasil_vai_pedir_a_omc_direito_de_retaliar_os_eua-p01.pdf
 ###
-98 #ANALISAR
-2004-01-15-ESP-Comandante_e_preso_por_desacato_em_Cumbica-p02.pdf
+98 ok
+2004-01-15-ESP-Comandante_e_preso_por_desacato_em_Cumbica-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-15-ESP-Comandante_e_preso_por_desacato_em_cumbica-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2004-01-15-ESP-Powell_vira_ao_Brasil_em_fevereiro_discutir_visto-p01.pdf
-2004-01-15-ESP-Powell_vira_ao_brasil_e_fevereiro_discutir_visto-p01.pdf
+2004-01-15-ESP-Powell_vira_ao_brasil_e_fevereiro_discutir_visto-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
-2004-01-15-GZM-Aeroportos_implantam_sistemas_automatico_de_identificacao_digital-p01.pdf
+99 ok
+2004-01-15-GZM-Aeroportos_implantam_sistemas_automatico_de_identificacao_digital-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-15-GZM-Aeroportos_implantam_sistema_automatico_de_identificacao_digital-p01.pdf
 ###
-98 #ANALISAR
+98 ok
 2004-01-18-ESP-Forcas_Armadas_ampliam_presenca_na_Amazonia-p03.pdf
-2004-01-18-ESP-Forcas_armadas_ampliam_presenca_na_amazonia-p01.pdf
+2004-01-18-ESP-Forcas_armadas_ampliam_presenca_na_amazonia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-2004-01-20-ESP-UE_admite_apresentar_nova_oferta_agricola-p02.pdf
+98 ok
+2004-01-20-ESP-UE_admite_apresentar_nova_oferta_agricola-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-20-ESP-Ue_admite_apresentar_nova_oferta_agricola-p01.pdf
 ###
-98 #ANALISAR
-2004-01-26-ESP-EUA_sonegam_informacoes_sobre_subsidios-p02.pdf
+98 ok
+2004-01-26-ESP-EUA_sonegam_informacoes_sobre_subsidios-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-26-ESP-Eua_sonegam_informacoes_sobre_subsidios-p01.pdf
 ###
-100 #ANALISAR
-2004-02-02-GZM-''Brasil_precisa_ampliar_sua_presenca_nos_eua'',_diz_roberto_abdenur-p01.pdf
+100 ok
+2004-02-02-GZM-''Brasil_precisa_ampliar_sua_presenca_nos_eua'',_diz_roberto_abdenur-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-02-03-GZM-''Brasil_precisa_ampliar_sua_presenca_nos_EUA''_diz_Roberto_Abdenur-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 2004-02-03-ESP-Futuro_embaixadoro_acredita_em_acordo_entre_Brasil_e_EUA-p01.pdf
-2004-02-03-ESP-Futuro_embaixador_acredita_em_acordo_entre_brasil_e_eua-p01.pdf
+2004-02-03-ESP-Futuro_embaixador_acredita_em_acordo_entre_brasil_e_eua-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-86 #ANALISAR
+86 ok
 2004-02-06-GZM-EUA_tem_de_dar_melhor_tratamento_aos_turistas_brasileiros_diz_Abdenur-p01.pdf
-2004-02-06-GZM-Eua_tem_de_dar_melhor_tratamento_aos_turistas_brasileiros,_diz_abdenur-p01.pdf
+2004-02-06-GZM-Eua_tem_de_dar_melhor_tratamento_aos_turistas_brasileiros,_diz_abdenur-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-90 #ANALISAR
+90 ok
 2004-03-04-ESP-Se_eleito_o_democrata_nao_devera_reduzir_tensao_comercial_com_Brasil-p01.pdf
-2004-03-04-ESP-Se_eleito,_o_democrata_nao_devera_reduzir_tensao_comercial_com_brasil-p01.pdf
+2004-03-04-ESP-Se_eleito,_o_democrata_nao_devera_reduzir_tensao_comercial_com_brasil-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-91 #ANALISAR
+91 ok
 1996-11-25-GZM-Expo_98,_a_'legitimidade_historica'-p03.pdf
-1996-11-25-GZM-Expo_98_a_legitimidade_historica-p01.pdf
+1996-11-25-GZM-Expo_98_a_legitimidade_historica-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
+99 ok
 2004-03-19-GZM-Brasil_e_EUA_unificam_a_qualidade-p01.pdf
-2004-03-19-GZM-Brasil_e_eua_uificam_a_qualidade-p01.pdf
+2004-03-19-GZM-Brasil_e_eua_uificam_a_qualidade-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 98 #ANALISAR
 2004-03-29-ESP-'Eua_estao_mudando_percepcao_sobre_o_brasil'-p01.pdf
