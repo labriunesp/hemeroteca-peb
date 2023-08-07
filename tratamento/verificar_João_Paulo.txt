@@ -658,51 +658,51 @@
 2004-03-19-GZM-Brasil_e_EUA_unificam_a_qualidade-p01.pdf
 2004-03-19-GZM-Brasil_e_eua_uificam_a_qualidade-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
+98 ok 10:47
 2004-03-29-ESP-'Eua_estao_mudando_percepcao_sobre_o_brasil'-p01.pdf
-2004-03-29-ESP-EUA_estao_mudando_percepcao_sobre_o_Brasil-p02.pdf
+2004-03-29-ESP-EUA_estao_mudando_percepcao_sobre_o_Brasil-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-97 #ANALISAR
-2004-04-01-ESP-EUA_esperavam_resistencia_da_esquerda_em_64-p02.pdf
+97 ok
+2004-04-01-ESP-EUA_esperavam_resistencia_da_esquerda_em_64-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-04-01-ESP-Eua_esperavam_resistencia_da_esquerda_em_63-p01.pdf
 ###
-99 #ANALISAR
-2004-04-01-ESP-Pais_recebe_plano_minucioso_de_inspecao_da_aiea-p01.pdf
+99 ok
+2004-04-01-ESP-Pais_recebe_plano_minucioso_de_inspecao_da_aiea-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-04-09-ESP-Pais_recebe_plano_minucioso_de_inspecao_da_AIEA-p01.pdf
 ###
-99 #ANALISAR
-2004-04-05-ESP-Inspecao_nuclear_cria_impasse_entre_Brasil_e_EUA-p03.pdf
-2004-04-05-ESP-Inspecao_nuclear_cria_impasse_entre_brasil_e_eua-p01.pdf
+99 ok
+2004-04-05-ESP-Inspecao_nuclear_cria_impasse_entre_Brasil_e_EUA-p03.pdf 
+2004-04-05-ESP-Inspecao_nuclear_cria_impasse_entre_brasil_e_eua-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
+99 ok
 2004-04-08-ESP-Bush_pressionado_a_manter_barreira_ao_suco_do_Brasil-p02.pdf
-2004-04-08-ESP-Bush_pressionado_a_manter_barreira_ao_suco_do_brasil-p01.pdf
+2004-04-08-ESP-Bush_pressionado_a_manter_barreira_ao_suco_do_brasil-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
+99 ok
 2004-04-30-ESP-Luta_antiterror_na_regiao_so_nao_avanca_em_Cuba-p01.pdf
-2004-04-30-ESP-Luta_antiterror_na_regiao_so_nao_avanca_e_cuba-p01.pdf
+2004-04-30-ESP-Luta_antiterror_na_regiao_so_nao_avanca_e_cuba-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 90 ok
 2004-07-29-ESP-Novo_embaixador_dos_EUA_chega_a_Brasilia-p01.pdf
 2006-08-02-ESP-Novo_embaixador_dos_eua_chega_ao_brasil-p01.pdf
 ###
-91 #ANALISAR
-2004-11-05-GZM-Ofensiva_para_ganhar-p01.pdf
-2004-11-05-GZM-Ofensiva_para_ganhar_mercado-p01.pdf
+91 ok
+2004-11-05-GZM-Ofensiva_para_ganhar_mercado-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2004-11-05-GZM-Ofensiva_para_ganhar_mercado-p02.pdf (renomear arquivo no json)
 ###
-98 #ANALISAR
-2001-07-12-ESP-UE_isenta_cafe_soluvel_da_aliquota_de_10%-p02.pdf
+98 ok
+2001-07-12-ESP-UE_isenta_cafe_soluvel_da_aliquota_de_10%-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-07-12-ESP-Ue_isenta_cafe_soluvel_da_aliquota_de_10%-p01.pdf
 ###
 85 ok
 2005-03-18-ESP-EUA_podem_deportar_58_brasileiros-p01.pdf
 2006-02-11-ESP-EUA_vao_deportar_11_brasileiros-p01.pdf
 ###
-91 #ANALISAR
-2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios...-p01.pdf
-2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios_ao_algodao-p01.pdf
+91 ok
+2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios_ao_algodao-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios_ao_algodao-p02.pdf (renomear arquivo no json)
 ###
-89 ok
+89 ok 12:28
 2007-05-01-ESP-Brasil_sai_da_lista_de_pirataria_dos_eua-p01.pdf
 2010-05-01-ESP-Brasil_e_mantido_na_lista_da_pirataria_dos_eua-p01.pdf
 ###
