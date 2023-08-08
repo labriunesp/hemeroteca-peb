@@ -658,12 +658,17 @@
 2004-03-19-GZM-Brasil_e_EUA_unificam_a_qualidade-p01.pdf
 2004-03-19-GZM-Brasil_e_eua_uificam_a_qualidade-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
+<<<<<<< HEAD
 98 ok 10:47
+=======
+98 ok 09:10
+>>>>>>> 597bac8 (verificação hemeroteca)
 2004-03-29-ESP-'Eua_estao_mudando_percepcao_sobre_o_brasil'-p01.pdf
 2004-03-29-ESP-EUA_estao_mudando_percepcao_sobre_o_Brasil-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 97 ok
 2004-04-01-ESP-EUA_esperavam_resistencia_da_esquerda_em_64-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+<<<<<<< HEAD
 2004-04-01-ESP-Eua_esperavam_resistencia_da_esquerda_em_63-p01.pdf
 ###
 99 ok
@@ -672,6 +677,16 @@
 ###
 99 ok
 2004-04-05-ESP-Inspecao_nuclear_cria_impasse_entre_Brasil_e_EUA-p03.pdf 
+=======
+2004-04-01-ESP-Eua_esperavam_resistencia_da_esquerda_em_63-p01.pdf 
+###
+99 ok
+2004-04-01-ESP-Pais_recebe_plano_minucioso_de_inspecao_da_aiea-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2004-04-09-ESP-Pais_recebe_plano_minucioso_de_inspecao_da_AIEA-p01.pdf 
+###
+99 ok
+2004-04-05-ESP-Inspecao_nuclear_cria_impasse_entre_Brasil_e_EUA-p03.pdf
+>>>>>>> 597bac8 (verificação hemeroteca)
 2004-04-05-ESP-Inspecao_nuclear_cria_impasse_entre_brasil_e_eua-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 99 ok
@@ -687,8 +702,13 @@
 2006-08-02-ESP-Novo_embaixador_dos_eua_chega_ao_brasil-p01.pdf
 ###
 91 ok
+<<<<<<< HEAD
 2004-11-05-GZM-Ofensiva_para_ganhar_mercado-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-11-05-GZM-Ofensiva_para_ganhar_mercado-p02.pdf (renomear arquivo no json)
+=======
+2004-11-05-GZM-Ofensiva_para_ganhar-p01.pdf
+2004-11-05-GZM-Ofensiva_para_ganhar_mercado-p01.pdf
+>>>>>>> 597bac8 (verificação hemeroteca)
 ###
 98 ok
 2001-07-12-ESP-UE_isenta_cafe_soluvel_da_aliquota_de_10%-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
@@ -699,131 +719,136 @@
 2006-02-11-ESP-EUA_vao_deportar_11_brasileiros-p01.pdf
 ###
 91 ok
+<<<<<<< HEAD
 2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios_ao_algodao-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios_ao_algodao-p02.pdf (renomear arquivo no json)
+=======
+2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios...-p01.pdf
+2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios_ao_algodao-p01.pdf
+>>>>>>> 597bac8 (verificação hemeroteca)
 ###
 89 ok 12:28
 2007-05-01-ESP-Brasil_sai_da_lista_de_pirataria_dos_eua-p01.pdf
 2010-05-01-ESP-Brasil_e_mantido_na_lista_da_pirataria_dos_eua-p01.pdf
 ###
-94 #ANALISAR
+94 ok
 2001-08-30-ESP-Pais_com_45_delegados_tera_atuacao_corajosa_no_encontro-p01.pdf
-2001-08-30-ESP-Pais,_com_45_delegados,_tera_atuacao_corajosa_no_encontro-p01.pdf
+2001-08-30-ESP-Pais,_com_45_delegados,_tera_atuacao_corajosa_no_encontro-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-94 #ANALISAR
+94 ok
 2001-04-03-GZM-Giannetti_diz_que_nao_admitira_triangulacao-p01.pdf
-2001-10-25-GZM-Giannetti_diz_que_nao_admitira_triangulacao-p03.pdf
+2001-10-25-GZM-Giannetti_diz_que_nao_admitira_triangulacao-p03.pdf (renomear arquivo no json)
 ###
-85  #ANALISAR
+85 ok
 2010-04-20-ESP-Brasil_e_eua_estao_perto_de_acordo-p01.pdf
 2010-06-17-ESP-Brasil_e_eua_esta_peorto_de_acordo_no_algodao-p01.pdf
 ###
-85 #ANALISAR
+85 ok
 2010-12-06-ESP-Apoio_a_ira_na_onu_foi_erro,_diz_dilma-p01.pdf
 2010-12-06-ESP-Dilma_diz_que_apoio_ao_ira_na_onu_foi_um_erro-p01.pdf
 ###
-98 #ANALISAR
+98 ok
 1984-02-10-ESP-Crise_e_a_procupacao_da_brasil_e_da_bolivia-p01.pdf
-1984-02-10-ESP-Crise_e_a_preocupacao_do_Brasil_e_da_Bolivia-p01.pdf
+1984-02-10-ESP-Crise_e_a_preocupacao_do_Brasil_e_da_Bolivia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
+98 ok
 1984-10-28-ESP-Influencia_da_Argentina_e_do_Barsil-p01.pdf
-1984-10-28-ESP-Influencia_da_argentina_e_do_brasil-p01.pdf
+1984-10-28-ESP-Influencia_da_argentina_e_do_brasil-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-95 #ANALISAR
+95 ok
 1985-01-24-GZM-Botafogo_Goncalves_assumira_vice_predifencia_do_B-p01.pdf
-1985-01-24-GZM-Botafogo_goncalves_assumira_vice_presidencia_do_BIRD-p01.pdf
+1985-01-24-GZM-Botafogo_goncalves_assumira_vice_presidencia_do_BIRD-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-92 #ANALISAR
+92 ok
 1986-04-23-ESP-Brasil_propoe_a_OEA_criacao_de_fundo_para_o_comb-p01.pdf
-1986-04-23-ESP-Brasil_propoe_a_OEA_criacao_de_fundo_para_o_combate_as_drogas-p01.pdf
+1986-04-23-ESP-Brasil_propoe_a_OEA_criacao_de_fundo_para_o_combate_as_drogas-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-93 #ANALISAR
-1986-08-16-ESP-'Aventura_atomica_nao_nos_interessa'_garante-p01.pdf
+93 ok
+1986-08-16-ESP-'Aventura_atomica_nao_nos_interessa'_garante-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1986-08-16-ESP-Aventura_atomica_nao_nos_interessa,_garante_sanguinetti-p01.pdf
 ###
-99 #ANALISAR
-2001-10-06-ESP-Presidente_vai_a_Nova_York_para_discurso_na_ONU-p01.pdf
+99 ok
+2001-10-06-ESP-Presidente_vai_a_Nova_York_para_discurso_na_ONU-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-10-06-ESP-Presidente_vai_a_nova_york_para_discurso_da_onu-p01.pdf
 ###
-94 #ANALISAR
-1987-01-22-ESP-A_tirania_Stroessner-p01.pdf
+94 ok
+1987-01-22-ESP-A_tirania_Stroessner-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1987-01-22-FSP-A_tirania_de_stroessner-p01.pdf
 ###
-98 #ANALISAR
+98 ok
 1988-08-03-ESP-Sarney_faz_acordo_do_gas-p03.pdf
-1988-08-03-ESP-Sarney_faz_acordo_do_gas-p01.pdf
+1988-08-03-ESP-Sarney_faz_acordo_do_gas-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-95 #ANALISAR
-2001-10-08-ESP-Terror_pofr_ter_usado_passaporte_brasileiro-p07.pdf
+95 ok
+2001-10-08-ESP-Terror_pofr_ter_usado_passaporte_brasileiro-p07.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-10-08-ESP-Terror_pode_ter_usado_passaporte_brasileiro-p01.pdf
 ###
-96 #ANALISAR
+96 ok
 1990-08-04-ESP-Zamora_quer_rever_venda_de_gas-p01.pdf
-1990-08-14-ESP-Zamora_quer_rever_venda_de_gas-p02.pdf
-###
-98 #ANALISAR
-1990-12-12-GZM-A_intregracao_Cone_Sul_encontra_resistecias-p01.pdf
+1990-08-14-ESP-Zamora_quer_rever_venda_de_gas-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+### 
+98 ok
+1990-12-12-GZM-A_intregracao_Cone_Sul_encontra_resistecias-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1990-12-12-GZM-A_integracao_cone_sul_encontra_resistencias-p01.pdf
 ###
-86 #ANALISAR
-1991-02-18-GZM-Concessoes_para_a_uniao_do_Cone_Sul-p01.pdf
-1991-02-18-GZM-Concessoes_para_uniao-p01.pdf
+86 ok
+1991-02-18-GZM-Concessoes_para_a_uniao_do_Cone_Sul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1991-02-18-GZM-Concessoes_para_a_uniao_do_Cone_Sul-p02.pdf (renomear arquivo no json)
 ###
-87 #ANALISAR
-1991-02-20-GZM-Acordo_sobre_mercado_do_Cone_Sul-p01.pdf
-1991-02-22-GZM-Acordo_sobre_o_mercado_do-p01.pdf
+87 ok
+1991-02-20-GZM-Acordo_sobre_mercado_do_Cone_Sul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1991-02-20-GZM-Acordo_sobre_mercado_do_Cone_Sul-p02.pdf (renomear arquivo no json)
 ###
-97 #ANALISAR
+97 ok
 1991-03-27-ESP-Comeca_a_integracao_economica_do_cone_sul-p01.pdf
-1991-03-27-ESP-Comeca_integracao_economica_no_Cone_Sul-p01.pdf
+1991-03-27-ESP-Comeca_integracao_economica_no_Cone_Sul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-95 #ANALISAR
-1991-06-04-GZM-Mercosul_Canada_e-p01.pdf
-1991-06-04-GZM-Mercosul_Canada_e_USA-p01.pdf
+95 ok
+1991-06-04-GZM-Mercosul_Canada_e_USA-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1991-06-04-GZM-Mercosul_Canada_e_USA-p02.pdf (renomear arquivo no json)
 ###
-97 #ANALISAR
+97 ok
 2001-10-11-ESP-Carta_a_lideres_do_g_20_abre_ofensiva_diplomatica-p01.pdf
-2001-11-10-ESP-Carta_a_lideres_do_G_20abre_ofensiva_diplomaica-p02.pdf
+2001-11-10-ESP-Carta_a_lideres_do_G_20abre_ofensiva_diplomaica-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
+98 ok
 1991-09-15-ESP-Lacalle_vem_ver_Brasil_da_dinamica-p03.pdf
-1991-09-15-ESP-Lacalle_vem_ver_brasil_da_dinamica-p01.pdf
+1991-09-15-ESP-Lacalle_vem_ver_brasil_da_dinamica-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-97 #ANALISAR
-2001-10-12-ESP-Lula_volta_a_defender_politoca_agricola_da_Franca-p02.pdf
+97 ok
+2001-10-12-ESP-Lula_volta_a_defender_politoca_agricola_da_Franca-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-10-12-ESP-Lula_volta_a_defender_politica_agricola_da_franca-p01.pdf
 ###
-88 #ANALISAR
-1991-12-17-GZM-Novas_regras_para_o_Mercosul____Orgao_exec-p01.pdf
-1991-12-17-GZM-Novas_regras_para_o_Mercosul-p01.pdf
+88 ok
+1991-12-17-GZM-Novas_regras_para_o_Mercosul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1991-12-17-GZM-Novas_regras_para_o_Mercosul-p02.pdf (renomear arquivo no json)
 ###
 85 ok
 1991-12-17-GZM-Novas_regras_para_o_Mercosul-p01.pdf
 1998-01-16-GZM-Novos_rumos_para_o_Mercosul-p01.pdf
 ###
-89 #ANALISAR
-1992-03-13-GZM-Setor_siderurgico_faz_acordo-p01.pdf
-1992-03-13-GZM-Setor_siderurgico_faz_acordo_no_Mercosul-p01.pdf
+89 ok
+1992-03-13-GZM-Setor_siderurgico_faz_acordo_no_Mercosul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1992-03-13-GZM-Setor_siderurgico_faz_acordo_no_Mercosul-p02.pdf (renomear arquivo no json)
 ###
-89 #ANALISAR
-1992-03-27-GZM-Brasil_e_Bolivia_definem_a_rota_norte_para_cons-p01.pdf
+89 ok
+1992-03-27-GZM-Brasil_e_Bolivia_definem_a_rota_norte_para_cons-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1992-03-27-GZM-Brasil_e_bolivia_definem_a_rota_norte_para_construcao_de_gasoduto-p01.pdf
 ###
-88 #ANALISAR
-1992-04-02-GZM-Uruguai_quer_divulgar_seus_produtos_e_reduzir_deficit-p01.pdf
+88 ok
+1992-04-02-GZM-Uruguai_quer_divulgar_seus_produtos_e_reduzir_deficit-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1993-04-02-GZM-Uruguai_quer_divulgar_e_reduzir_deficit-p01.pdf
 ###
-99 #ANALISAR
-2001-10-15-ESP-Aviao_fica_retido_no_Rio_por_causa_de_po_branco-p04.pdf
+99 ok
+2001-10-15-ESP-Aviao_fica_retido_no_Rio_por_causa_de_po_branco-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-10-15-ESP-Aviao_fica_retido_no_rio_por_causa_de_po_branco-p01.pdf
 ###
-88 #ANALISAR
-1992-06-26-GZM-Comeca_hoje_a_cupula-p01.pdf
-1992-06-26-GZM-Comeca_hoje_a_cupula_do_Mercosul-p01.pdf
+88 ok
+1992-06-26-GZM-Comeca_hoje_a_cupula_do_Mercosul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1992-06-26-GZM-Comeca_hoje_a_cupula_do_Mercosul-p02.pdf (renomear arquivo no json)
 ###
-88 #ANALISAR
-2001-10-17-ESP-A_ONU_Kofi_Annan_e_o_Nobel_da_Paz-p02.pdf
+88 ok
+2001-10-17-ESP-A_ONU_Kofi_Annan_e_o_Nobel_da_Paz-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-10-17-ESP-O_onu,_kofi_annan_e_o_nobel_da_paz-p01.pdf
 ###
 88 #ANALISAR
