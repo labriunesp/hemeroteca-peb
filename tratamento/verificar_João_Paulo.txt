@@ -62,9 +62,9 @@
 2002-09-18-GZM-EUA_aceitam_egociar_protecionismo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-18-GZM-Eua_aceitam_negociar_protecionismo-p01.pdf
 ###
-98 #ANALISAR
+98 ok
 2001-05-05-ESP-Brasil_diz_que_voto_na_ONU_nao_foi_contra_EUA-p02.pdf
-2001-05-05-ESP-Brasil_diz_que_voto_na_onu_nao_foi_contra_eua-p01.pdf
+2001-05-05-ESP-Brasil_diz_que_voto_na_onu_nao_foi_contra_eua-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 100 ok
 2002-09-23-GZM-Pais_e_socio_de_longo_prazo_diz_Zoellick-p01.pdf
@@ -502,7 +502,7 @@
 2003-09-25-ESP-Brasil_sera_tao_duro_quanto_EUA_diz_Lula-p01.pdf
 2003-09-25-ESP-Brasil_sera_tao_duro_quanto_eua,_diz_lula-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 ok 08:40
+99 ok
 2003-10-20-ESP-EUa_trabalham_para_preservar_relacao_com_Brasil-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-10-20-ESP-Eua_trabalham_para_preservar_relacao_com_brasil-p01.pdf
 ###
@@ -526,7 +526,7 @@
 2003-11-13-ESP-Demitido_suposto_'espiao'_americano_de_lavoura_na_BA-p01.pdf
 2003-11-13-ESP-Demitido_suposto_'espiao'_aericano_de_lavoura_na_ba-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 ok 10:00
+99 ok
 2003-11-21-ESP-Parlamentares_vao_aos_EUA_libertar_brasileiros-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-11-21-ESP-Parlamentares_vao_aos_eua_libertar_brasileiros-p01.pdf
 ###
@@ -602,7 +602,7 @@
 2004-01-11-ESP-Casa_Branca_tem_dado_sinais_de_irritacao_com_Lula-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-11-ESP-Casa_branca_tem_dado_sinais_de_irritacao_com_lula-p01.pdf
 ###
-99 ok 09:30
+99 ok
 2004-01-14-GZM-Brasil_quer_pressa_no_acordo_para_vistos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-14-GZM-Brasi_quer_pressa_no_acordo_para_vistos-p01.pdf
 ###
@@ -658,17 +658,12 @@
 2004-03-19-GZM-Brasil_e_EUA_unificam_a_qualidade-p01.pdf
 2004-03-19-GZM-Brasil_e_eua_uificam_a_qualidade-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-<<<<<<< HEAD
 98 ok 10:47
-=======
-98 ok 09:10
->>>>>>> 597bac8 (verificação hemeroteca)
 2004-03-29-ESP-'Eua_estao_mudando_percepcao_sobre_o_brasil'-p01.pdf
 2004-03-29-ESP-EUA_estao_mudando_percepcao_sobre_o_Brasil-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 97 ok
 2004-04-01-ESP-EUA_esperavam_resistencia_da_esquerda_em_64-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
-<<<<<<< HEAD
 2004-04-01-ESP-Eua_esperavam_resistencia_da_esquerda_em_63-p01.pdf
 ###
 99 ok
@@ -677,16 +672,6 @@
 ###
 99 ok
 2004-04-05-ESP-Inspecao_nuclear_cria_impasse_entre_Brasil_e_EUA-p03.pdf 
-=======
-2004-04-01-ESP-Eua_esperavam_resistencia_da_esquerda_em_63-p01.pdf 
-###
-99 ok
-2004-04-01-ESP-Pais_recebe_plano_minucioso_de_inspecao_da_aiea-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
-2004-04-09-ESP-Pais_recebe_plano_minucioso_de_inspecao_da_AIEA-p01.pdf 
-###
-99 ok
-2004-04-05-ESP-Inspecao_nuclear_cria_impasse_entre_Brasil_e_EUA-p03.pdf
->>>>>>> 597bac8 (verificação hemeroteca)
 2004-04-05-ESP-Inspecao_nuclear_cria_impasse_entre_brasil_e_eua-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 99 ok
@@ -702,13 +687,8 @@
 2006-08-02-ESP-Novo_embaixador_dos_eua_chega_ao_brasil-p01.pdf
 ###
 91 ok
-<<<<<<< HEAD
 2004-11-05-GZM-Ofensiva_para_ganhar_mercado-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-11-05-GZM-Ofensiva_para_ganhar_mercado-p02.pdf (renomear arquivo no json)
-=======
-2004-11-05-GZM-Ofensiva_para_ganhar-p01.pdf
-2004-11-05-GZM-Ofensiva_para_ganhar_mercado-p01.pdf
->>>>>>> 597bac8 (verificação hemeroteca)
 ###
 98 ok
 2001-07-12-ESP-UE_isenta_cafe_soluvel_da_aliquota_de_10%-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
@@ -719,13 +699,8 @@
 2006-02-11-ESP-EUA_vao_deportar_11_brasileiros-p01.pdf
 ###
 91 ok
-<<<<<<< HEAD
 2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios_ao_algodao-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios_ao_algodao-p02.pdf (renomear arquivo no json)
-=======
-2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios...-p01.pdf
-2005-07-06-GZM-Eua_ja_aceitam_o_corte_de_subsidios_ao_algodao-p01.pdf
->>>>>>> 597bac8 (verificação hemeroteca)
 ###
 89 ok 12:28
 2007-05-01-ESP-Brasil_sai_da_lista_de_pirataria_dos_eua-p01.pdf
@@ -851,97 +826,97 @@
 2001-10-17-ESP-A_ONU_Kofi_Annan_e_o_Nobel_da_Paz-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-10-17-ESP-O_onu,_kofi_annan_e_o_nobel_da_paz-p01.pdf
 ###
-88 #ANALISAR
-1992-08-12-GZM-Tratado_de_Tlatelolco_pode_entrar_em_vigor_ate-p01.pdf
+88 ok 09:00
+1992-08-12-GZM-Tratado_de_Tlatelolco_pode_entrar_em_vigor_ate-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1992-08-12-GZM-Tratado_de_tlatelolco_pode_entrar_em_vigor_ate_novembro_deste_ano-p01.pdf
 ###
-98 #ANALISAR
-1992-08-18-ESP-Pais_fecha_acordo_para_ter_gas_boliviano-p02.pdf
+98 ok
+1992-08-18-ESP-Pais_fecha_acordo_para_ter_gas_boliviano-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1992-08-18-ESP-Pais_fecha_acordo_para_ter_gas_boliviano-p01.pdf
 ###
-88 #ANALISAR
+88 ok
 1992-08-19-GZM-Acordo_com_o_Brasil_nao_e_bem_recebido_pela_opo-p01.pdf
-1992-08-19-GZM-Acordo_com_brasil_nao_e_bem_recebido_pela_oposicao_na_bolivia-p01.pdf
+1992-08-19-GZM-Acordo_com_brasil_nao_e_bem_recebido_pela_oposicao_na_bolivia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 #ANALISAR
+99 ok
 1992-09-29-GZM-Itamaraty_discute_acordo_de_comercio_com_Bolivi-p01.pdf
-1992-09-29-GZM-Itamaraty_discute_acordo_de_comercio_com_bolivia-p01.pdf
+1992-09-29-GZM-Itamaraty_discute_acordo_de_comercio_com_bolivia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 85 ok
 1992-10-01-GZM-Capitais_no_Mercosul-p01.pdf
 1997-09-07-GZM-Previas_no_Mercosul-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 1992-12-03-GZM-A_democracia_continua_a_ser_questao_central-p01.pdf
-1992-12-03-GZM-A_democracia_continua_a_ser_a_questao_central-p01.pdf
+1992-12-03-GZM-A_democracia_continua_a_ser_a_questao_central-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-85  #ANALISAR
+85 ok
 1993-02-17-GZM-Clausulas_do_contrato_com_a_Bolivia_quase_levam-p01.pdf
-1993-02-17-GZM-Clausulas_do_contrato_com_a_bolivia_quase_levam_itamar_a_cancelar_viagem-p01.pdf
+1993-02-17-GZM-Clausulas_do_contrato_com_a_bolivia_quase_levam_itamar_a_cancelar_viagem-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-92 #ANALISAR
+92 ok
 1993-02-18-GZM-Gas__acordo_sem_financiamento-p01.pdf
-1993-02-18-GZM-Gas:_acordo_sem_financiamento-p01.pdf
+1993-02-18-GZM-Gas:_acordo_sem_financiamento-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-95 #ANALISAR
-1993-10-15-GZM-Mercosul_a_margem_da_CEE_e_do-p01.pdf
-1993-10-15-GZM-Mercosul_a_margem_da_CEE_e_do_Nafta-p01.pdf
+95 ok
+1993-10-15-GZM-Mercosul_a_margem_da_CEE_e_do_Nafta-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1993-10-15-GZM-Mercosul_a_margem_da_CEE_e_do_Nafta-p02.pdf (renomear arquivo no json)
 ###
-98 #ANALISAR
+98 ok
 1993-11-09-GZM-Exercitos_avaliam_reducao_de_efetivos_e_narcotraf-p01.pdf
-1993-11-09-GZM-Exercitos_avaliam_reducao_de_efetivos_e_narcotrafico-p01.pdf
+1993-11-09-GZM-Exercitos_avaliam_reducao_de_efetivos_e_narcotrafico-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-1993-11-15-ESP-Uruguai_quer_mais_investimentos_do_Brasil-p02.pdf
+98 ok
+1993-11-15-ESP-Uruguai_quer_mais_investimentos_do_Brasil-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1993-11-15-ESP-Uruguai_quer_mais_investimentos_do_brasil-p01.pdf
 ###
-97 #ANALISAR
+97 ok
 1993-11-23-GZM-Brasileiros_dao_sugestoes_para_modernizar_o_Par-p01.pdf
-1993-11-23-GZM-Brasileiros_dao_sugestoes_para_modernizar_o_paraguai-p01.pdf
+1993-11-23-GZM-Brasileiros_dao_sugestoes_para_modernizar_o_paraguai-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-85
+85 ok
 1993-12-06-GZM-Paraguai_oferece_incentivo_fiscal_para_atrair-p01.pdf
-1993-12-06-GZM-Paraguai_oferece_incentivo_fiscal_para_atrair_as_empresas_brasileiras-p01.pdf
+1993-12-06-GZM-Paraguai_oferece_incentivo_fiscal_para_atrair_as_empresas_brasileiras-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-1993-12-10-GZM-Reacao_contra_tarifas_altas_no_Mercosul-p02.pdf
-1993-12-10-GZM-Reacao_contra_tarifas_altas_no_mercosul-p01.pdf
+98 ok
+1993-12-10-GZM-Reacao_contra_tarifas_altas_no_Mercosul-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1993-12-10-GZM-Reacao_contra_tarifas_altas_no_mercosul-p01.pdf 
 ###
-98 #ANALISAR
+98 ok
 2001-10-27-ESP-Fhc_defende_distribuicao_de_poder_no_mundo-p01.pdf
-2001-10-27-ESP-FHC_Defende_distribuicao_de_poder_no_mundo-p02.pdf
+2001-10-27-ESP-FHC_Defende_distribuicao_de_poder_no_mundo-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-97 #ANALISAR
+97 ok
 1994-01-07-GZM-Privatizacao_de_pontes_e_discutida_com_o_Paragu-p01.pdf
-1994-11-07-GZM-Privatizacao_de_pontes_e_discutida_com_o_paraguai-p01.pdf
+1994-11-07-GZM-Privatizacao_de_pontes_e_discutida_com_o_paraguai-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-86 #ANALISAR
+86 ok
 1994-01-15-GZM-Companhias_internacionais_poderao_investir_no_g-p01.pdf
-1994-01-15-GZM-Companhias_internacionais_poderao_investir_no_gasoduto_brasil_bolivia-p01.pdf
+1994-01-15-GZM-Companhias_internacionais_poderao_investir_no_gasoduto_brasil_bolivia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-1994-01-26-GZM-Amorim_viaja_a_bolivia_para_assinar_acordo-p01.pdf
+98 ok
+1994-01-26-GZM-Amorim_viaja_a_bolivia_para_assinar_acordo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1994-04-26-GZM-Amorim_viaja_a_Bolivia_para_assinar_acordo-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 1994-01-29-GZM-Brasil_e_Bolivia_resolvem_problema_de_gasoduto-p01.pdf
-1994-01-29-GZM-Brasil_e_bolivia_resolvem_probelma_de_gasoduto-p01.pdf
+1994-01-29-GZM-Brasil_e_bolivia_resolvem_probelma_de_gasoduto-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-96 #ANALISAR
-1994-08-11-GZM-Presidente_boliviano_vem_ao_Brasil_discutir_ga-p01.pdf
+96 ok
+1994-08-11-GZM-Presidente_boliviano_vem_ao_Brasil_discutir_ga-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1994-08-11-GZM-Presidente_boliviano_vem_ao_brasil_discutir_gasoduto-p01.pdf
 ###
-85 #ANALISAR
+85 ok
 1994-08-16-GZM-Bolivia_quer_aumentar_diametro_de_gasoduto_e_vo-p01.pdf
-1994-08-16-GZM-Bolivia_quer_aumentar_diametro_de_gasoduto_e_volume_de_vendas_ao_brasil-p01.pdf
+1994-08-16-GZM-Bolivia_quer_aumentar_diametro_de_gasoduto_e_volume_de_vendas_ao_brasil-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-1994-08-17-ESP-Divergencias_adiam_acordo_para_gasoduto-p01.pdf
+98 ok
+1994-08-17-ESP-Divergencias_adiam_acordo_para_gasoduto-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1994-08-17-ESP-Divergencias_adiam_acordo_para_o_gasoduto-p01.pdf
 ###
-89 #ANALISAR
+89 ok
 1994-08-31-GZM-Paraguai_procura_um_parceiro_para_industria_de-p01.pdf
-1994-08-31-GZM-Paraguai_procura_um_parceiro_para_industria_de_celulose_e_papel-p01.pdf
+1994-08-31-GZM-Paraguai_procura_um_parceiro_para_industria_de_celulose_e_papel-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 86 ok
 1995-05-05-GZM-A_caminho_do_Mercosul-p01.pdf
@@ -951,65 +926,65 @@
 1995-05-15-GZM-O_Chile_esta_chegando_mais_perto_do_Mercosul-p01.pdf
 1995-10-17-GZM-O_Chile_cada_veis_mais_perto_do_Mercosul-p01.pdf
 ###
-87 #ANALISAR 
+87 ok
 1995-06-02-GZM-Livre_comercio_em_debate-p01.pdf
 1995-06-08-GZM-Livre_comercio_em_1996-p01.pdf
 ###
-88 #ANALISAR
-1995-06-12-GZM-Cavallo_apoia_cotas_no_setor_automobilistico-p01.pdf
-1995-06-12-GZM-Cotas_no_setor_automobilistico-p01.pdf
+88 ok
+1995-06-12-GZM-Cavallo_apoia_cotas_no_setor_automobilistico-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1995-06-12-GZM-Cavallo_apoia_cotas_no_setor_automobilistico-p02.pdf (renomear arquivo no json)
 ###
-93 #ANALISAR
+93 ok
 1995-06-16-GZM-Disputa_por_investimento-p01.pdf
 1995-06-21-GZM-Disputa_pelos_investimentos-p01.pdf
 ###
-98 #ANALISAR
-2001-08-25-ESP-Argentina_prorroga_taxa_sobre_o_acucar-p02.pdf
+98 ok
+2001-08-25-ESP-Argentina_prorroga_taxa_sobre_o_acucar-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-08-25-ESP-Argentina_prorroga_taxa_sobre_o_acucar-p04.pdf
 ###
 90 ok
 1995-09-19-GZM-Negociacoes_com_o_Chile-p01.pdf
 1995-12-05-GZM-Novas_negociacoes_com_o_Chile-p01.pdf
 ###
-99  #ANALISAR
-2001-11-10-ESP-Presidente_tentara_na_ONU_ampliar_influencia_do_Brasil-p01.pdf
+99 ok
+2001-11-10-ESP-Presidente_tentara_na_ONU_ampliar_influencia_do_Brasil-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-11-10-ESP-Presidente_tentara_no_onu_ampliar_influencia_do_brasil-p01.pdf
 ###
-98 #ANALISAR
-2001-11-11-ESP-FHC_defende_campanha_contra_terror_e_trafico-p04.pdf
-2001-11-11-ESP-Fhc_defende_campanha_contra_terror_e_trafico-p01.pdf
+98 ok
+2001-11-11-ESP-FHC_defende_campanha_contra_terror_e_trafico-p04.pdf 
+2001-11-11-ESP-Fhc_defende_campanha_contra_terror_e_trafico-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
+98 ok
 2001-11-11-ESP-Terror_apressa_projeto_de_mudanca_na_Defesa-p03.pdf
-2001-11-11-ESP-Terror_apressa_projeto_de_mudanca_na_defesa-p01.pdf
+2001-11-11-ESP-Terror_apressa_projeto_de_mudanca_na_defesa-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-96 #ANALISAR
-1995-12-15-GZM-Brasil_elebora_plano_de_acao_sobre_direitos_hum-p01.pdf
+96 ok
+1995-12-15-GZM-Brasil_elebora_plano_de_acao_sobre_direitos_hum-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1995-12-15-GZM-Brasil_elabora_plano_de_acao_sobre_direitos_humanos-p01.pdf
 ###
-94 #ANALISAR
-2001-11-12-ESP-FHC_quer_mais_espaco_no_Banco_Mundial_e_FMI-p02.pdf
+94 ok
+2001-11-12-ESP-FHC_quer_mais_espaco_no_Banco_Mundial_e_FMI-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-11-12-ESP-Fhc_quer_mais_espaco_no_banco_mundial-p01.pdf
 ###
 90 ok
 1996-03-06-GZM-Japao_mais_proximo_do_Mercosul-p01.pdf
 1996-10-02-GZM-Japao_se_aproxima_do_Mercosul-p01.pdf
 ###
-91  #ANALISAR
-1996-04-04-GZM-Gazeta_Mercantil_para_o-p01.pdf
-1996-04-04-GZM-Gazeta_Mercantil_para_o_Mercosul-p01.pdf
+91 ok
+1996-04-04-GZM-Gazeta_Mercantil_para_o_Mercosul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1996-04-04-GZM-Gazeta_Mercantil_para_o_Mercosul-p02.pdf (renomear arquivo no json)
 ###
-92  #ANALISAR
-1996-05-20-GZM-Brasil_se_destaca_no_encontro_de-p01.pdf
-1996-05-20-GZM-Brasil_se_destaca_no_encontro_de_ministros-p01.pdf
+92 ok
+1996-05-20-GZM-Brasil_se_destaca_no_encontro_de_ministros-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1996-05-20-GZM-Brasil_se_destaca_no_encontro_de_ministros-p02.pdf (renomear arquivo no json)
 ###
-89  #ANALISAR
-2001-11-13-GZM-Brasil_vence_nos-p01.pdf
-2001-11-13-GZM-Brasil_vence_nos_genericos-p01.pdf
+89 ok
+2001-11-13-GZM-Brasil_vence_nos_genericos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2001-11-13-GZM-Brasil_vence_nos_genericos-p02.pdf (renomear arquivo no json)
 ###
-91  #ANALISAR
-1996-07-03-GZM-Reduzidas_aliquotas_de_18-p01.pdf
-1996-07-03-GZM-Reduzidas_aliquotas_de_18_produtos-p01.pdf
+91 ok
+1996-07-03-GZM-Reduzidas_aliquotas_de_18_produtos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1996-07-03-GZM-Reduzidas_aliquotas_de_18_produtos-p02.pdf (renomear arquivo no json)
 ###
 89 ok
 1996-07-09-GZM-Mercosul_adia_acordo_com_Mexico-p01.pdf
@@ -1019,7 +994,7 @@
 1996-07-15-GZM-Financiamento_para_gasoduto-p01.pdf
 1996-11-06-GZM-Bolivia_quer_financiamento_para_gasoduto-p01.pdf
 ###
-89 #ANALISAR
+89 ok
 1996-08-07-GZM-ALca_empresaris_entram_no_debate-p01.pdf
 1996-09-17-GZM-Empresarios_entram_no_debate-p01.pdf
 ###
@@ -1027,107 +1002,107 @@
 1996-08-26-GZM-O_Pensa_se_aproxima_do_Mercosul-p01.pdf
 1996-10-02-GZM-Japao_se_aproxima_do_Mercosul-p01.pdf
 ###
-98 #ANALISAR
+98 ok
 1996-09-12-GZM-Itamar_assume_posto_na_OEA_sem_discurso-p01.pdf
-1996-09-12-GZM-Itamar_assume_posto_na_OEA_sem_discursp-p01.pdf
+1996-09-12-GZM-Itamar_assume_posto_na_OEA_sem_discursp-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-91 #ANALISAR
+91 ok
 1996-09-13-GZM-Na_OEA_Itamar_Franco_critica_lei_Helms_Burton-p01.pdf
-1996-09-13-GZM-Na_OEA,_itamar_franco_critica_lei_helms_burton-p01.pdf
+1996-09-13-GZM-Na_OEA,_itamar_franco_critica_lei_helms_burton-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 85 ok
 1996-11-21-GZM-Sao_Palulo_tenta_atrair_a_Hyunday-p01.pdf
 1996-11-29-GZM-Parana_tenta_atrair_a_Hyundai-p01.pdf
 ###
-100 #ANALISAR
+100 ok
 1996-12-15-JB-Gonzalo_Sanchez_de_Lozada:_'Somos_o_corredor_para_a_Asia'-p02.pdf
-1996-12-15-JB-Somos_o_corredor_para_a_Asia-p02.pdf
+1996-12-15-JB-Somos_o_corredor_para_a_Asia-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-96 #ANALISAR
+96 ok
 1996-12-23-GZM-Ampliados_os_incentivos_para_o_NE-p01.pdf
 1996-12-24-GZM-Ampliados_os_incentivos_para_o_NE-p02.pdf
 ###
-99 #ANALISAR
-2001-12-10-ESP-Governo_quer_ampliar_participacao_do_Pais_nas_decisoes_internacionais-p02.pdf
+99 ok
+2001-12-10-ESP-Governo_quer_ampliar_participacao_do_Pais_nas_decisoes_internacionais-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-12-10-ESP-Governo_quer_ampliar_participacao_do_pais_nas_decisoes_internacionais-p01.pdf
 ###
-94 #ANALISAR
+94 ok
 2001-12-11-ESP-Fhc_reforca_criticas_as_restricoes_do_fast_track-p01.pdf
-2001-12-21-ESP-FHC_reforca_critica_as_restricoes_fast_track-p03.pdf
+2001-12-21-ESP-FHC_reforca_critica_as_restricoes_fast_track-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 98 ok
 2001-10-10-ESP-EUA_e_Brasil_rumo_a_Alca(1)-p01.pdf
 2001-10-12-ESP-EUA_e_Brasil_rumo_a_Alca(2)-p01.pdf
 ###
-85 #ANALISAR o titulu da primeira
-1997-02-28-GZM-E_fiesc-p01.pdf
-1997-02-28-GZM-Cone_Sul_quer_criar_Forum_dos_Trabalhadores-p01.pdf
+85 ok
+1997-02-28-GZM-Cone_Sul_quer_criar_Forum_dos_Trabalhadores-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1997-02-28-GZM-Cone_Sul_quer_criar_Forum_dos_Trabalhadores-p02.pdf (renomear arquivo no json)
 ###
 85 ok
 1997-03-12-GZM-Mercosul_nao_cre_em_livre_comercio-p01.pdf
 1997-12-05-GZM-Mercosul_nao_desvia_comercio-p01.pdf
 ###
-96 #ANALISAR
-1997-03-24-GZM-Metade_do_pais_ignora_o_que_e_o_Mercosul-p01.pdf
-1997-03-24-GZM-Metade_do_pais_ignora_o_que_e_o_Mercosul_2a-p04.pdf
+96 ok
+1997-03-24-GZM-Metade_do_pais_ignora_o_que_e_o_Mercosul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1997-03-24-GZM-Metade_do_pais_ignora_o_que_e_o_Mercosul-p05.pdf (renomear arquivo no json)
 ###
-99  #ANALISAR
-2000-06-12-ESP-Militares_temem_internacionalizacao_da_Amazonia-p01.pdf
-2000-06-12-ESP-Militares_temem_a_internacionalizacao_da_amazonia-p01.pdf
+99  ok
+2000-06-12-ESP-Militares_temem_internacionalizacao_da_Amazonia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2000-06-12-ESP-Militares_temem_a_internacionalizacao_da_amazonia-p01.pdf 
 ###
-99 #ANALISAR
-2001-12-16-ESP-Brasil_apresentara_a_ONU_relatorio_sobre_terror-p03.pdf
+99 ok
+2001-12-16-ESP-Brasil_apresentara_a_ONU_relatorio_sobre_terror-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-12-16-ESP-Brasil_apresentara_a_onu_relatorio_sobre_terror-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 1997-11-07-ESP-Texto_sobre_impresa_e_modificado-p01.pdf
-1997-11-07-ESP-Texto_sobre_imprensa_e_modificado-p01.pdf
+1997-11-07-ESP-Texto_sobre_imprensa_e_modificado-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-1997-11-08-ESP-Encontro_vai_enfatizar_combate_a_corrupcao-p02.pdf
+98 ok
+1997-11-08-ESP-Encontro_vai_enfatizar_combate_a_corrupcao-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1997-11-08-ESP-Encontro_vai_enfatizar_combate_a_corrupcao-p01.pdf
 ###
-92 #ANALISAR
+92 ok
 1997-11-09-ESP-FHC_cobra_uniao_de_paises_pobres_contra_crises_financeiras-p01.pdf
-1997-11-09-ESP-FHC_cobra_uniao_de_paises_pobres_contra_crises-p01.pdf
+1997-11-09-ESP-FHC_cobra_uniao_de_paises_pobres_contra_crises-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
+98 ok
 1997-12-12-ESP-Brasil_esta_em_debito_com_OEA-p01.pdf
-1997-12-12-ESP-Brasil_esta_em_debito_com_a_OEA-p01.pdf
+1997-12-12-ESP-Brasil_esta_em_debito_com_a_OEA-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 85 ok
 2002-01-28-GZM-Brasil_quer_ter_o_direito_de_retaliar_o_Canada-p01.pdf
 2002-02-21-GZM-Pais_quer_ter_o_direito_de_retaliar-p01.pdf
 ###
-99 #ANALISAR
+99 ok
 1998-03-31-GZM-Itamar_recebe_elogio_e_retira_critica_aos_EUA-p01.pdf
-1998-03-31-GZM-Itamar_recebe_elogio_e_retira_criticas_aos_EUA-p01.pdf
+1998-03-31-GZM-Itamar_recebe_elogio_e_retira_criticas_aos_EUA-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 88 ok
 1998-04-07-GZM-Novo_regime_automotivo_do_Mercosul-p01.pdf
 1998-04-29-ESP-O_regime_automotivo_do_MErcosul-p01.pdf
 ###
-98 #ANALISAR
-1998-11-30-GZM-OMC_dabate_dependencia_do_Uruguai-p01.pdf
+98 ok
+1998-11-30-GZM-OMC_dabate_dependencia_do_Uruguai-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1998-11-30-GZM-OMC_debate_dependencia_do_Uruguai-p01.pdf
 ###
-97 #ANALISAR
-1998-11-30-GZM-Reuniao_discutira_facilitacoes_comerciais_na_A-p01.pdf
+97 ok
+1998-11-30-GZM-Reuniao_discutira_facilitacoes_comerciais_na_A-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1998-11-30-GZM-Uniao_discutira_facilitacoes_comerciais_na_Alc-p01.pdf
 ###
-86 #ANALISAR
+86 ok
 1998-11-30-GZM-Uniao_discutira_facilitacoes_comerciais_na_Alc-p01.pdf
-1998-11-30-GZM-Facilitacoes_comerciais_na_Alca-p01.pdf
+1998-11-30-GZM-Facilitacoes_comerciais_na_Alca-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 #ANALISAR
-2002-02-23-ESP-FHC_promete_mostrar_forca_por_seu_candidato-p04.pdf
+98 ok
+2002-02-23-ESP-FHC_promete_mostrar_forca_por_seu_candidato-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-02-23-ESP-Fhc_promete_mostrar_forca_por_seu_candidato-p01.pdf
 ###
 87 ok
 1998-12-08-ESP-Brasil_e_Argentina_discutem_setor_automotivo-p01.pdf
 1998-12-11-GZM-Brasil_e_Argentina_definem_setor_automotivo-p01.pdf
 ###
-98  #ANALISAR
-2002-02-24-ESP-FHC_diz_que_tucanos_vivem_sob_fogo_cruzado-p02.pdf
+98 ok
+2002-02-24-ESP-FHC_diz_que_tucanos_vivem_sob_fogo_cruzado-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-02-24-ESP-Fhc_diz_que_tucanos_vivem_sob_fogo_cruzado-p01.pdf
 ###
