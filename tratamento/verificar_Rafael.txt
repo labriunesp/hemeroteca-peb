@@ -177,13 +177,13 @@
 1998-04-22-GZM-Santander_encerra_as_aquisicoes_na_AL-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 0000-00-00-NA-Santander_encerra_as_aquisicoes_na_AL-p02.pdf
 ###
-99
-1998-07-10-GZM-Industria_britanica_recomenda_investir_no_Bras-p02.pdf
+99 ok
+1998-07-10-GZM-Industria_britanica_recomenda_investir_no_Bras-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1998-07-10-GZM-Industria_britanica_recomenda_investir_no_Brasi-p02.pdf
 ###
 93
-1998-07-21-GZM-Demonstracoes_de_confianca-p01.pdf
-1998-11-25-GZM-Demontracoes_de_confianca-p01.pdf
+1998-07-21-GZM-Demonstracoes_de_confianca-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1998-07-21-GZM-Demonstracoes_de_confianca-p02.pdf (renomear arquivo no json)
 ###
 90
 2003-09-05-ESP-Lula_Temos_de_chegar_la_com_forca-p02.pdf
