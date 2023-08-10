@@ -38,7 +38,7 @@
 2008-10-17-ESP-Argentina_restringe_importacoes-p01.pdf
 2008-10-17-ESP-Pacote_da_argentina_restringe_importacao-p01.pdf
 ###
-97
+97 ok
 2004-01-04-ESP-Forca_aerea_tera_poder_de_ataque_estrategico-p01.pdf
 2004-01-01-ESP-Forca_aerea_tera_poder_de_ataque_estrategico-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
@@ -85,96 +85,96 @@
 2003-08-22-ESP-Aviao_da_FAB_chega_hoje_a_Bagda-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-08-22-ESP-Aviao_da_fab_chega_hoje_a_Bagda-p01.pdf (ajustar nome)
 ###
-87
+87 ok 08:50
 1995-06-06-GZM-Cooperacao_com_a_Italia-p01.pdf
 1995-06-08-GZM-Aproximacao_com_a_Italia-p01.pdf
 ###
-86
-1995-06-18-GZM-Um_predio_de_luxo-p01.pdf
-1995-06-18-GZM-Um_predio_de_luxo_na_Boa_Vista-p01.pdf
+86 ok
+1995-06-18-GZM-Um_predio_de_luxo_na_Boa_Vista-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1995-06-18-GZM-Um_predio_de_luxo_na_Boa_Vista-p02.pdf (renomear arquivo no json)
 ###
-99
-1995-07-21-GZM-Cardoso_defende_maior_integracao_luso_brasilei-p02.pdf
+99 ok
+1995-07-21-GZM-Cardoso_defende_maior_integracao_luso_brasilei-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1995-07-21-GZM-Cardoso_defende_maior_integracao_luso_brasileir-p02.pdf
 ###
-97
+97 ok
 2004-03-04-ESP-Novas_regras_do_itamaraty_avancam_no_senado-p01.pdf
-2004-04-04-ESP-Novas_regras_do_Itamaraty_avancam_no_Senado-p02.pdf
+2004-04-04-ESP-Novas_regras_do_Itamaraty_avancam_no_Senado-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99
+99 ok
 1998-10-13-ESP-Franca_suspende_credito_de_exportacoes_para_o_Bra-p01.pdf
-1998-10-13-ESP-Franca_suspende_credito_de_exportacoes_para_o_B-p01.pdf
+1998-10-13-ESP-Franca_suspende_credito_de_exportacoes_para_o_B-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-88
+88 ok
 1996-03-14-ESP-Pmdb_adia_votacao_da_lei_de_patentes-p01.pdf
 1996-03-14-GZM-Pmdb_adia_votacao_das_patentes-p01.pdf
 ###
-99
-2000-10-05-ESP-Relatorios_do_TCU_aponta_varios_casos_de_desperdicio_do_Itamarary-p01.pdf
+99 ok
+2000-10-05-ESP-Relatorios_do_TCU_aponta_varios_casos_de_desperdicio_do_Itamarary-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-10-05-ESP-Relatorios_do_tcu_aponta_varios_casos_de_desperdicio_do_itamaraty-p01.pdf
 ###
-96
-2003-08-24-ESP-Lula_e_Annan_homenageiam_Vieira_de_Mello-p02.pdf
+96 ok
+2003-08-24-ESP-Lula_e_Annan_homenageiam_Vieira_de_Mello-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-08-24-FSP-Lula_e_annan_homenageiam_vieira_de_mell-p01.pdf
 ###
-99
-2003-08-26-ESP-Viera_de_Mello_enfrentava_criticas_por_atuacao-p01.pdf
+99 ok
+2003-08-26-ESP-Viera_de_Mello_enfrentava_criticas_por_atuacao-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-08-26-ESP-Vieira_de_mello_enfrentava_criticas_por_atuacao-p01.pdf
 ###
-99
-1996-11-18-GZM-Infra_estrutura_e_prioridade_da_Holanda_no_Bra-p02.pdf
+99 ok
+1996-11-18-GZM-Infra_estrutura_e_prioridade_da_Holanda_no_Bra-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1996-11-18-GZM-Infra_estrutura_e_prioridade_da_Holanda_no_Bras-p02.pdf
 ###
-98
-1996-11-25-GZM-O_oceano_imaginado_por_Helder-p01.pdf
+98 ok
+1996-11-25-GZM-O_oceano_imaginado_por_Helder-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1996-11-25-GZM-O_oceano_imaginado_por_Helder-p02.pdf
 ###
-97
-1997-01-18-GZM-Tensoes_na_quinta_economia_do_mundo-p03.pdf
-1997-02-18-GZM-Tensoes_na_quinta_economia_do_mundo-p02.pdf
+97 ok
+1997-01-18-GZM-Tensoes_na_quinta_economia_do_mundo-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1997-02-18-GZM-Tensoes_na_quinta_economia_do_mundo-p05.pdf (renomear arquivo no json)
 ###
-99
-1997-02-07-ESP-Chirac_vira_ao_Brasil_em_marco_para_manifestar_ap-p01.pdf
+99 ok
+1997-02-07-ESP-Chirac_vira_ao_Brasil_em_marco_para_manifestar_ap-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1997-02-07-ESP-Chirac_vira_ao_Brasil_em_marco_para_manifestar_apo-p01.pdf
 ###
-99
-1997-02-11-ESP-Agenda_inclui_encontros_com_lideres_de_situac-p01.pdf
+99 ok
+1997-02-11-ESP-Agenda_inclui_encontros_com_lideres_de_situac-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1997-02-11-ESP-Agenda_inclui_encontros_com_lideres_de_situaca-p01.pdf
 ###
-89
+89 ok
 2003-08-29-ESP-Omc_fecha_acordo_sobre_quebra_de_patentes-p01.pdf
 2003-02-01-ESP-Ha_desacordo_sobre_quebra_de_patentes-p01.pdf
 ###
-99
-1997-03-13-ESP-E_Preciso_novo_impulso_a_tradicao_de_cooperac-p02.pdf
+99 ok
+1997-03-13-ESP-E_Preciso_novo_impulso_a_tradicao_de_cooperac-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1997-03-13-ESP-E_Preciso_novo_impulso_a_tradicao_de_cooperacao-p02.pdf
 ###
-98
-2003-08-31-ESP-O_Brasil_precisa_de_um_programa_espacial-p04.pdf
+98 ok
+2003-08-31-ESP-O_Brasil_precisa_de_um_programa_espacial-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-08-31-ESP-O_brasil_precisa_de_um_programa_espacial?-p01.pdf
 ###
-98
-1997-12-05-GZM-10_Downing_Street-p01.pdf
-1997-12-07-GZM-10_Downing_Street-p01.pdf
+98 ok
+1997-12-05-GZM-10_Downing_Street-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1997-12-07-GZM-10_Downing_Street-p02.pdf (renomear arquivo no json)
 ###
-90
-1998-03-03-GZM-A_Europa_do_pleno-p01.pdf
-1998-03-03-GZM-A_Europa_do_pleno_emprego-p01.pdf
+90 ok
+1998-03-03-GZM-A_Europa_do_pleno_emprego-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1998-03-03-GZM-A_Europa_do_pleno_emprego-p02.pdf (renomear arquivo no json)
 ###
-99
-1998-03-03-GZM-Montadora_busca_lederanca_e_reitera_aposta_fei-p01.pdf
+99 ok
+1998-03-03-GZM-Montadora_busca_lederanca_e_reitera_aposta_fei-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1998-03-03-GZM-Montadora_busca_lederanca_e_reitera_aposta_feit-p01.pdf
 ###
-98
-1998-04-22-GZM-Instantaneos_barrocos_da_relacao_bilateral-p01.pdf
-1998-04-22-GZM-Instantaneos_barrocos_da_relacao_bilateral_II-p01.pdf
+98 ok
+1998-04-22-GZM-Instantaneos_barrocos_da_relacao_bilateral-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1998-04-22-GZM-Instantaneos_barrocos_da_relacao_bilateral-p02.pdf (renomear arquivo no json)
 ###
-98
-2003-09-03-ESP-Risco_de_despejo_ameaca_escriotorios_no_exterior-p01.pdf
+98 ok
+2003-09-03-ESP-Risco_de_despejo_ameaca_escriotorios_no_exterior-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-30-ESP-Risco_de_despejo_ameaca_escritorios_no_exterior-p01.pdf
 ###
-89
-1998-04-22-GZM-Santander_encerra_as_aquisicoes_na_AL-p02.pdf
+89 ok
+1998-04-22-GZM-Santander_encerra_as_aquisicoes_na_AL-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 0000-00-00-NA-Santander_encerra_as_aquisicoes_na_AL-p02.pdf
 ###
 99
