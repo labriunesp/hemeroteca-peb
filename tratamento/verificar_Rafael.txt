@@ -181,53 +181,53 @@
 1998-07-10-GZM-Industria_britanica_recomenda_investir_no_Bras-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1998-07-10-GZM-Industria_britanica_recomenda_investir_no_Brasi-p02.pdf
 ###
-93
+93 ok
 1998-07-21-GZM-Demonstracoes_de_confianca-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1998-07-21-GZM-Demonstracoes_de_confianca-p02.pdf (renomear arquivo no json)
 ###
-90
-2003-09-05-ESP-Lula_Temos_de_chegar_la_com_forca-p02.pdf
+90 08:45
+2003-09-05-ESP-Lula_Temos_de_chegar_la_com_forca-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-05-ESP-Lula:_temos_de_chegar_la_com_forca-p01.pdf
 ###
-89
+89 ok
 1999-05-09-ESP-Lei_de_informatica_deve_ser_prorrogada_ate_2013-p01.pdf
 1999-08-17-ESP-Lei_de_informatica_deve_ser_prorrogada-p01.pdf
 ###
-99
-1999-07-05-GZM-Isolamento_comeca_a_pesar_sobre_a_economia_hel-p01.pdf
+99 ok
+1999-07-05-GZM-Isolamento_comeca_a_pesar_sobre_a_economia_hel-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1999-07-05-GZM-Isolamento_comeca_a_pesar_sobre_a_economia_helv-p01.pdf
 ###
-98
-1999-07-05-GZM-Reacao_dos_bancos_para_enfrentar_a_concorrenci-p03.pdf
+98 ok
+1999-07-05-GZM-Reacao_dos_bancos_para_enfrentar_a_concorrenci-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1999-07-05-GZM-Reacao_dos_bancos_para_enfrentar_a_concorrencia-p02.pdf
 ###
-99
+99 ok
 1999-07-20-ESP-Economista_preve_nova_onda_de_investimentos_a-p01.pdf
-1999-07-20-ESP-Economista_preve_nova_onda_de_investimentos_al-p01.pdf
+1999-07-20-ESP-Economista_preve_nova_onda_de_investimentos_al-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-96
+96 ok
 1987-05-14-GZM-Sarney_quer_maior_enfase_para_relacoes_com_o_terceiro_mundo-p01.pdf
-1987-05-14-GZM-Sarney_quer_maior_enfase_para_relacoes_com_o_Terceiro-p01.pdf
+1987-05-14-GZM-Sarney_quer_maior_enfase_para_relacoes_com_o_Terceiro-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-96
-1999-11-23-GZM-Inovacao_para_a_industria_agropecuaria-p01.pdf
+96 ok
+1999-11-23-GZM-Inovacao_para_a_industria_agropecuaria-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1999-11-23-GZM-Inovacoes_para_a_industria_agropecuaria-p02.pdf
 ###
-98
-1999-11-23-GZM-Kotoen_Natie_finca_raizes_no_pais-p02.pdf
+98 ok
+1999-11-23-GZM-Kotoen_Natie_finca_raizes_no_pais-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1999-11-23-GZM-Katoen_Natie_finca_raizes_no_pais-p02.pdf
 ###
-99
+99 ok
 2000-07-11-GZM-Pais_e_o_terceiro_maior_produtor_de_vinhos_no-p02.pdf
-2000-07-11-GZM-Pais_e_o_terceiro_maior_produtor_de_vinhos_no_m-p02.pdf
+2000-07-11-GZM-Pais_e_o_terceiro_maior_produtor_de_vinhos_no_m-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99
-2000-09-06-ESP-Carta_de_FHC_a_Chirac_reforca_ideal_de_democr-p02.pdf
+99 ok
+2000-09-06-ESP-Carta_de_FHC_a_Chirac_reforca_ideal_de_democr-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-09-06-ESP-Carta_de_FHC_a_Chirac_reforca_ideal_de_democra-p02.pdf
 ###
-95
+95 ok
 2006-02-05-ESP-Lula_vai_a_paises_exemplares_na_quinta_viagem_a_Africa-p01.pdf
-2006-02-05-ESP-Lula_vai_a_paises_exemplares_na_5_viagem_a_Africa-p01.pdf
+2006-02-05-ESP-Lula_vai_a_paises_exemplares_na_5_viagem_a_Africa-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 98
 2001-03-29-GZM-Relacoes_mais_consistentes-p02.pdf
@@ -235,7 +235,7 @@
 ###
 99
 2001-08-29-GZM-Polos_vao_virar_modelo_de_desenvolvimento-p01.pdf
-2001-08-29-GZM-Polos_vao_virar_modelo_de_desnvolvimento-p01.pdf
+2001-08-29-GZM-Polos_vao_virar_modelo_de_desnvolvimento-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 99
 2001-10-31-ESP-Protecionismo_dos_EUA_e_o_pior_diz_president-p02.pdf
