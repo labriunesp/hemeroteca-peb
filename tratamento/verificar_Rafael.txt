@@ -2,23 +2,23 @@
 2006-12-26-GZM-Agencia_espacial_tenta_dobrar_verba_para_2006-p01.pdf
 2005-12-26-GZM-Agencia_espacial_tenta_dobrar_verba_para_2006-p01.pdf
 ###
-94 
+94 ok
 1998-09-19-ESP-Montadoras_da_Argentina_diminuem_producao_e_demitem-p01.pdf
 1998-09-18-ESP-Montadoras_da_Argentina_diminuem_producao_e_d-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-97 
+97 ok
 1998-11-18-GZM-Sadia_exporta_mais_para_o_Mercosul-p01.pdf 
 1998-08-18-GZM-Sadia_exporta_mais_para_o_Mercosul-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98 
+98 ok
 1998-11-23-GZM-Mercosul_vai_reconhecer_cursos_superiores-p01.pdf
 1998-08-23-GZM-Mercosul_vai_reconhecer_cursos_superiores-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99 
+99 ok
 2003-07-25-ESP-Brasil_apoia_punicao_a_Reporteres_Sem_Fronteiras-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-07-25-ESP-Brasil_apoia_punicao_a_reporteres_sem_fronteiras-p01.pdf
 ###
-94
+94 ok
 2008-03-06-ESP-Colombia_e_Equador_selam_acordo-p01.pdf
 2008-05-22-ESP-Colombia_e_equador_selam_acordo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
@@ -26,7 +26,7 @@
 1993-08-11-GZM-O_inimigo_externo-p01.pdf
 1997-06-14-ESP-O_inimigo_externo-p01.pdf
 ###
-97
+97 ok
 2003-12-30-ESP-1.9_Milhao_de_brasileiros_vivem_no_exterior-p01.pdf
 2003-12-30-ESP-9_Milhao_de_brasileiros_vivem_no_exterior-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
@@ -46,7 +46,7 @@
 2009-06-05-ESP-Argentina_restringe_moveis_brasileiros-p01.pdf
 2009-09-22-ESP-Argentina_restringe_autopecas_brasileiras-p01.pdf
 ###
-99
+99 ok
 2003-08-08-ESP-Acordo_com_Ucrania_sobre_Alcantra_e_modelo_diz_Amorim-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-08-08-ESP-Acordo_com_ucrania_sobre_alcAntara_e_modelo_diz_amorim-p01.pdf
 ###
@@ -54,19 +54,19 @@
 2010-02-04-ESP-Brasil_e_argentina_retomam_negociacoes-p01.pdf
 2001-05-21-GZM-Brasil_e_Argentina_retomam_negociacoes-p01.pdf
 ###
-88
+88 ok
 2010-10-30-ESP-Brasil_argentina_apos_a_era_kirchner-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2010-10-30-ESP-Brasil-Argentina_apos_a_era_kirchner-p01.pdf
 ###
-99
+99 ok
 2001-01-23-ESP-Fhc_confirma_escolha_de_lafer_para_o_itamaraty-p01.pdf
 2001-01-23-ESP-FHC_confirma_escolha_de_Lafer_para_o_Itamaraty-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99
+99 ok
 1986-05-03-ESP-Chernobyl_uma_prova_de_ineficiencia_e_soberb-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1986-05-03-ESP-Chernobyl_uma_prova_de_ineficiencia_e_soberba-p01.pdf
 ###
-99
+99 ok
 1991-10-19-GZM-Ferias_coletivas_de_cliente_atingem_os_fornece-p01.pdf (mudar nome no jsno para o indicado na linha abaixo)
 ## Ferias_coletivas_de_cliente_atingem_os_fornecedores_componentes_pecas
 1991-10-19-GZM-Ferias_coletivas_de_cliente_atingem_os_forneced-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
@@ -81,7 +81,7 @@
 1994-09-16-GZM-Brasil_e_Russia_assinam_acordo_de_cooperacao-p01.pdf
 2004-09-08-GZM-Brasil_e_china_assinam_acordos_de_cooperacao-p01.pdf
 ###
-96
+96 ok
 2003-08-22-ESP-Aviao_da_FAB_chega_hoje_a_Bagda-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-08-22-ESP-Aviao_da_fab_chega_hoje_a_Bagda-p01.pdf (ajustar nome)
 ###
@@ -229,257 +229,257 @@
 2006-02-05-ESP-Lula_vai_a_paises_exemplares_na_quinta_viagem_a_Africa-p01.pdf
 2006-02-05-ESP-Lula_vai_a_paises_exemplares_na_5_viagem_a_Africa-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98
-2001-03-29-GZM-Relacoes_mais_consistentes-p02.pdf
-2001-03-25-GZM-Relacoes_mais_consistentes-p02.pdf
+98 ok
+2001-03-29-GZM-Relacoes_mais_consistentes-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2001-03-25-GZM-Relacoes_mais_consistentes-p04.pdf (renomear arquivo no json)
 ###
-99
+99 ok
 2001-08-29-GZM-Polos_vao_virar_modelo_de_desenvolvimento-p01.pdf
 2001-08-29-GZM-Polos_vao_virar_modelo_de_desnvolvimento-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99
-2001-10-31-ESP-Protecionismo_dos_EUA_e_o_pior_diz_president-p02.pdf
+99 ok
+2001-10-31-ESP-Protecionismo_dos_EUA_e_o_pior_diz_president-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-10-31-ESP-Protecionismo_dos_EUA_e_o_pior_diz_presidente-p02.pdf
 ###
-99
-2003-09-17-ESP-Sergio_Viera_de_Mello_um_testemunho-p01.pdf
+99 ok
+2003-09-17-ESP-Sergio_Viera_de_Mello_um_testemunho-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-17-ESP-Sergio_vieira_de_mello_um_testemunho-p01.pdf
 ###
-88
-2002-02-20-ESP-Brasil_defende_com_UE_salvaguardas_ao_aco-p02.pdf
+88 ok
+2002-02-20-ESP-Brasil_defende_com_UE_salvaguardas_ao_aco-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-02-20-ESP-Brasil_e_UE_discutem_salvaguardas_ao_aco-p02.pdf
 ###
-100
-2002-03-07-GZM-Brasil_tera_acordo_de_cooperacao_militar_com_a_Russia-p01.pdf
+100 ok
+2002-03-07-GZM-Brasil_tera_acordo_de_cooperacao_militar_com_a_Russia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-07-03-GZM-Brasil_Tera_acordo_de_Cooperacao_militar_com_a_Russia.-p01.pdf
 ###
-99
-2003-09-19-ESP-Presidente_defende_uso_de_todo_o_potencial_de_ousadia-p01.pdf
+99 ok
+2003-09-19-ESP-Presidente_defende_uso_de_todo_o_potencial_de_ousadia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-19-ESP-Presidente_defende_uso_de_'todo_o_potencial_de_ousadia'-p01.pdf
 ###
-85
+85 ok
 1991-06-09-ESP-Camara_vota_nova_lei_da_informatica-p01.pdf
 1991-09-26-GZM-Camara_aprova_a_nova_lei_de_informatica-p01.pdf
 ###
-98
-2003-09-20-ESP-Viagem_provoca_debanda_de_ministros-p01.pdf
+98 ok
+2003-09-20-ESP-Viagem_provoca_debanda_de_ministros-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-20-ESP-Viagem_provoca_debandada_de_ministros-p01.pdf
 ###
-98
+98 ok
 2000-06-18-ESP-Emigrante_e_a_nova_prioridade_do_itamaraty-p01.pdf
 2000-06-18-ESP-Emigrante_e_a_nova_prioridade_do_Itamaraty-p05.pdf
 ###
-98
-2003-09-23-ESP-Expectativa_inedita_cerca_discurso_de_Lula-p02.pdf
+98 ok
+2003-09-23-ESP-Expectativa_inedita_cerca_discurso_de_Lula-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-23-ESP-Expectativa_inedita_cerca_discurso_de_lula-p01.pdf
 ###
-99
-2003-09-23-ESP-Lula_critica_politica_de_Bush_contra_terrorismo-p04.pdf
+99 ok 09:00
+2003-09-23-ESP-Lula_critica_politica_de_Bush_contra_terrorismo-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-23-ESP-Lula_critica_politica_de_bush_contra_terrorismo-p01.pdf
 ###
-92
+92 ok
 2004-06-30-ESP-Russia_mantem_embargo_a_carne_bovina_brasileira-p01.pdf
 2004-10-13-ESP-Russia_mantem_embargo_a_carne_brasileira-p01.pdf
 ###
-99
-2003-09-24-ESP-Lula_defende_na_ONU_criacao_de_comite_mundial_contra_a_fome-p04.pdf
+99 ok
+2003-09-24-ESP-Lula_defende_na_ONU_criacao_de_comite_mundial_contra_a_fome-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-24-ESP-Lula_defende_na_onu_criacao_de_comite_mundial_contra_a_fome-p01.pdf
 ###
-98
-2003-09-24-ESP-Presidente_volta_a_atacar_paises_ricos-p06.pdf
+98 ok
+2003-09-24-ESP-Presidente_volta_a_atacar_paises_ricos-p06.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-09-24-ESP-Presidente_volta_a_atacar_paises_ricos-p01.pdf
 ###
-87
+87 ok
 2004-10-13-ESP-Russia_mantem_embargo_a_carne_brasileira-p01.pdf
 2004-11-23-ESP-Russia_mantem_embargo_a_carne-p01.pdf
 ###
-88
+88 ok
 2004-10-13-ESP-Russia_mantem_embargo_a_carne_brasileira-p01.pdf
 2004-07-01-ESP-Russia_suspende_embargo_a_carne_brasileira-p01.pdf
 ###
-99
+99 ok
 2003-09-26-ESP-Para_jornal_arabe_fome_zero_deve_se_tornar_exemplo-p01.pdf
-2003-09-26-ESP-Para_jornal_arabe_Fome_Zero_deve_se_tornar_exeplo-p01.pdf
+2003-09-26-ESP-Para_jornal_arabe_Fome_Zero_deve_se_tornar_exeplo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-91
-2005-11-01-GZM-Bitributacao_faz_Alemanha_romper_acordo...-p01.pdf
-2005-11-01-GZM-Bitributacao_faz_Alemanha_romper_acordo_com_o_Brasil-p01.pdf
+91 ok
+2005-11-01-GZM-Bitributacao_faz_Alemanha_romper_acordo_com_o_Brasil-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2005-11-01-GZM-Bitributacao_faz_Alemanha_romper_acordo_com_o_Brasil-p02.pdf (renomear arquivo no json)
 ###
-93
-2003-10-01-GZM-FAB_vai_exigir_compensacoes_na_compra-p01.pdf
-2003-10-01-GZM-FAB_vai_exigir_compensacoes_na_compra_de_jatos-p01.pdf
+93 ok
+2003-10-01-GZM-FAB_vai_exigir_compensacoes_na_compra_de_jatos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2003-10-01-GZM-FAB_vai_exigir_compensacoes_na_compra_de_jatos-p02.pdf (renomear arquivo no json)
 ###
-96
+96 ok
 2003-10-29-ESP-Pt_quer_internacional_na_sua_luta_por_nova_ordem-p01.pdf
-2003-10-29-ESP-PT_quer_Internacional_na_luta_por_nova_ordem-p02.pdf
+2003-10-29-ESP-PT_quer_Internacional_na_luta_por_nova_ordem-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98
+98 ok
 2003-10-30-ESP-Internacional_pede_fim_da_repressao_em_cuba-p01.pdf
-2003-10-30-ESP-Internacional_pede_fim_da_repressao_em_Cuba-p02.pdf
+2003-10-30-ESP-Internacional_pede_fim_da_repressao_em_Cuba-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99
-2003-10-07-ESP-Pais_vai_enriquecer_uranio_Cientistas_aplaudem-p02.pdf
+99 ok
+2003-10-07-ESP-Pais_vai_enriquecer_uranio_Cientistas_aplaudem-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-10-07-ESP-Pais_vai_enriquecer_uranio_cientistas_aplaudem-p01.pdf
 ###
-98
+98 ok
 2006-03-30-GZM-Empresario_italiano_tem_facilidade_para_investir-p01.pdf
-2006-03-30-GZM-Empresario_italiano_tera_facilidade_para_investir-p01.pdf
+2006-03-30-GZM-Empresario_italiano_tera_facilidade_para_investir-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-88
-2003-10-08-GZM-Aggiornamento_na_diplomacia_(continuacao)-p01.pdf
-2003-10-08-GZM-Aggiornamento_na_diplomacia-p01.pdf
+88 ok
+2003-10-08-GZM-Aggiornamento_na_diplomacia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2003-10-08-GZM-Aggiornamento_na_diplomacia-p02.pdf (renomear arquivo no json)
 ###
-95
-2006-10-06-GZM-Russia_libera_carnes_de_Goias...-p01.pdf
-2006-10-06-GZM-Russia_libera_carnes_de_Goias_e_SP-p01.pdf
+95 ok
+2006-10-06-GZM-Russia_libera_carnes_de_Goias_e_SP-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2006-10-06-GZM-Russia_libera_carnes_de_Goias_e_SP-p02.pdf (renomear arquivo no json)
 ###
-98
-2003-10-10-ESP-Governo_reafirma_apoio_a_inspecoes_pela_ONU-p04.pdf
+98 ok
+2003-10-10-ESP-Governo_reafirma_apoio_a_inspecoes_pela_ONU-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-10-10-ESP-Governo_reafirma_apoio_a_inspecoes_pela_onu-p01.pdf
 ###
-96
-1994-18-14-GZM-Itamaraty_inicia_acao_para_mudar_a_imagem_do_Brasil_no_exterior-p02.pdf
+96 ok
+1994-18-14-GZM-Itamaraty_inicia_acao_para_mudar_a_imagem_do_Brasil_no_exterior-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1994-10-14-GZM-Itamaraty_inicia_acao_para_mudar_imagem_do_brasil_no_exterior-p01.pdf
 ###
-99
-2003-10-23-ESP-PT_planeja_aderir_a_Internacional_Socialista-p02.pdf
+99 ok
+2003-10-23-ESP-PT_planeja_aderir_a_Internacional_Socialista-p02.pdf  (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-10-23-ESP-Pt_planeja_aderir_a_internacional_socialista-p01.pdf
 ###
-99
-2003-10-24-ESP-Brasil_eleito_para_Conselho_da_ONU_pela_9_vez-p03.pdf
+99 ok
+2003-10-24-ESP-Brasil_eleito_para_Conselho_da_ONU_pela_9_vez-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-10-24-ESP-Brasil_eleito_para_conselho_da_onu_pela_9_vez-p01.pdf
 ###
-96
+96 ok
 2003-12-31-ESP-Reformas_chegam_pedindo_outras-p01.pdf
-2003-12-31-ESP-Reformas_chegaram_pedindo_outras-p08.pdf
+2003-12-31-ESP-Reformas_chegaram_pedindo_outras-p08.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-97
+97 ok
 2003-10-30-ESP-Lula_visitara_base_brasileira_na_antartida-p01.pdf
-2003-10-30-GZM-Lula_visitara_base_brasileira_na_Antartida-p01.pdf
+2003-10-30-GZM-Lula_visitara_base_brasileira_na_Antartida-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-90
+90 ok
 2009-09-17-ESP-Jobim_reafirma_preferencia_pelos_Rafale-p01.pdf
 2009-10-11-ESP-Jobim_reafirma_preferencia_por_caca_Rafale-p01.pdf
 ###
-87
+87 ok
 2010-02-02-ESP-Brasil_ameaca_ir_a_OMC_contra_subsidio_ao_acucar_da_UE-p01.pdf
 2010-02-08-ESP-Brasil_vai_a_OMC_contra_subsidio_ao_acucar_europeu-p01.pdf
 ###
-93
-2003-11-06-GZM-Brasil_disputa_com_os_eua_mercados_russo...-p01.pdf
-2003-11-06-GZM-Brasil_disputa_com_os_eua_mercados_russo_e_chines-p01.pdf
+93 ok
+2003-11-06-GZM-Brasil_disputa_com_os_eua_mercados_russo_e_chines-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2003-11-06-GZM-Brasil_disputa_com_os_eua_mercados_russo_e_chines-p02.pdf (renomear arquivo no json)
 ###
-99
-2003-11-22-ESP-Cargo_de_Viera_de_Mello_na_ONU_pode_ser_ocupado_por_outro_brasileiro-p01.pdf
+99 ok
+2003-11-22-ESP-Cargo_de_Viera_de_Mello_na_ONU_pode_ser_ocupado_por_outro_brasileiro-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-11-22-ESP-Cargo_de_vieira_de_mello_na_onu_pode_ser_ocupado_por_outro_brasileiro-p01.pdf
 ###
-99
-2003-11-23-ESP-Negociadores_viajaram_por_conta_propia-p01.pdf
+99 ok
+2003-11-23-ESP-Negociadores_viajaram_por_conta_propia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-11-23-ESP-Negociadores_viajaram_por_conta_propria-p01.pdf
 ###
-90
+90 ok
 2006-02-24-ESP-0000-p01.pdf
 2006-02-24-ESP-Quem_apostar_na_divisao_do_psdb_vai_errar-p01.pdf
 ###
-90
+90 ok
 2006-02-24-ESP-0000-p01.pdf
 2006-02-24-ESP-Petrobras_faz_parceria_com_estatal_da_turquia-p01.pdf
 ###
-85
+85 ok
 2004-09-08-GZM-Brasil_e_china_assinam_acordos_de_cooperacao-p01.pdf
 2006-02-09-GZM-Lula_assina_acordos_de_cooperacao-p01.pdf
 ###
-98
-2003-12-06-ESP-Itamaraty_nao_paga_conta_e_Luz_e_cortada-p02.pdf
+98 ok
+2003-12-06-ESP-Itamaraty_nao_paga_conta_e_Luz_e_cortada-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-12-06-ESP-Itamaraty_nao_paga_conta_e_luz_e_cortada-p01.pdf
 ###
-86
+86 ok
 2006-02-18-ESP-China_pode_levar_fabrica_brasileira-p01.pdf
 2006-12-18-ESP-China_pode_barrar_soja_brasileira-p01.pdf
 ###
-91
+91 ok
 1986-10-19-ESP-Sem_retaliacoes-p01.pdf
 1986-09-09-ESP-Sem_retaliacoes,_sarney_busca_apoio_para_divida-p01.pdf
 ###
-93
-2006-09-12-GZM-Indonesia_quer_apoio_do_pais_em-p01.pdf
-2006-09-12-GZM-Indonesia_quer_apoio_do_pais_em_energia-p01.pdf
+93 ok
+2006-09-12-GZM-Indonesia_quer_apoio_do_pais_em_energia-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2006-09-12-GZM-Indonesia_quer_apoio_do_pais_em_energia-p02.pdf (renomear arquivo no json)
 ###
-85
+85 ok
 2006-09-14-GZM-Petrobras_compra_refinaria_no_japao-p01.pdf
 2006-09-02-ESP-Petrobras_compra_refinaria_nos_eua-p01.pdf
 ###
-88
-2003-12-15-GZM-Fmi_aprova_o_emprestimo...-p01.pdf
-2003-12-15-GZM-Fmi_aprova_o_emprestimo_de_us$14_bi-p01.pdf
+88 ok
+2003-12-15-GZM-Fmi_aprova_o_emprestimo_de_us$14_bi-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2003-12-15-GZM-Fmi_aprova_o_emprestimo_de_us$14_bi-p01.pdf (renomear arquivo no json)
 ###
-88
+88 ok
 1984-06-08-FSP-Setubal_defende_reserva_para_informatica-p01.pdf
 1984-06-08-ESP-Setubal_defende_a_reserva_de_mercado_para_a_informatica-p01.pdf
 ###
-98
-1984-09-11-ESP-Divida_externa_e_ilegitima_conclui_CPI-p02.pdf
+98 ok
+1984-09-11-ESP-Divida_externa_e_ilegitima_conclui_CPI-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1984-09-11-ESP-Divida_externa_e_ilegitima_conclui_cpi-p01.pdf
 ###
-95
+95 ok
 1985-07-14-ESP-A_visao_externa_da_divida_brasileira-p01.pdf
 1985-07-21-ESP-A_visao_interna_da_divida_brasileira-p01.pdf
 ###
-96
-2004-01-06-ESP-Iniciantes_do_Brasil_noa_ONU_no_campo_dos_Direitos_Humanos-p01.pdf
+96 ok
+2004-01-06-ESP-Iniciantes_do_Brasil_noa_ONU_no_campo_dos_Direitos_Humanos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-06-ESP-Iniciativas_do_brasil_na_onu_no_campo_dos_direitos_humanos-p01.pdf
 ###
-87
+87 ok
 1986-05-17-JB-Brasil_nao_negocia_politica_de_informatica-p01.pdf
 1986-05-25-ESP-Brasil_nao_negocia_lei_de_informatica-p01.pdf
 ###
-99
-2004-01-13-ESP-Setor_nuclear_ve_risco_em_inspecao_irrestrita_da_AIEA-p04.pdf
+99 ok
+2004-01-13-ESP-Setor_nuclear_ve_risco_em_inspecao_irrestrita_da_AIEA-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-13-ESP-Setor_nuclear_ve_risco_em_inspecao_irrestrita_da_aiea-p01.pdf
 ###
-93
+93 ok
 2004-01-16-ESP-Brasil_pede_a_omc_direito_de_retaliar_os_eua-p01.pdf
 2004-01-15-ESP-Brasil_vai_pedir_a_OMC_direto_de_retaliar_os_EUA-p01.pdf
 ###
-94
+94 ok
 2004-01-16-ESP-Brasil_pede_a_omc_direito_de_retaliar_os_eua-p01.pdf
 2004-01-15-ESP-Brasil_vai_pedir_a_omc_direito_de_retaliar_os_eua-p01.pdf
 ###
-98
-2004-01-17-ESP-Lula_vai_propor_CPMF_mundial_contra_a_fome-p02.pdf
+98 ok
+2004-01-17-ESP-Lula_vai_propor_CPMF_mundial_contra_a_fome-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-17-ESP-Lula_vai_propor_cpmf_mundial_contra_a_fome-p01.pdf
 ###
-99
-2004-01-17-ESP-Para_Pinheiro_Guimaraes_ralacoes_com_os_EUA_sao_insubstituiveis-p01.pdf
+99 ok
+2004-01-17-ESP-Para_Pinheiro_Guimaraes_ralacoes_com_os_EUA_sao_insubstituiveis-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-01-17-ESP-Para_pinheiro_guimaraes_relacoes_com_os_eua_sao_insubstituiveis-p01.pdf
 ###
-99
-1987-07-02-GZM-Senadores_dizem_que_Brasil_nao_deve_ter_pressa_para_negociar-p03.pdf
+99 ok
+1987-07-02-GZM-Senadores_dizem_que_Brasil_nao_deve_ter_pressa_para_negociar-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1987-07-02-GZM-Senadores_dizem_que_brasil_nao_deve_ter_pressa_para_negociar-p01.pdf
 ###
-89
+89 ok
 1987-09-20-ESP-O_projeto_da_Constituicao-p42.pdf
 1987-09-20-ESP-O_ultimo_projeto_de_constituicao-p24.pdf
 ###
-86
+86 ok
 1987-09-26-ESP-O_resumo_da_proposta_brasileira-p01.pdf
 1987-09-27-ESP-A_integra_da_proposta_brasileira-p01.pdf
 ###
-87
+87 ok
 1987-11-07-ESP-O_comunicado_dos_credores-p01.pdf
 1987-11-14-ESP-O_comunicado_dos_bancos-p01.pdf
 ###
-92
+92 ok
 1987-11-14-ESP-O_comunicado_do_Brasil-p01.pdf
 1987-11-14-ESP-O_comunicado_dos_bancos-p01.pdf
 ###
-99
-1989-09-23-FSP-Meio_ambiente_e_divida_externa_sao_temas_de_Sarney_na_ONU-p02.pdf
+99 ok
+1989-09-23-FSP-Meio_ambiente_e_divida_externa_sao_temas_de_Sarney_na_ONU-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1989-09-23-FSP-Meio_ambiente_e_divida_externa_sao_temas_de_sarney_na_onu-p01.pdf
 ###
 97
 1991-01-01-ESP-A_cooperacao_tecnica_e_a_competitividade-p03.pdf
-1991-01-15-ESP-A_cooperacao_tecnica_e_a_competitividade-p02.pdf
+1991-01-15-ESP-A_cooperacao_tecnica_e_a_competitividade-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 97
 1991-03-30-ESP-Crise_da_ibm_deixa_setor_de_informatica_apreensivo-p01.pdf
