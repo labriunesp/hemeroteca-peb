@@ -477,124 +477,124 @@
 1989-09-23-FSP-Meio_ambiente_e_divida_externa_sao_temas_de_Sarney_na_ONU-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1989-09-23-FSP-Meio_ambiente_e_divida_externa_sao_temas_de_sarney_na_onu-p01.pdf
 ###
-97
+97 ok 10:00
 1991-01-01-ESP-A_cooperacao_tecnica_e_a_competitividade-p03.pdf
 1991-01-15-ESP-A_cooperacao_tecnica_e_a_competitividade-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-97
+97 ok
 1991-03-30-ESP-Crise_da_ibm_deixa_setor_de_informatica_apreensivo-p01.pdf
-1991-04-02-ESP-Crise_da_ibm_deixa_setor_de_informatica_apreensivo-p01.pdf
+1991-04-02-ESP-Crise_da_ibm_deixa_setor_de_informatica_apreensivo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-91
-1991-04-03-GZM-Pressao_dos_credores_irrita-p01.pdf
-1991-04-03-GZM-Pressao_dos_credores_irrita_o_governo-p01.pdf
+91 ok
+1991-04-03-GZM-Pressao_dos_credores_irrita_o_governo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1991-04-03-GZM-Pressao_dos_credores_irrita_o_governo-p02.pdf (renomear arquivo no json)
 ###
-99
-2004-02-08-ESP-Base_do_Brasil_na_Antartida_completa_20_anos-p04.pdf
+99 ok
+2004-02-08-ESP-Base_do_Brasil_na_Antartida_completa_20_anos-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-02-08-ESP-Base_do_brasil_na_antartida_completa_20_anos-p01.pdf
 ###
-88
+88 ok
 1991-06-25-GZM-Plenario_da_camara_deve_votar_hoje_a_nova_lei_de_informatica-p01.pdf
 1991-06-26-GZM-Plenario_da_camara_aprovou_ontem_a_nova_lei_de_informatica-p01.pdf
 ###
-99
+99 ok
 2005-04-26-ESP-Para_ex_embaixadora,_visita_e_um_'bom_sinal'-p01.pdf
-2005-04-26-ESP-Para_ex_embaixadora,_visita_e_um_bom_sinal'-p01.pdf
+2005-04-26-ESP-Para_ex_embaixadora,_visita_e_um_bom_sinal'-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-91
+91 ok
 1991-12-16-ESP-O_novo_quadro_da_Economia_Mundial_-_2a_parte-p03.pdf
 1991-12-24-ESP-O_novo_quadro_da_Economia_Mundial_-_ultima_parte-p02.pdf
 ###
-88
+88 ok
 1992-04-22-ESP-A_vez_da_informatica-p01.pdf
 1992-10-27-ESP-A_lei_de_informatica-p01.pdf
 ###
 95
-1992-08-15-GZM-Mercosul_age_com_cautela_sobre-p01.pdf
-1992-08-15-GZM-Mercosul_age_com_cautela_sobre_NAFTA-p01.pdf
+1992-08-15-GZM-Mercosul_age_com_cautela_sobre_NAFTA-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1992-08-15-GZM-Mercosul_age_com_cautela_sobre_NAFTA-p02.pdf (renomear arquivo no json)
 ###
-96
-0000-03-17-ESP-Omc_julgara_queixa_contra_subsidio_americano-p01.pdf
+96 ok
+0000-03-17-ESP-Omc_julgara_queixa_contra_subsidio_americano-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2003-03-17-ESP-OMC_julgara_queixa_contra_subsidio_amricano-p01.pdf
 ###
-96
-2002-10-30-GZM-Um_longo_dia_na_vida_de_lula-p01.pdf
+96 ok
+2002-10-30-GZM-Um_longo_dia_na_vida_de_lula-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-10-31-GZM-Um_longo_dia_na_vida_de_Lula-p02.pdf
 ###
-98
-1993-01-24-ESP-Politica_externa_a_opcao_universalista_p-p02.pdf
+98 ok
+1993-01-24-ESP-Politica_externa_a_opcao_universalista_p-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1993-01-24-ESP-Politica_externa_a_opcao_universalista-p02.pdf
 ###
-85
+85 ok
 1997-04-20-GZM-Alca_e_comercio_exterior-p01.pdf
 1996-04-24-GZM-Lei_para_comercio_exterior-p01.pdf
 ###
-88
-1993-06-02-GZM-Aprovados_os_projetos_sobre_reforma_agraria_e_composicao_do_conin-p01.pdf
+88 ok
+1993-06-02-GZM-Aprovados_os_projetos_sobre_reforma_agraria_e_composicao_do_conin-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1993-06-02-GZM-Apovados_os_projetos_sobre_reforma_agraria_e_c-p01.pdf
 ###
-87
+87 ok
 1993-06-03-ESP-Camara_aprova_lei_de_patentes-p01.pdf
 1996-03-01-ESP-Senado_aprova_lei_de_patentes-p01.pdf
 ###
-87
+87 ok
 1993-06-03-ESP-Camara_aprova_lei_de_patentes-p01.pdf
 2005-06-02-ESP-Camara_aprova_fim_de_patentes-p01.pdf
 ###
-98
-2004-03-03-ESP-Mudancas_beneficiam_engajados_no_Itamaraty-p02.pdf
+98 ok
+2004-03-03-ESP-Mudancas_beneficiam_engajados_no_Itamaraty-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-03-03-ESP-Mudancas_beneficiam_engajados_no_itamaraty-p01.pdf
 ###
-99
-1993-11-19-GZM-Chanceler_defende_a_ratificacoa_dos_acordos_de_salvaguarda_nuclear-p01.pdf
+99 ok
+1993-11-19-GZM-Chanceler_defende_a_ratificacoa_dos_acordos_de_salvaguarda_nuclear-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1993-11-19-GZM-Chanceler_defende_a_ratificacao_dos_acordos_de_salvaguarda_nuclear-p01.pdf
 ###
-98
-1993-11-23-GZM-Itmar_pede_ao_senado_mais_prazo_para_finalizar_negociacoa_com_os_bancos-p01.pdf
+98 ok
+1993-11-23-GZM-Itmar_pede_ao_senado_mais_prazo_para_finalizar_negociacoa_com_os_bancos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1993-11-23-GZM-Itamar_pede_ao_senado_mais_prazo_para_finalizar_negociacao_com_os_bancos-p01.pdf
 ###
-97
-2004-03-07-ESP-Pais_quer_ampliar_exportacoes_de_produtos_belicos-p02.pdf
+97 ok
+2004-03-07-ESP-Pais_quer_ampliar_exportacoes_de_produtos_belicos-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-03-07-ESP-Pais_quer_ampliar_exportacao_de_produtos_belicos-p01.pdf
 ###
-85
+85 ok
 1993-11-30-GZM-Eua_adiam_decisao_sobre_sancoes_contra_o_brasil-p01.pdf
 2005-04-05-GZM-EUA_adiam_decisao_sobre_sancoes_ao_Brasil-p01.pdf
 ###
-96
+96 ok
 1993-12-08-ESP-Brasil_faz_acordo_vistoria_de_instalacoes-p01.pdf
-1993-12-08-ESP-Brasil_faz_acordo_para_vistoria_de_instalacoes-p01.pdf
+1993-12-08-ESP-Brasil_faz_acordo_para_vistoria_de_instalacoes-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-89
+89 ok
 1993-12-10-GZM-GATT_pressao_do_Brasil-p01.pdf
 1993-12-14-GZM-GATT_ganho_do_Brasil-p01.pdf
 ###
-86
+86 ok
 1993-12-10-GZM-GATT_pressao_do_Brasil-p01.pdf
 1993-12-14-GZM-GATT_ganho_do_Brasil_II-p01.pdf
 ###
-97
-1993-12-14-GZM-GATT_ganho_do_Brasil-p01.pdf
-1993-12-14-GZM-GATT_ganho_do_Brasil_II-p01.pdf
+97 ok
+1993-12-14-GZM-GATT_ganho_do_Brasil-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1993-12-14-GZM-GATT_ganho_do_Brasil-p02.pdf (renomear arquivo no json)
 ###
-97
-1993-12-16-GZM-Diminui_o_protecionismo-p01.pdf
-1993-12-16-GZM-Diminui_o_protecionismo_II-p01.pdf
+97 ok
+1993-12-16-GZM-Diminui_o_protecionismo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1993-12-16-GZM-Diminui_o_protecionismo-p02.pdf (renomear arquivo no json)
 ###
-97
-1993-12-17-GZM-Empresa_nacional_ausente_no_GATT-p01.pdf
-1993-12-17-GZM-Empresa_nacional_ausente_no_GATT_II-p01.pdf
+97 ok
+1993-12-17-GZM-Empresa_nacional_ausente_no_GATT-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1993-12-17-GZM-Empresa_nacional_ausente_no_GATT-p02.pdf (renomear arquivo no json)
 ###
-99
-1994-01-13-GZM-Acordos_Intrernacionais_sobre_energia_nuclear_podserao_ser_rejeitados-p01.pdf
+99 ok
+1994-01-13-GZM-Acordos_Intrernacionais_sobre_energia_nuclear_podserao_ser_rejeitados-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1994-01-13-GZM-Acordos_internacionais_sobre_energia_nuclear_poderao_ser_rejeitados-p01.pdf
 ###
-98
-2004-03-12-ESP-Embaixador_condena_reforma_no_Itamaraty-p02.pdf
+98 ok
+2004-03-12-ESP-Embaixador_condena_reforma_no_Itamaraty-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-03-12-ESP-Embaixador_condena_reforma_no_itamaraty-p01.pdf
 ###
-99
-1994-01-14-GZM-Senado_se_recusa_a_rarificar_acordos_nucleares_internacionais-p01.pdf
+99 ok
+1994-01-14-GZM-Senado_se_recusa_a_rarificar_acordos_nucleares_internacionais-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1994-01-14-GZM-Senado_se_recusa_a_ratificar_acordos_nucleares_internacionais-p01.pdf
 ###
 98
