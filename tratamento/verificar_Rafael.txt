@@ -593,33 +593,33 @@
 2004-03-12-ESP-Embaixador_condena_reforma_no_Itamaraty-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-03-12-ESP-Embaixador_condena_reforma_no_itamaraty-p01.pdf
 ###
-99 ok
+99 9:00
 1994-01-14-GZM-Senado_se_recusa_a_rarificar_acordos_nucleares_internacionais-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1994-01-14-GZM-Senado_se_recusa_a_ratificar_acordos_nucleares_internacionais-p01.pdf
 ###
-98
+98 ok
 2004-03-12-ESP-Amorim_quer_mudanca_na_carreira_hoje_com_mesmo_quadro_de_1960-p01.pdf
-2004-03-14-ESP-Amorim_quer_mudancas_na_carreira_hoje_com_mesmo_quadro_de_1960-p01.pdf
+2004-03-14-ESP-Amorim_quer_mudancas_na_carreira_hoje_com_mesmo_quadro_de_1960-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-96
-2000-08-15-GZM-GZM_compra_40%_de_jornal_argentino-p01.pdf
-2000-08-15-GZM-Compra_40%_de_jornal_argentino-p01.pdf
+96 ok
+2000-08-15-GZM-GZM_compra_40%_de_jornal_argentino-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2000-08-15-GZM-Compra_40%_de_jornal_argentino-p01.pdf 
 ###
-98
-2004-04-02-ESP-FAB_tem_plano_de_prolongar_uso_de_Mirages-p02.pdf
+98 ok
+2004-04-02-ESP-FAB_tem_plano_de_prolongar_uso_de_Mirages-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-04-02-ESP-Fab_tem_plano_de_prolongar_uso_de_mirages-p01.pdf
 ###
-86
+86 ok
 1995-05-18-ESP-Comissao_do_senado_aprova_lei_de_patentes_com_modificacoes-p01.pdf
 1995-09-15-ESP-Comissao_do_senado_aprova_lei_de_patentes-p01.pdf
 ###
-96
+96 ok
 2001-03-21-GZM-Parece_dificil_que_a_Argentina_receba_mais-p02.pdf
-2000-03-21-GZM-Parece_dificil_que_a_Argentina_receba_mais_aju-p02.pdf
+2000-03-21-GZM-Parece_dificil_que_a_Argentina_receba_mais_aju-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-95
+95 ok
 1995-10-25-ESP-FH_inicia_era_do_dialogo_diplomatico_sem_complexos-p02.pdf
-2005-10-25-ESP-FH_inicia_era_do_dialogo_diplomatico_sem_complexos-p01.pdf
+2005-10-25-ESP-FH_inicia_era_do_dialogo_diplomatico_sem_complexos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 87
 1995-12-10-GZM-As_oportunidades_e_os_riscos-p02.pdf
