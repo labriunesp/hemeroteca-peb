@@ -741,13 +741,13 @@
 1997-03-26-ESP-Saldo_negativo_da_balanca_ja_e_de_US$_819_mil-p01.pdf
 1997-11-11-ESP-Saldo_negativo_da_balanca_fica_em_US$_166_mil-p01.pdf
 ###
-98
+98 ok
 1997-04-08-ESP-FH_defende_a_globalizacao_no_trabalho-p03.pdf
-1997-04-08-ESP-Fh_defende_a_globalizacao_no_trabalho-p01.pdf
+1997-04-08-ESP-Fh_defende_a_globalizacao_no_trabalho-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-99
+99 ok
 1997-06-21-ESP-FMI_e_Bird_estao_desatualizados_diz_FH-p01.pdf
-1997-06-21-ESP-Fmi_e_bird_estao_desatualizados_diz_fhc-p01.pdf
+1997-06-21-ESP-Fmi_e_bird_estao_desatualizados_diz_fhc-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 93
 1997-08-20-ESP-Dubiedade_dos_eua_estimula_rivalidades-p01.pdf
