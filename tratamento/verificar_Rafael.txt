@@ -593,7 +593,7 @@
 2004-03-12-ESP-Embaixador_condena_reforma_no_Itamaraty-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-03-12-ESP-Embaixador_condena_reforma_no_itamaraty-p01.pdf
 ###
-99 9:00
+99 ok
 1994-01-14-GZM-Senado_se_recusa_a_rarificar_acordos_nucleares_internacionais-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1994-01-14-GZM-Senado_se_recusa_a_ratificar_acordos_nucleares_internacionais-p01.pdf
 ###
@@ -621,123 +621,123 @@
 1995-10-25-ESP-FH_inicia_era_do_dialogo_diplomatico_sem_complexos-p02.pdf
 2005-10-25-ESP-FH_inicia_era_do_dialogo_diplomatico_sem_complexos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-87
+87 ok 09:20
 1995-12-10-GZM-As_oportunidades_e_os_riscos-p02.pdf
 1995-12-10-GZM-Globalizacao_as_oportunidades_e_os_riscos-p03.pdf
 ###
-94
-2004-04-19-GZM-Brasil_retoma_o_crescimento_no_comercio...-p01.pdf
-2004-04-19-GZM-Brasil_retoma_o_crescimento_no_comercio_mundial-p01.pdf
+94 ok
+2004-04-19-GZM-Brasil_retoma_o_crescimento_no_comercio_mundial-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2004-04-19-GZM-Brasil_retoma_o_crescimento_no_comercio_mundial-p02.pdf (renomear arquivo no json)
 ###
-96
-1996-02-05-GZM-A_liberalizacao_das_telecomunicacoes__I-p01.pdf
-1996-02-06-GZM-A_liberalizacao_das_telecomunicacoes-p01.pdf
+96 ok
+1996-02-06-GZM-A_liberalizacao_das_telecomunicacoes-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1996-02-06-GZM-A_liberalizacao_das_telecomunicacoes-p02.pdf (renomear arquivo no json)
 ###
-86
+86 ok
 1996-02-09-GZM-Registro-p01.pdf
 1996-02-09-GZM-Registro__Mercosul-p01.pdf
 ###
-98
-1996-03-12-ESP-A_democraciadepende_de_instituicoes_solidas-p02.pdf
+98 ok
+1996-03-12-ESP-A_democraciadepende_de_instituicoes_solidas-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1996-03-12-ESP-A_democracia_depende_de_instituicoes_solidas-p01.pdf
 ###
-97
-2000-04-28-GZM-Brasil_fara_concessoes_a_setores_industria-p02.pdf
+97 ok
+2000-04-28-GZM-Brasil_fara_concessoes_a_setores_industria-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-04-28-GZM-Brasil_fara_concessoes_a_setores_industriais_a-p02.pdf
 ###
-98
-2004-04-22-ESP-O_Capital_da_crebilidade-p01.pdf
+98 ok
+2004-04-22-ESP-O_Capital_da_crebilidade-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-04-22-ESP-O_capital_da_credibilidade-p01.pdf
 ###
-99
-1996-04-17-ESP-Temos_de_preparar_o_Pais_para_ser_competitivo-p02.pdf
+99 ok
+1996-04-17-ESP-Temos_de_preparar_o_Pais_para_ser_competitivo-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1996-04-17-ESP-Temos_de_preparar_o_pais_para_ser_competitivo-p01.pdf
 ###
-88
+88 ok
 1996-05-16-GZM-Negociacao_do_regime_automotivo-p01.pdf
 1996-10-16-GZM-Unificacao_dos_regimes_automotivos-p01.pdf
-###
-98
-2000-04-28-GZM-Embaixador_diz_que_mercosul_esta_lento_dem-p01.pdf
+### 
+98 ok
+2000-04-28-GZM-Embaixador_diz_que_mercosul_esta_lento_dem-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-04-28-GZM-Embaixador_diz_que_mercosul_esta_lento_demais-p01.pdf
 ###
-96
-2004-04-28-ESP-O_Tratamento_de_nao_Proliferacao_Nuclear-p01.pdf
+96 ok
+2004-04-28-ESP-O_Tratamento_de_nao_Proliferacao_Nuclear-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2004-04-28-ESP-O_tratado_de_nao_proliferacao_nuclear-p01.pdf
 ###
-97
-2000-04-28-GZM-Vendas_de_frango_cresceram_29_4%_no_1_tri-p01.pdf
+97 ok
+2000-04-28-GZM-Vendas_de_frango_cresceram_29_4%_no_1_tri-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-04-28-GZM-Vendas_de_frango_cresceram_29_4%_no_1_trimest-p01.pdf
 ###
-98
-1996-08-29-GZM-Projeto_preve_isencao_do_ICMS_nas_exportac-p01.pdf
-1996-08-29-GZM-Projeto_preve_isencao_do_ICMS_nas_exportacoes-p01.pdf
+98 ok
+1996-08-29-GZM-Projeto_preve_isencao_do_ICMS_nas_exportacoes-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1996-08-29-GZM-Projeto_preve_isencao_do_ICMS_nas_exportacoes-p02.pdf (renomear arquivo no json)
 ###
-93
-1996-08-29-GZM-Projeto_preve_isencao_do_ICMS_nas_exportac-p01.pdf
+93 ok
+1996-08-29-GZM-Projeto_preve_isencao_do_ICMS_nas_exportac-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1996-08-30-GZM-Projeto_preve_isencao_do_ICMS_nas_exportacoes-p03.pdf
 ###
-96
-1996-08-29-GZM-Projeto_preve_isencao_do_ICMS_nas_exportacoes-p01.pdf
+96 ok
+1996-08-29-GZM-Projeto_preve_isencao_do_ICMS_nas_exportacoes-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1996-08-30-GZM-Projeto_preve_isencao_do_ICMS_nas_exportacoes-p03.pdf
 ###
-88
+88 ok
 1996-09-05-GZM-Diretor_da_OMC_no_Brasil-p01.pdf
 1996-09-12-GZM-Diretor_da_OMC_chega_ao_Brasil-p01.pdf
 ###
-85
+85 ok
 1996-09-13-ESP-Centrais_insistem_na_clausula_social-p01.pdf
 1997-05-14-ESP-Sindicalistas_insistem_na_clausula_social-p01.pdf
 ###
-85
+85 ok
 1996-09-15-GZM-Estabilidade_das_importacoes-p01.pdf
 1996-09-15-GZM-O_peso_das_importacoes-p01.pdf
 ###
-89
+89 ok
 1996-09-15-GZM-O_perfil_das_exportacoes-p01.pdf
 1996-09-15-GZM-O_peso_das_importacoes-p01.pdf
 ###
-88
+88 ok
 1996-09-15-GZM-O_perfil_das_exportacoes-p01.pdf
 1996-12-03-GZM-Novo_papel_das_exportacoes-p01.pdf
 ###
-85
+85 ok
 1996-09-25-GZM-Brasil_e_2_no_ranking_de_investimentos_da_AL-p02.pdf
 1997-09-22-GZM-Brasil_sobe_no_ranking_de_investimentos_extern-p02.pdf
 ###
-87
+87 ok
 1996-09-26-ESP-BNDES_amplia_credito_a_exportacao-p01.pdf
 1998-03-22-ESP-BNDES_facilita_credito_para_exportacao-p01.pdf
 ###
-85
+85 ok
 1996-10-21-GZM-Deficit_pode_chegar_a_US$_5_bi_em_97-p01.pdf
 1996-11-13-GZM-Eletro_deficit_pode_chegar_a_US$_10_bi-p01.pdf
 ###
-98
-1996-11-04-ESP-Amazonia_e_prioridade_da_politca_de_defesa-p02.pdf
+98 ok
+1996-11-04-ESP-Amazonia_e_prioridade_da_politca_de_defesa-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1996-11-04-ESP-Amazonia_e_prioridade_da_politica_de_defesa-p01.pdf
 ###
-98
-1996-11-07-ESP-Ministro_do_STF_e_eleito_para_Corte_de_Haia-p03.pdf
+98 ok
+1996-11-07-ESP-Ministro_do_STF_e_eleito_para_Corte_de_Haia-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1996-11-07-ESP-Ministro_do_stf_e_eleito_para_corte_de_haia-p01.pdf
 ###
-97
-1996-11-20-GZM-Vai_piorar_antes_de_melhorar-p01.pdf
-1996-11-20-GZM-Vai_piorar_antes_de_melhorar_II-p01.pdf
+97 ok
+1996-11-20-GZM-Vai_piorar_antes_de_melhorar-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+1996-11-20-GZM-Vai_piorar_antes_de_melhorar-p02.pdf (renomear arquivo no json)
 ###
-98
-1996-12-23-ESP-Senado_deixa_para_FH_defcisao_sobre_consul-p02.pdf
+98 ok
+1996-12-23-ESP-Senado_deixa_para_FH_defcisao_sobre_consul-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1996-12-23-ESP-Senado_deixa_para_fh_decisao_sobre_consul-p01.pdf
 ###
-86
+86 ok
 1997-01-23-GZM-Campo_quer_porteiras_abertas-p01.pdf
 1997-02-21-GZM-O_campo_reclama_porteiras_abertas-p01.pdf
 ###
-88
+88 ok
 1997-02-05-GZM-Brasil_deve_recorrer_a_OMC_contra_UE_nas_venda-p01.pdf
 1997-05-22-GZM-Brasil_devera_recorrer_a_OMC_contra_a_UE-p02.pdf
 ###
-86
+86 ok
 1997-03-26-ESP-Saldo_negativo_da_balanca_ja_e_de_US$_819_mil-p01.pdf
 1997-11-11-ESP-Saldo_negativo_da_balanca_fica_em_US$_166_mil-p01.pdf
 ###
