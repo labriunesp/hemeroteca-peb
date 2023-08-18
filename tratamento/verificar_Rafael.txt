@@ -749,153 +749,153 @@
 1997-06-21-ESP-FMI_e_Bird_estao_desatualizados_diz_FH-p01.pdf
 1997-06-21-ESP-Fmi_e_bird_estao_desatualizados_diz_fhc-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-93
+93 ok
 1997-08-20-ESP-Dubiedade_dos_eua_estimula_rivalidades-p01.pdf
-1997-08-20-GZM-Dubiedade_dos_EUA_estimula_rivalidades-p02.pdf
+1997-08-20-GZM-Dubiedade_dos_EUA_estimula_rivalidades-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98
+98 ok 09:10
 1997-08-23-ESP-Pais_pode_reforcar_campanha_por_vaga_na_ONU-p02.pdf
 1997-08-23-ESP-Pais_pode_reforcar_campanha_por_vaga_na_onu-p01.pdf
 ###
-98
-1997-08-24-ESP-Vaga_em_conselho_da_ONU_amplia_prestigio-p02.pdf
+98 ok
+1997-08-24-ESP-Vaga_em_conselho_da_ONU_amplia_prestigio-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1997-08-24-ESP-Vaga_em_conselho_da_onu_amplia_prestigio-p01.pdf
 ###
-98
-1997-09-03-ESP-Pesquiusa_mostra_que_globalizacao_divide_petistas-p03.pdf
+98 ok
+1997-09-03-ESP-Pesquiusa_mostra_que_globalizacao_divide_petistas-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1997-09-03-ESP-Pesquisa_mostra_que_globalizacao_divide_petistas-p01.pdf
 ###
-85
+85 ok
 1997-09-04-GZM-Vingam_os_incentivos_a_exportacao-p01.pdf
 1997-11-06-GZM-No_forno_incentivos_a_exportacao-p01.pdf
 ###
-99
-1997-09-13-ESP-O_Brasil_nao_pode_cingir_se_as_suas_fronteiras-p02.pdf
+99 ok
+1997-09-13-ESP-O_Brasil_nao_pode_cingir_se_as_suas_fronteiras-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1997-09-13-ESP-O_brasil_nao_pode_cingir_se_as_suas_fronteiras-p01.pdf
 ###
-98
-1997-09-22-ESP-Brasil_quer_ser_porta_voz_da_America_Latina-p02.pdf
+98 ok
+1997-09-22-ESP-Brasil_quer_ser_porta_voz_da_America_Latina-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1997-09-22-ESP-Brasil_quer_ser_porta_voz_da_america_latina-p01.pdf
 ###
-98
+98 ok
 1997-09-23-ESP-Brasil_reafirma_candidatura_a_cupula_da_ONU-p03.pdf
-1997-09-23-ESP-Brasil_reafirma_candidatura_a_cupula_da_onu-p01.pdf
+1997-09-23-ESP-Brasil_reafirma_candidatura_a_cupula_da_onu-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-85
+85 ok
 1997-10-20-GZM-Exportacao_de_frango_cresce_12%-p01.pdf
 1998-07-22-GZM-Exportacao_de_frango_cai_23%-p01.pdf
 ###
-86
-1994-03-23-GZM-Grupo_do_rio_discutira_agenda_da_cupula_com_os_EUA_em_outubro_na_ONU-p01.pdf
+86 ok
+1994-03-23-GZM-Grupo_do_rio_discutira_agenda_da_cupula_com_os_EUA_em_outubro_na_ONU-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1994-03-23-GZM-Grupo_do_Rio_discutira_agenda_da_cupula_com_os-p01.pdf
 ###
-97
-1997-12-08-ESP-Caem_remessas_de_residentes_no_exterior-p02.pdf
+97 ok
+1997-12-08-ESP-Caem_remessas_de_residentes_no_exterior-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1997-12-28-ESP-Caem_remessas_de_residentes_no_exterior-p01.pdf
 ###
-87
+87 ok
 1998-01-09-ESP-Governo_aumenta_controle_sobre_importacoes-p02.pdf
 1998-09-23-ESP-Governo_ampliara_o_controle_sobre_importacoes-p01.pdf
 ###
-86
+86 ok
 1998-01-14-GZM-Exportadores_buscam_alternativas-p01.pdf
 1998-10-27-GZM-Exportadores_buscam_mercados_alternativos-p01.pdf
 ###
-99
-1998-06-09-ESP-FHC_quer_enfase_na_prevencao_ao_uso_de_drogas-p04.pdf
+99 ok
+1998-06-09-ESP-FHC_quer_enfase_na_prevencao_ao_uso_de_drogas-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1998-06-09-ESP-Fhc_quer_enfase_na_prevencao_ao_uso_de_drogas-p01.pdf
 ###
-99
+99 ok
 1998-06-11-ESP-Acordo_nuclear_Brasil_Argentina_pode_ser_modelo-p02.pdf
-1998-06-11-ESP-Acordo_nuclear_brasil_argentina_pode_ser_modelo-p01.pdf
+1998-06-11-ESP-Acordo_nuclear_brasil_argentina_pode_ser_modelo-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-97
-1998-06-13-ESP-Brasil_convidado_a_integrar_forca_tarefa_contra_bomba-p02.pdf
+97 ok
+1998-06-13-ESP-Brasil_convidado_a_integrar_forca_tarefa_contra_bomba-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1998-06-13-ESP-Braisl_convidado_a_integrar_forca_tarefa_contra_bomba-p01.pdf
 ###
-99
-1998-07-14-ESP-Secretario_da_ONU_critica_desigualdades_sociais-p02.pdf
+99 ok
+1998-07-14-ESP-Secretario_da_ONU_critica_desigualdades_sociais-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1998-07-14-ESP-Secretario_da_onu_critica_desigualdades_sociais-p01.pdf
 ###
-86
+86 ok
 1998-08-13-GZM-Governo_amplia_a_lista_dos_ex_tarifarios-p02.pdf
 1998-08-21-GZM-Governo_vai_rever_lista_de_ex_tarifarios-p01.pdf
 ###
-85
+85 ok
 1998-09-02-ESP-Lampreia_alerta_sobre_protecionismo-p01.pdf
 1998-09-21-GZM-Lampreia_alerta_contra_protecionismo-p02.pdf
 ###
-86
+86 ok
 2005-09-28-ESP-Kirchner_nao_vira_para_cupula_em_brasilia-p01.pdf
 2005-04-21-ESP-Kirchner_confirma_que_ira_a_cupula_em_brasilia-p01.pdf
 ###
-98
-1987-10-25-ESP-General_Hugo_Banzer_prepara_volta_ao_poder-p01.pdf
+98 ok
+1987-10-25-ESP-General_Hugo_Banzer_prepara_volta_ao_poder-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1987-10-25-ESP-General_Hugo_Banzer_prepara_volta_ao_poder-p02.pdf
 ###
-97
-1998-09-22-ESP-Lampreia_alerta_para_gravidade_da_crise-p03.pdf
+97 ok
+1998-09-22-ESP-Lampreia_alerta_para_gravidade_da_crise-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1998-09-22-ESP-Lampreia_alerta_para_a_gravidade_da_crise-p01.pdf
 ###
-98
+98 ok
 1998-10-12-GZM-Acordo_reduz_espaco_para_especulacoes-p01.pdf
-1998-10-12-GZM-Acordo_reduz_espaco_para_especulacoes_II-p01.pdf
+1998-10-12-GZM-Acordo_reduz_espaco_para_especulacoes_II-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98
-1998-10-19-ESP-FHC_propoe_taxacao_muindial_contra_especulador-p04.pdf
+98 ok
+1998-10-19-ESP-FHC_propoe_taxacao_muindial_contra_especulador-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1998-10-19-ESP-Fhc_propoe_taxacao_mundial_contra_especulador-p01.pdf
 ###
-99
-1999-02-24-ESP-FMI_ignora_as_criticas_de_senador_sobre_ingerencias-p01.pdf
+99 ok
+1999-02-24-ESP-FMI_ignora_as_criticas_de_senador_sobre_ingerencias-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1999-02-24-ESP-Fmi_ignora_as_criticas_de_senador_sobre_ingerencia-p01.pdf
 ###
-99
-1999-03-14-ESP-Missao_vai_a_Washington_criticar_Banco_da_Terra-p02.pdf
+99 ok
+1999-03-14-ESP-Missao_vai_a_Washington_criticar_Banco_da_Terra-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1999-03-14-ESP-Missao_vai_a_washington_criticar_banco_da_terra-p01.pdf
 ###
-92
-2005-04-18-GZM-Industria_de_material_belico_volta-p01.pdf
-2005-04-18-GZM-Industria_de_material_belico_volta_com_forca-p01.pdf
+92 ok
+2005-04-18-GZM-Industria_de_material_belico_volta_com_forca-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2005-04-18-GZM-Industria_de_material_belico_volta_com_forca-p02.pdf (renomear arquivo no json)
 ###
-98
-1999-09-21-ESP-Brasil_busca_papel_de_lider_regional_na_ONU-p03.pdf
+98 ok
+1999-09-21-ESP-Brasil_busca_papel_de_lider_regional_na_ONU-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1999-09-21-ESP-Brasil_busca_papel_de_lider_regional_na_onu-p01.pdf
 ###
-98
-1999-11-23-ESP-Proposta_de_Schoeder_preocupa_diplomatas-p02.pdf
+98 ok
+1999-11-23-ESP-Proposta_de_Schoeder_preocupa_diplomatas-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 1999-11-23-ESP-Proposta_de_schroeder_preocupa_diplomatas-p01.pdf
 ###
-99
-2000-02-04-ESP-Brasil_participa_da_criacao_de_Tribunal_Penal_Internacional-p01.pdf
+99 ok
+2000-02-04-ESP-Brasil_participa_da_criacao_de_Tribunal_Penal_Internacional-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-02-04-ESP-Brasil_participa_da_criacao_do_tribunal_penal_internacional-p01.pdf
 ###
-98
-2000-02-06-ESP-FHC_faz_opcao_por_nacionalismo_pragmatico-p04.pdf
+98 ok
+2000-02-06-ESP-FHC_faz_opcao_por_nacionalismo_pragmatico-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-02-06-ESP-Fhc_faz_opcao_por_nacionalismo_pragmatico-p01.pdf
 ###
-87
-2000-02-22-ESP-Embaixador_rebate_critica_sobre_miseria_no_Pais-p01.pdf
+87 ok
+2000-02-22-ESP-Embaixador_rebate_critica_sobre_miseria_no_Pais-p01.pdf 
 2000-03-02-ESP-Presidente_rebate_critica_sobre_miseria_no_Pais-p01.pdf
 ###
-87
+87 ok
 2000-02-22-ESP-Embaixador_rebate_critica_sobre_miseria_no_Pais-p01.pdf
 2000-03-02-ESP-Presidente_rebate_criticas_sobre_miseria_no_pais-p01.pdf
 ###
-99
-2000-03-02-ESP-Presidente_rebate_critica_sobre_miseria_no_Pais-p01.pdf
+99 ok
+2000-03-02-ESP-Presidente_rebate_critica_sobre_miseria_no_Pais-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-03-02-ESP-Presidente_rebate_criticas_sobre_miseria_no_pais-p01.pdf
 ###
-98
-2000-03-05-ESP-Como_o_Brasil_construiu_as_suas_fronteiras-p02.pdf
+98 ok
+2000-03-05-ESP-Como_o_Brasil_construiu_as_suas_fronteiras-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-03-05-ESP-Como_o_brasil_construiu_as_suas_fronteiras-p01.pdf
 ###
-99
-2005-11-23-ESP-Usina_de_angraIII_agora_ou_nunca-p01.pdf
+99 ok
+2005-11-23-ESP-Usina_de_angraIII_agora_ou_nunca-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2005-11-23-ESP-Usina_de_angra_III_agora_ou_nunca-p01.pdf
 ###
-90
-2005-12-06-GZM-Ctz_preve_a_venda_de_4_foguetes_de...-p01.pdf
-2005-12-06-GZM-Ctz_preve_a_venda_de_4_foguetes_de_sondagem_ano-p01.pdf
+90 ok
+2005-12-06-GZM-Ctz_preve_a_venda_de_4_foguetes_de_sondagem_ano-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2005-12-06-GZM-Ctz_preve_a_venda_de_4_foguetes_de_sondagem_ano-p02.pdf (renomear arquivo no json)
 ###
 91
 2006-03-02-GZM-Amorim_acredita_em_acordo_este...-p01.pdf
