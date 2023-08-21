@@ -897,151 +897,151 @@
 2005-12-06-GZM-Ctz_preve_a_venda_de_4_foguetes_de_sondagem_ano-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2005-12-06-GZM-Ctz_preve_a_venda_de_4_foguetes_de_sondagem_ano-p02.pdf (renomear arquivo no json)
 ###
-91
-2006-03-02-GZM-Amorim_acredita_em_acordo_este...-p01.pdf
-2006-03-02-GZM-Amorim_acredita_em_acordo_este_ano_na_omc-p01.pdf
+91 ok 08:41
+2006-03-02-GZM-Amorim_acredita_em_acordo_este_ano_na_omc-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2006-03-02-GZM-Amorim_acredita_em_acordo_este_ano_na_omc-p02.pdf (renomear arquivo no json)
 ###
-88
+88 ok
 2006-06-18-ESP-Variacoes_sobre_a_politica_externa-p01.pdf
 2007-12-16-ESP-Novas_variacoes_sobre_a_politica_externa-p01.pdf
 ###
-94
+94 ok
 2006-06-20-GZM-Brasil_deve_triplicar_producao_de_uranio-p01.pdf
 2006-06-20-GZM-Brasil_vai_triplicar_a_producao_de_uranio-p01.pdf
 ###
-97
-2006-10-04-GZM-Brasil_namora_mercado_internacional_de_misseis-p01.pdf
-2006-10-04-GZM-O_brasil_namora_o_mercado_internacional_de_misseis-p01.pdf
+97 ok
+2006-10-04-GZM-Brasil_namora_mercado_internacional_de_misseis-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2006-10-04-GZM-Brasil_namora_mercado_internacional_de_misseis-p02.pdf (renomear arquivo no json)
 ###
-99
-2001-01-02-ESP-Politica_externa_dificulta_exportacoes_do_Pais-p02.pdf
+99 ok
+2001-01-02-ESP-Politica_externa_dificulta_exportacoes_do_Pais-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-01-02-ESP-Politica_externa_dificulta_exportacoes_do_pais-p01.pdf
 ###
-92
-2007-05-18-GZM-Programa_de_caca_militar_sera...-p01.pdf
-2007-05-18-GZM-Programa_de_caca_militar_sera_retomado-p01.pdf
+92 ok
+2007-05-18-GZM-Programa_de_caca_militar_sera_retomado-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
+2007-05-18-GZM-Programa_de_caca_militar_sera_retomado-p02.pdf (renomear arquivo no json)
 ###
-85
+85 ok
 2001-01-11-GZM-Canada_amplia_apoio_a_Bombardier-p01.pdf
 2002-01-29-GZM-Canada_mantera_apoio_a_Bombardier-p01.pdf
 ###
-97
-2000-02-04-ESP-Ruckauf_muda_discurso_e_surge_como_novo_l-p01.pdf
+97 ok
+2000-02-04-ESP-Ruckauf_muda_discurso_e_surge_como_novo_l-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-04-02-ESP-Ruckauf_muda_discurso_e_surge_como_novo_lider-p01.pdf
 ###
-99
-2001-01-12-ESP-Forumde_Porto_Alegre_tera_apoio_da_Franca-p01.pdf
+99 ok
+2001-01-12-ESP-Forumde_Porto_Alegre_tera_apoio_da_Franca-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-01-12-ESP-Forum_de_porto_alegre_tera_apoio_da_franca-p01.pdf
 ###
-98
-2000-02-04-GZM-Diferenca_culturais_tem_reflexos_na_econom-p02.pdf
+98 ok
+2000-02-04-GZM-Diferenca_culturais_tem_reflexos_na_econom-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-04-02-GZM-Diferenca_culturais_tem_reflexos_na_economia-p02.pdf
 ###
-98
-2001-01-16-ESP-Brasil_vai_receber_refugiado_do_Ira_e_da_Africa-p02.pdf
+98 ok
+2001-01-16-ESP-Brasil_vai_receber_refugiado_do_Ira_e_da_Africa-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-01-16-ESP-Brasil_vai_receber_refugiados_do_ira_e_da_africa-p01.pdf
 ###
-96
-2000-04-03-GZM-Brasil_e_ragentina_vao_assinar_acordo_sani-p01.pdf
+96 ok
+2000-04-03-GZM-Brasil_e_ragentina_vao_assinar_acordo_sani-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-08-03-GZM-Brasil_e_ragentina_vao_assinar_acordo_sanitari-p01.pdf
 ###
-89
-2000-04-03-GZM-Brasil_e_ragentina_vao_assinar_acordo_sani-p01.pdf
+89 ok
+2000-04-03-GZM-Brasil_e_ragentina_vao_assinar_acordo_sani-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-06-10-GZM-Brasil_e_Argentina_vao_assinar_acordo_ener-p01.pdf
 ###
-96
+96 ok
 2001-01-23-GZM-BR_vai_reagir_a_retaliacoes_do_Canada-p01.pdf
-2001-01-25-GZM-BR_vai_reagir_a_retaliacao_do_Canada-p01.pdf
+2001-01-25-GZM-BR_vai_reagir_a_retaliacao_do_Canada-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98
-2000-05-08-GZM-Industria_automotiva_precisa_reduzir_custos-p01.pdf
+98 ok
+2000-05-08-GZM-Industria_automotiva_precisa_reduzir_custos-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-09-05-GZM-Industria_automotiva_precisa_reduzir_custos-p01.pdf
 ###
-87
-2001-01-24-ESP-Opostos_foruns_globais_tem_pontos_em_comum-p04.pdf
+87 ok
+2001-01-24-ESP-Opostos_foruns_globais_tem_pontos_em_comum-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-01-24-ESP-Opostos,_foruns_globais_tem_pontos_em_comum-p01.pdf
 ###
-94
-2000-05-17-ESP-Relator_anula_parecer_e_verba_do_Bird_atrasa-p01.pdf
+94 ok
+2000-05-17-ESP-Relator_anula_parecer_e_verba_do_Bird_atrasa-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-05-17-ESP-Relator_anula_parecer_e_verba_do_bird-p01.pdf
 ###
-98
-2000-05-30-GZM-Pais_luta_contra_deficit_para_manter_parid-p02.pdf
+98 ok
+2000-05-30-GZM-Pais_luta_contra_deficit_para_manter_parid-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-05-30-GZM-Pais_luta_contra_deficit_para_manter_paridade-p02.pdf
 ###
-97
-2000-06-02-ESP-Sachs_muda_fabrica_da_Argentina_para_o_Br-p02.pdf
+97 ok
+2000-06-02-ESP-Sachs_muda_fabrica_da_Argentina_para_o_Br-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-06-02-ESP-Sachs_muda_fabrica_da_Argentina_para_o_Brasil-p02.pdf
 ###
-98
-2001-01-30-ESP-FHC_empossa_Lafer_e_ataca_protecionismo-p02.pdf
+98 ok
+2001-01-30-ESP-FHC_empossa_Lafer_e_ataca_protecionismo-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-01-30-ESP-Fhc_empossa_lafer_e_ataca_protecionismo-p01.pdf
 ###
-96
+96 ok
 2000-06-23-GZM-Coca_Cola_estuda_marca_popular_no_mercado-p01.pdf
-2000-06-23-GZM-Coca_Cola_estuda_marca_popular_no_mercado_arge-p01.pdf
+2000-06-23-GZM-Coca_Cola_estuda_marca_popular_no_mercado_arge-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-95
-2000-07-08-ESP-Governo_tenta_evitar_impasse_com_a_Argent-p02.pdf
+95 ok
+2000-07-08-ESP-Governo_tenta_evitar_impasse_com_a_Argent-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-08-08-ESP-Governo_tenta_evitar_impasse_com_a_Argentina-p02.pdf
 ###
-98
-2000-08-02-GZM-Brasil_endurece_na_negociacao_sobre_carros-p01.pdf
+98 ok
+2000-08-02-GZM-Brasil_endurece_na_negociacao_sobre_carros-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2000-10-02-GZM-Brasil_endurece_na_negociacao_sobre_carros-p01.pdf
 ###
-88
+88 ok
 2000-08-03-GZM-Brasil_e_ragentina_vao_assinar_acordo_sanitari-p01.pdf
 2001-06-10-GZM-Brasil_e_Argentina_vao_assinar_acordo_ener-p01.pdf
 ###
-86
+86 ok
 1991-10-19-ESP-As_leis_da_informatica...-p01.pdf
 1992-10-27-ESP-A_lei_de_informatica-p01.pdf
 ###
-86
+86 ok
 1991-10-19-ESP-As_leis_da_informatica...-p01.pdf
 1999-09-02-ESP-Lei_de_informatica-p01.pdf
 ###
-86
+86 ok
 1992-10-05-ESP-A_abicomp_quer_a_abertura-p01.pdf
 1992-10-12-ESP-A_abdi_tembem_quer_a_abertura!-p01.pdf
 ###
-86
+86 ok
 1992-10-27-ESP-A_lei_de_informatica-p01.pdf
 1999-09-02-ESP-Lei_de_informatica-p01.pdf
 ###
-86
+86 ok
 2004-04-02-ESP-Eua_elogiam_acao_do_pais_contra_a_pirataria-p01.pdf
 2005-03-31-ESP-EUA_elogiam_acoes_do_brasil_contra_a_pirataria-p01.pdf
 ###
-87
+87 ok
 2005-05-11-GZM-Mercosul_assina_acordo_economico_com_o_golfo-p01.pdf
 2006-10-13-GZM-Mercosul_assina_acordo_com_bloco_do_golfo-p01.pdf
 ###
-100
-2001-03-06-ESP-Estado_nacao_redescoberto-p01.pdf
+100 ok
+2001-03-06-ESP-Estado_nacao_redescoberto-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2001-03-06-ESP-Estado_nacao_redescoberto?-p01.pdf
 ###
-89
+89 ok
 2000-09-12-ESP-Argentinos_e_brasileiros_discutem_acucar-p01.pdf
 2001-02-20-ESP-Argentinos_e_brasileiros_discutem_aftosa-p01.pdf
 ###
-85
+85 ok
 2001-03-12-ESP-Regras_discriminam_pobres_diz_FHC-p01.pdf
-2001-03-12-ESP-Regras_discriminam_pobres,_diz_fhc-p01.pdf
+2001-03-12-ESP-Regras_discriminam_pobres,_diz_fhc-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-85
+85 ok
 2000-09-28-ESP-Brasil_retoma_discussoes_com_a_Argentina-p01.pdf
 2001-10-29-ESP-Brasil_retoma_as_negociacoes_com_a_Argentina-p01.pdf
 ###
-98
+98 ok
 2001-04-08-ESP-Jospin_pede_ousadia_a_empresarios_franceses-p03.pdf
-2001-04-08-ESP-Jospin_pede_ousadias_a_empresarios_franceses-p01.pdf
+2001-04-08-ESP-Jospin_pede_ousadias_a_empresarios_franceses-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 90
 2010-10-15-ESP-Brasil_enviara_militares_ao_libano-p01.pdf
 2010-10-17-ESP-Brasil_enviara_tropas_ao_libano-p01.pdf
 ###
-85
+85 ok
 2010-12-04-ESP-Brasil_reconhece_estado_palestino-p01.pdf
 2010-12-07-ESP-Apos_brasil_argentina_reconhece_o_estado_palestino-p01.pdf
 ###
