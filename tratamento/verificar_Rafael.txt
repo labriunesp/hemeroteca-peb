@@ -42,7 +42,7 @@
 2004-01-04-ESP-Forca_aerea_tera_poder_de_ataque_estrategico-p01.pdf
 2004-01-01-ESP-Forca_aerea_tera_poder_de_ataque_estrategico-p04.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-86 ok
+86 ok parei aqui 22/08
 2009-06-05-ESP-Argentina_restringe_moveis_brasileiros-p01.pdf
 2009-09-22-ESP-Argentina_restringe_autopecas_brasileiras-p01.pdf
 ###
