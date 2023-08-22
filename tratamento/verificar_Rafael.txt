@@ -1069,55 +1069,54 @@
 2002-07-03-ESP-Subsecretario_americano_ataca_onda_pessimista-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-07-03-ESP-Subsecretario_americano_ataca_onda-p01.pdf
 ###
-97
+97 ok
 2002-07-10-ESP-EUA_podem_apoiar_acordo_de_transicao_com_FMI-p02.pdf
 2002-07-10-ESP-Eua_podem_apoiar_acordo_de_transicao_dom_fmi-p01.pdf
 ###
-99
+99 ok
 2002-07-10-GZM-Pratini_quer_ecportar_carne_e_alcool_aos_EUA-p01.pdf
-2002-07-10-GZM-Pratini_quer_exportar_carne_e_alcool_aos_eua-p01.pdf
+2002-07-10-GZM-Pratini_quer_exportar_carne_e_alcool_aos_eua-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
 97
-2002-07-11-ESP-FMI_e_O_Neill_demonstram_apoio_ao_Brasil-p02.pdf
+2002-07-11-ESP-FMI_e_O_Neill_demonstram_apoio_ao_Brasil-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-07-11-ESP-Fmi_e_o'neill_demonstram_apoio_ao_brasil-p01.pdf
 ###
-98
-2002-07-14-ESP-Brasil_e_EUA_procuram_aparar_as_arestas-p02.pdf
+98 ok
+2002-07-14-ESP-Brasil_e_EUA_procuram_aparar_as_arestas-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-07-14-ESP-Brasil_e_eua_procuram_aparar_as_arestas-p01.pdf
 ###
-88
+88 ok
 2002-07-15-ESP-Nos_EUA_Dirceu_vai_expor_programa_petista-p01.pdf
-2002-07-15-ESP-Nos_eua,_dirceu_vai_expor_programa_petista-p01.pdf
+2002-07-15-ESP-Nos_eua,_dirceu_vai_expor_programa_petista-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-98
-2002-07-15-GZM-Paul_O_Neill_visita_Brasil_e_Argentina_neste_mes-p02.pdf
+98 ok
+2002-07-15-GZM-Paul_O_Neill_visita_Brasil_e_Argentina_neste_mes-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-07-15-GZM-Paul_oneill_visita_brasil_e_argentina_neste_mes-p01.pdf
 ###
-86
+86 ok
 2002-07-19-ESP-Para_governo_presenca_de_O'Neill_reanima_as_relacoes_com_os_EUA-p01.pdf
-2002-07-19-ESP-Para_governo,_presenca_de_o'neill_reanima_as_relacoes_com_os_eua-p01.pdf
+2002-07-19-ESP-Para_governo,_presenca_de_o'neill_reanima_as_relacoes_com_os_eua-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-96
+96 ok
 2002-07-25-GZM-O'neill_adia_sua_visita_para_agosto-p01.pdf
-2002-07-25-ESP-O'Neill_Adia_sua_visita_para_agosto-p01.pdf
+2002-07-25-ESP-O'Neill_Adia_sua_visita_para_agosto-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-95
-2002-07-29-ESP-O_neill_manisfesta_restricao_a_ajuda_do_fundo-p02.pdf
+95 ok
+2002-07-29-ESP-O_neill_manisfesta_restricao_a_ajuda_do_fundo-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-07-29-ESP-O'neill_manifesta_restricao_a_ajuda_do_fundo-p01.pdf
 ###
-97
-2002-07-30-ESP-Declaracao_de_O_Neill_causa_incidente_diplomatico-p02.pdf
+97 ok
+2002-07-30-ESP-Declaracao_de_O_Neill_causa_incidente_diplomatico-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-07-30-ESP-Declaracao_de_o'neill_causa_incidente_diplomatico-p01.pdf
 ###
-98
+98 ok
 2002-07-31-GZM-Esclarecimentos_encerram_crise_com_os_EUA-p03.pdf
-2002-07-31-GZM-Esclarecimentos_encerram_crise_com_os_eua-p01.pdf
+2002-07-31-GZM-Esclarecimentos_encerram_crise_com_os_eua-p01.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 ###
-97
-2002-08-01-ESP-EUA_vao_reforcar_demonstracao_de_apoio_ao_Pais-p02.pdf
+97 ok
+2002-08-01-ESP-EUA_vao_reforcar_demonstracao_de_apoio_ao_Pais-p02.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-09-01-ESP-Eua_vao_reforcar_demonstracao_de_apoio_ao_pais-p01.pdf
 ###
-95
-2002-08-04-ESP-O_Neill_chega_para_reforcar_apoio_ao_Brasil-p03.pdf
+95 ok
+2002-08-04-ESP-O_Neill_chega_para_reforcar_apoio_ao_Brasil-p03.pdf (EXCLUIR do json, já exclui o arquivo (pdf e tif))
 2002-08-04-ESP-O'neill_chega_para_reforcar_apoio_ao_Brasil-p01.pdf
-
