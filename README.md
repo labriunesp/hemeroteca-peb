@@ -35,11 +35,20 @@ Conheça a equipe de [coordenadores](https://labriunesp.org/docs/projetos/dados/
 Mais detalhes sobre o versionamento do código [aqui](https://labriunesp.org/docs/projetos/ensino/ambiente/commit).
 
 
-Para se realizar o versionamento, deve-se utilizar o seguinte codigo:
+Para se realizar o versionamento, deve-se utilizar o seguinte codigo em comandos separados:
 ```
 git add .
+```
+
+```
 git commit -m "coloque o que foi feito aqui"
+```
+
+```
 git pull origin main
+```
+
+```
 git push origin main
 ```
 
