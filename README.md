@@ -35,7 +35,7 @@ Conheça a equipe de [coordenadores](https://labriunesp.org/docs/projetos/dados/
 Mais detalhes sobre o versionamento do código [aqui](https://labriunesp.org/docs/projetos/ensino/ambiente/commit).
 
 
-
+Para se realizar o versionamento, deve-se utilizar o seguinte codigo:
 ```
 git add .
 git commit -m "coloque o que foi feito aqui"
@@ -45,7 +45,17 @@ git push origin main
 
 ## Ambiente Virtual
 
-Para informações de configuração do ambiente virtual, [clique aqui](https://labriunesp.org/docs/projetos/ensino/ambiente/conda).
+Para ativar ao ambiente virtual, deve-se inserir o comando abaixo no terminal:
+
+```
+conda activate env_hemeroteca-peb
+```
+
+Para desativar o ambiente virtual, usa-se:
+
+```
+conda deactivate
+```
 
 ## Atividades
 

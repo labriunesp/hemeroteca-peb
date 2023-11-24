@@ -8,11 +8,8 @@ dependencies:
   - pikepdf
   - pandas
   - numpy
-<<<<<<< HEAD
   - jupyterlab
   - matplotlib
   - ocrmypdf
-=======
->>>>>>> 8e7b22c (ajuste env.yml ambiente virtual conda)
   - fuzzywuzzy
  
