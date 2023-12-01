@@ -65,7 +65,7 @@ Para desativar o ambiente virtual, usa-se:
 ```
 conda deactivate
 ```
-aaaa
+
 
 ## Atividades
 
