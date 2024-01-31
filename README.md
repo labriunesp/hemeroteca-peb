@@ -32,41 +32,70 @@ Conheça a equipe de [coordenadores](https://labriunesp.org/docs/projetos/dados/
 
 ## Versionamento
 
-Mais detalhes sobre o versionamento do código [aqui](https://labriunesp.org/docs/projetos/ensino/ambiente/commit).
+Se essa é a primeira vez que você irá baixar/clonar esse repositório, veja as instruções indicadas nesta [página](https://labriunesp.org/docs/projetos/sistemas/cadernos/versionamento).
 
+Caso já tenha baixado/clonado esse repositório os comandos abaixo são usualmente utilizados para versionar e sincronizar o seu repositório local com o remoto.
 
-Para se realizar o versionamento, deve-se utilizar o seguinte codigo em comandos separados:
-```
-git add .
-```
+### ETAPA 01: Gravando mudanças
 
-```
-git commit -m "coloque o que foi feito aqui"
-```
+Utilize o seguinte comando para gravar modificações feitas no código:
 
-```
-git pull origin main
-```
+``` git add . && git commit -m 'inserir mensagem' ```
 
-```
-git push origin main
-```
+**Onde:**
+
+`git add .` adiciona as últimas mudanças nos conteúdos do diretório atual (referida como `.`) à lista de mudanças a serem gravadas no repositório. Deve ser efetuado sempre que novas mudanças são feitas.
+
+`&&` encadeia comandos para que sejam executados sequencialmente.
+
+`git commit` "comete" as mudanças feitas nos arquivos monitorados, gravando-as no repositório.
+
+`-m 'mensagem'` especifica mensagem que descreva as mudanças. A descrição deve estar entre aspas simples ou duplas.
+
+### ETAPA 02: Sincronizando o repositório
+
+Ao usar os comandos acima, as mudanças são salvas (gravadas) apenas na sua máquina local.
+
+É necessário sincronizar o repositório local com o repositório remoto, o que é feito através dos seguinte comando:
+
+```git pull origin main && git push origin main```
+
+**Onde:**
+
+`git pull origin main` sincroniza todos os commits mais recentes do repositório remoto e os integra no repositório local.
+
+`git push origin main` envia as alterações do repositório local para o repositório remoto 
+
+ o `origin main` são argumentos para especificar que a origem dos commits a serem integrados é o ramo `main` do repositório remoto. Estes argumentos não são mandatório, no entanto, explicitá-los garante que não hajam conflitos.
+
+ - É importante que qualquer mudança no repositório seja salva/gravada (ver etapa 01) antes da sincronização com o repositório remoto (etapa 02). 
+ - Recomendamos que o `git pull` sempre ser executado antes de `git push` para evitar conflitos ao mesclar as modificações do repositório local com o remoto.
 
 ## Ambiente Virtual
 
-Para ativar ao ambiente virtual, deve-se inserir o comando abaixo no terminal:
+Para informações de configuração do ambiente virtual, [clique aqui](https://labriunesp.org/docs/projetos/sistemas/cadernos/ambiente-virtual).
 
-```
-conda activate env_hemeroteca-peb
-```
+### Etapa 01: Abrir o terminal
 
-Para desativar o ambiente virtual, usa-se:
+<div align='center'>
+![Terminal](https://i.imgur.com/e7BPvav.gif)
+</div>
 
-```
-conda deactivate
-```
+### Etapa 02: Abrir a pasta onde está o repositório 
 
+<div align='center'>
+![Pasta](https://i.imgur.com/3jlXsFO.gif)
+</div>
 
+### Etapa 03: Ativar o ambiente virtual
+
+Vá a raiz do repositório. Em geral, a raiz do repositório é a pasta com o nome do projeto, nesse caso `hemeroteca-peb`. A partir dessa pasta, ative o ambiente a partir do seguinte comando:
+
+``` conda activate env_hemeroteca-peb ```
+
+<div align='center'>
+![Pasta]([img]https://i.imgur.com/c0RzCmw.gif)
+</div>
 
 ## Atividades
 
