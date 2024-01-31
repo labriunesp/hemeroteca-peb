@@ -94,7 +94,7 @@ Vá a raiz do repositório. Em geral, a raiz do repositório é a pasta com o no
 ``` conda activate env_hemeroteca-peb ```
 
 <div align='center'>
-![Pasta]([img]https://i.imgur.com/c0RzCmw.gif)
+![Pasta](https://i.imgur.com/c0RzCmw.gif)
 </div>
 
 ## Atividades
