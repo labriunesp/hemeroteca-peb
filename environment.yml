@@ -6,10 +6,7 @@ dependencies:
   - python
   - tinydb
   - pikepdf
-  - pandas
   - numpy
-  - jupyterlab
-  - matplotlib
   - ocrmypdf
   - fuzzywuzzy
  
