@@ -4,7 +4,7 @@
 
 ## Riscos
 
-Para ajudar na organização deste processo, solicitamos que você escolha uma das seguintes labels ao criar a issue. Por favor, selecione a label mais apropriada para categorizar a  issue. Isso  ajudará a coordenar e priorizar as tarefas de maneira eficiente:
+<!-- Para ajudar na organização deste processo, solicitamos que você escolha uma das seguintes labels ao criar a issue. Por favor, selecione a label mais apropriada para categorizar a  issue. Isso  ajudará a coordenar e priorizar as tarefas de maneira eficiente:
 - acervoredalint
 - diariosbr
 - doc
@@ -21,4 +21,4 @@ Para ajudar na organização deste processo, solicitamos que você escolha uma d
 
 /label ~"Insira a label aqui"
  
-/due YYYY-MM-DD (Defina a data de vencimento.)
+/due YYYY-MM-DD (Defina a data de vencimento.) -->
