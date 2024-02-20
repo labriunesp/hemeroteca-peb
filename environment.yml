@@ -9,4 +9,7 @@ dependencies:
   - numpy
   - ocrmypdf
   - fuzzywuzzy
+  - pip 
+  - pip:
+    - gitlab2zenodo
  
