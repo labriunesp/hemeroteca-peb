@@ -1,0 +1,9 @@
+{
+    'title': 'My first upload',
+    'upload_type': 'poster',
+    'description': 'This is my first upload',
+    'creators': [
+        {'name': 'Doe, John','affiliation': 'Zenodo'
+        }
+    ]
+}
