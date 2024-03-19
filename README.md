@@ -78,16 +78,16 @@ Para informações de configuração do ambiente virtual, [clique aqui](https://
 ### Etapa 01: Abrir o terminal
 
 
-
-
-<div align='center'>
-![Terminal](https://i.imgur.com/e7BPvav.gif)
+<div align="center">
+  <img src="https://i.imgur.com/e7BPvav.gif" width="900" />
 </div>
+
 
 ### Etapa 02: Abrir a pasta onde está o repositório 
 
-<div align='center'>
-![Pasta](https://i.imgur.com/3jlXsFO.gif)
+
+<div align="center">
+  <img src="https://i.imgur.com/3jlXsFO.gif" width="900" />
 </div>
 
 ### Etapa 03: Ativar o ambiente virtual
@@ -100,9 +100,6 @@ Vá a raiz do repositório. Em geral, a raiz do repositório é a pasta com o no
   <img src="https://i.imgur.com/c0RzCmw.gif" width="900" />
 </div>
 
-<div align='center'>
-![Pasta](https://i.imgur.com/c0RzCmw.gif)
-</div>
 
 ## Atividades
 
