@@ -79,7 +79,7 @@ Para informações de configuração do ambiente virtual, [clique aqui](https://
 
 
 <div align="center">
-  <img src="https://i.imgur.com/e7BPvav.gif" width="900" />
+  <img src="https://i.imgur.com/e7BPvav.gif" width="650" />
 </div>
 
 
@@ -87,7 +87,7 @@ Para informações de configuração do ambiente virtual, [clique aqui](https://
 
 
 <div align="center">
-  <img src="https://i.imgur.com/3jlXsFO.gif" width="900" />
+  <img src="https://i.imgur.com/3jlXsFO.gif" width="650" />
 </div>
 
 ### Etapa 03: Ativar o ambiente virtual
@@ -97,7 +97,7 @@ Vá a raiz do repositório. Em geral, a raiz do repositório é a pasta com o no
 ``` conda activate env_hemeroteca-peb ```
 
 <div align="center">
-  <img src="https://i.imgur.com/c0RzCmw.gif" width="900" />
+  <img src="https://i.imgur.com/c0RzCmw.gif" width="650" />
 </div>
 
 
