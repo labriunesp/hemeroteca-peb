@@ -1,0 +1,67 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Hemeroteca de Política Externa Brasileira (HPEB)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Rafael '
+    family-names: Almeida
+    email: ra.almeida@unesp.br
+    affiliation: UNESP
+    orcid: 'https://orcid.org/0000-0002-2144-0772'
+  - given-names: 'Thiago '
+    family-names: Vicino
+  - given-names: ' Ana Júlia '
+    family-names: Mota
+  - given-names: João Paulo
+    family-names: Cintra Silva
+  - given-names: ' Maria Fernanda'
+    family-names: Moura
+  - given-names: Bruna
+    family-names: Domingues
+identifiers:
+  - type: doi
+    value: 10.7910/DVN/V3S58Q
+    description: Harvard Dataverse
+  - type: doi
+    value: 10.7910/DVN/V3S58Q
+    description: zenodo
+repository-code: 'https://github.com/labriunesp/hemeroteca-peb'
+url: 'https://hemerotecapeb.lantri.org'
+abstract: >-
+  The Brazilian Foreign Policy Hemeroteca is a database that
+  contains a selection of articles published, from
+  05/11/1976 to 01/01/2011, by some Brazilian newspapers,
+  among which the following stand out: O Estado de S. Paulo
+  , Folha de S. Paulo and Gazeta Mercantil. The selection
+  and classification of news was carried out by professors
+  Tullo Vigevani (UNESP) and Shiguenoli Miyamoto (UNICAMP)
+  and the coordination of the digitization and availability
+  project was carried out by professor Marcelo Passini
+  Mariano (UNESP). The digitization work began in 2002, at a
+  time when digital materials were scarce, and continued
+  until 2011, when digital materials became widely
+  accessible. The objective of this Hemeroteca is to allow
+  interested researchers access to news that was selected
+  and classified over the indicated period on important
+  events relating to Brazil's international relations. With
+  approximately 30,000 news items covering various topics
+  relating to Brazil's foreign policy, this News Library is
+  divided into 13 themes: Brazil - Africa; Brazil - Latin
+  America; Brazil - Asia; Brazil - Middle East; Brazil -
+  Europe; Brazil - Argentina; Brazil - United States;
+  Brazilian Foreign Trade Policy; Brazil - International
+  Economy; Brazil - Environment; Brazil - IT and Copyright;
+  Brazil - Subnational Governments; Gazeta Mercantil
+  Collection – Special Numbers. (2024-03-05)
+keywords:
+  - Brazilian foreign policy
+  - international relations of Brazil
+license: MIT
+commit: f8ab85c6ffac26d973039ebf17e9daa4888e978a
+version: v.1.0.0
+date-released: '2024-03-26'
