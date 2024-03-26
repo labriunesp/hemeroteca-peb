@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10884093.svg)](https://doi.org/10.5281/zenodo.10884093)
+
+[![](<https://img.shields.io/badge/Dataverse DOI-https://doi.org/10.7910/DVN/V3S58Q-orange>)](https://www.doi.org/https://doi.org/10.7910/DVN/V3S58Q)
+
 # Hemeroteca de Política Externa Brasileira
 
 <div align="center">
